@@ -1,0 +1,4207 @@
+team_name,team_id,team_country,team_league
+Vejle Boldklub,443,Denmark,1.Division
+Znamya Truda Orekhovo-Zuevo,12444,Russia,1.Division
+FK Chelyabinsk,23110,Russia,1.Division
+Energia Volzhsky (-2014),12066,Russia,1.Division
+Zenit St. Petersburg,964,Russia,1.Division
+Kuban Krasnodar (-2018),2439,Russia,1.Division
+Amur Blagoveschensk (-2009),12040,Russia,1.Division
+Torpedo Taganrog ( - 2004),82456,Russia,1.Division
+Sibir Novosibirsk (- 2019),10688,Russia,1.Division
+Fakel Voronezh,1124,Russia,1.Division
+FK Tyumen,12054,Russia,1.Division
+Baltika Kaliningrad,2741,Russia,1.Division
+FK Anapa,73702,Russia,1.Division
+Avtodor Vladikavkaz,6405,Russia,1.Division
+Rubin Kazan,2698,Russia,1.Division
+Uralets Nizhniy Tagil,6430,Russia,1.Division
+Zarya Leninsk-Kuznetskiy,12442,Russia,1.Division
+Torpedo Vladimir,12065,Russia,1.Division
+Dinamo Vologda (-2014),13640,Russia,1.Division
+Olymp Kislovodsk,22805,Russia,1.Division
+APK Morozovsk,85725,Russia,1.Division
+Nart Cherkessk,15122,Russia,1.Division
+Chernomorets Novorossijsk,5287,Russia,1.Division
+UOR-SShOR Yoshkar-Ola,45323,Russia,1.Division
+Spartak Ryazan (- 2000),96640,Russia,1.Division
+FK Chita (-2022),12049,Russia,1.Division
+Shinnik Yaroslavl,2374,Russia,1.Division
+Akhmat Grozny,3725,Russia,1.Division
+Iskenderunspor (- 2007),66622,Turkey,1.Lig
+Göztepe,1467,Turkey,1.Lig
+Boluspor,3207,Turkey,1.Lig
+Erzurumspor,1766,Turkey,1.Lig
+Akcaabat Sebatspor,1511,Turkey,1.Lig
+Ispartaspor,11095,Turkey,1.Lig
+Bandirmaspor,20760,Turkey,1.Lig
+Mudurnuspor,23681,Turkey,1.Lig
+Balikesirspor,20698,Turkey,1.Lig
+Antalyaspor,589,Turkey,1.Lig
+Tarsus Idman Yurdu,12399,Turkey,1.Lig
+Orduspor,2323,Turkey,1.Lig
+Gaziosmanpasa,2324,Turkey,1.Lig
+Adana Demirspor,3840,Turkey,1.Lig
+Manisaspor,1267,Turkey,1.Lig
+Caykur Rizespor,126,Turkey,1.Lig
+Adanaspor,6,Turkey,1.Lig
+Inegölspor,2319,Turkey,1.Lig
+Istanbulspor,924,Turkey,1.Lig
+Zeytinburnuspor,5745,Turkey,1.Lig
+Siirtspor,1291,Turkey,1.Lig
+Samsunspor,152,Turkey,1.Lig
+Muglaspor,2378,Turkey,1.Lig
+Kahramanmarasspor,12452,Turkey,1.Lig
+Fortuna Düsseldorf,38,Germany,2. Bundesliga
+MSV Duisburg,52,Germany,2. Bundesliga
+SV Waldhof Mannheim,85,Germany,2. Bundesliga
+Stuttgarter Kickers,71,Germany,2. Bundesliga
+SC Freiburg,60,Germany,2. Bundesliga
+FC Hansa Rostock,30,Germany,2. Bundesliga
+Hertha BSC,44,Germany,2. Bundesliga
+Eintracht Braunschweig,23,Germany,2. Bundesliga
+Wuppertaler SV,299,Germany,2. Bundesliga
+VfB Leipzig (- 2004),10848,Germany,2. Bundesliga
+FC 08 Homburg,459,Germany,2. Bundesliga
+FC Remscheid,662,Germany,2. Bundesliga
+1.FSV Mainz 05,39,Germany,2. Bundesliga
+VfB Oldenburg,166,Germany,2. Bundesliga
+SV Spittal/Drau,414,Austria,2. Liga
+CD Numancia,2296,Spain,2ª B - Grupo II
+RZ Deportivo Aragón,8384,Spain,2ª B - Grupo II
+CD Logroñés B (- 2000),64888,Spain,2ª B - Grupo II
+CE L'Hospitalet,9477,Spain,2ª B - Grupo III
+Real Murcia CF,171,Spain,2ª B - Grupo III
+UD Las Palmas,472,Spain,2ª B - Grupo IV
+Real Balompédica Linense,12605,Spain,2ª B - Grupo IV
+Sevilla Atlético,8519,Spain,2ª B - Grupo IV
+Batman Petrolspor,3211,Turkey,3.Lig Grup 1
+Pazarspor,9197,Turkey,3.Lig Grup 2
+Bayburtspor,37946,Turkey,3.Lig Grup 2
+Erzincanspor,12345,Turkey,3.Lig Grup 2
+Bulancakspor,14998,Turkey,3.Lig Grup 2
+Sekerspor,5743,Turkey,3.Lig Grup 4
+Bayern Munich,27,Germany,Bundesliga
+Eintracht Frankfurt,24,Germany,Bundesliga
+VfB Stuttgart,79,Germany,Bundesliga
+FC Wacker Innsbruck,2444,Austria,Bundesliga
+1.FC Kaiserslautern,2,Germany,Bundesliga
+Borussia Dortmund,16,Germany,Bundesliga
+Hamburger SV,41,Germany,Bundesliga
+FC Schalke 04,33,Germany,Bundesliga
+Karlsruher SC,48,Germany,Bundesliga
+Bayer 04 Leverkusen,15,Germany,Bundesliga
+SG Wattenscheid 09,97,Germany,Bundesliga
+SV Werder Bremen,86,Germany,Bundesliga
+1.FC Nuremberg,4,Germany,Bundesliga
+SG Dynamo Dresden,129,Germany,Bundesliga
+Rapid Vienna,170,Austria,Bundesliga
+1. FC Köln,3,Germany,Bundesliga
+Bayer 05 Uerdingen,95,Germany,Bundesliga
+1.FC Saarbrücken,1,Germany,Bundesliga
+VfL Bochum,80,Germany,Bundesliga
+Borussia Mönchengladbach,18,Germany,Bundesliga
+FC La Chaux-de-Fonds,2055,Switzerland,Challenge League
+Sheffield United,350,England,Championship
+Hutnik Krakow,530,Poland,Ekstraklasa
+Zaglebie Lubin,168,Poland,Ekstraklasa
+Pogon Szczecin,324,Poland,Ekstraklasa
+Siarka Tarnobrzeg,711,Poland,Ekstraklasa
+Jagiellonia Bialystok,2300,Poland,Ekstraklasa
+GKS Katowice,6456,Poland,Ekstraklasa
+Lech Poznan,238,Poland,Ekstraklasa
+Zawisza Bydgoszcz,7153,Poland,Ekstraklasa
+IK Start,267,Norway,Eliteserien
+Rosenborg BK,195,Norway,Eliteserien
+Lillestrøm SK,353,Norway,Eliteserien
+Feyenoord Rotterdam,234,Netherlands,Eredivisie
+Ajax Amsterdam,610,Netherlands,Eredivisie
+PSV Eindhoven,383,Netherlands,Eredivisie
+Twente Enschede FC,317,Netherlands,Eredivisie
+FC Den Bosch,404,Netherlands,Eredivisie
+Fortuna Sittard,385,Netherlands,Eredivisie
+FC Dordrecht,1455,Netherlands,Eredivisie
+RKC Waalwijk,235,Netherlands,Eredivisie
+Roda JC Kerkrade,192,Netherlands,Eredivisie
+SC Cambuur-Leeuwarden,133,Netherlands,Eredivisie
+Sparta Rotterdam,468,Netherlands,Eredivisie
+MVV Maastricht,384,Netherlands,Eredivisie
+Vitesse Arnhem,499,Netherlands,Eredivisie
+FC Volendam,724,Netherlands,Eredivisie
+Dordrecht'90,1455,Netherlands,Eredivisie
+FC Utrecht,200,Netherlands,Eredivisie
+FC Groningen,202,Netherlands,Eredivisie
+RSC Anderlecht,58,Belgium,Jupiler Pro League
+Standard Liège,3057,Belgium,Jupiler Pro League
+Beerschot AC,566,Belgium,Jupiler Pro League
+KV Mechelen,354,Belgium,Jupiler Pro League
+KSK Beveren (- 2010),1073,Belgium,Jupiler Pro League
+Lierse SK (- 2018),204,Belgium,Jupiler Pro League
+RWD Molenbeek (- 2002),2973,Belgium,Jupiler Pro League
+RFC Lüttich,3159,Belgium,Jupiler Pro League
+Royal Antwerp FC,1096,Belgium,Jupiler Pro League
+Boom FC,57299,Belgium,Jupiler Pro League
+KSV Waregem (- 2001),2456,Belgium,Jupiler Pro League
+KSC Lokeren (- 2020),498,Belgium,Jupiler Pro League
+RSC Charleroi,172,Belgium,Jupiler Pro League
+KAA Gent,157,Belgium,Jupiler Pro League
+Club Brugge KV,2282,Belgium,Jupiler Pro League
+Cercle Brugge ,520,Belgium,Jupiler Pro League
+Germinal Ekeren,566,Belgium,Jupiler Pro League
+RC Liège,3159,Belgium,Jupiler Pro League
+Seongnam FC,3610,"Korea, South",K League 1
+FC Eindhoven,3892,Netherlands,Keuken Kampioen Divisie
+PEC Zwolle,1269,Netherlands,Keuken Kampioen Divisie
+FC Emmen,1283,Netherlands,Keuken Kampioen Divisie
+Heracles Almelo,1304,Netherlands,Keuken Kampioen Divisie
+VVV-Venlo,1426,Netherlands,Keuken Kampioen Divisie
+De Graafschap Doetinchem,642,Netherlands,Keuken Kampioen Divisie
+Helmond Sport,500,Netherlands,Keuken Kampioen Divisie
+SC Telstar,1434,Netherlands,Keuken Kampioen Divisie
+SC Veendam (- 2013),1284,Netherlands,Keuken Kampioen Divisie
+Excelsior Rotterdam,798,Netherlands,Keuken Kampioen Divisie
+NAC Breda,132,Netherlands,Keuken Kampioen Divisie
+Real Zaragoza,142,Spain,LaLiga
+Valencia CF,1049,Spain,LaLiga
+RCD Espanyol Barcelona,714,Spain,LaLiga
+Real Madrid,418,Spain,LaLiga
+Cádiz CF,2687,Spain,LaLiga
+FC Barcelona,131,Spain,LaLiga
+Sporting Gijón,2448,Spain,LaLiga
+CD Logroñés,236,Spain,LaLiga
+Athletic Bilbao,621,Spain,LaLiga
+Sevilla FC,368,Spain,LaLiga
+Real Oviedo,2497,Spain,LaLiga
+Atlético de Madrid,13,Spain,LaLiga
+Real Sociedad,681,Spain,LaLiga
+CA Osasuna,331,Spain,LaLiga
+Rayo Vallecano,367,Spain,LaLiga
+CD Tenerife,648,Spain,LaLiga
+RCD Español,714,Spain,LaLiga
+Deportivo de La Coruña,897,Spain,LaLiga
+AD Rayo Vallecano,367,Spain,LaLiga
+Celta de Vigo,940,Spain,LaLiga
+Albacete Balompié,1532,Spain,LaLiga
+Real Valladolid CF,366,Spain,LaLiga2
+CE Sabadell FC,11422,Spain,LaLiga2
+SD Compostela,2855,Spain,LaLiga2
+UE Lleida (- 2011),3239,Spain,LaLiga2
+Club Atlético Marbella (- 1997),42872,Spain,LaLiga2
+CP Mérida,38011,Spain,LaLiga2
+UE Figueres,42903,Spain,LaLiga2
+RCD Mallorca,237,Spain,LaLiga2
+Avezzano Calcio,4028,Italy,Lega Pro 2 - B
+Rimini FC,4111,Italy,Lega Pro 2 - B
+SL Benfica,294,Portugal,Liga Portugal
+Sporting CP,336,Portugal,Liga Portugal
+FC Famalicão,3329,Portugal,Liga Portugal
+Gil Vicente FC,2424,Portugal,Liga Portugal
+Rio Ave FC,2425,Portugal,Liga Portugal
+Olympique Marseille,244,France,Ligue 1
+Olympique Lyon,1041,France,Ligue 1
+AS Monaco,162,Monaco,Ligue 1
+FC Nantes,995,France,Ligue 1
+Montpellier HSC,969,France,Ligue 1
+RC Lens,826,France,Ligue 1
+FC Metz,347,France,Ligue 1
+AJ Auxerre,290,France,Ligue 1
+Sporting Club de Toulon,494,France,Ligue 1
+FC Sochaux-Montbéliard,750,France,Ligue 1
+FC Toulouse,415,France,Ligue 1
+Paris Saint-Germain,583,France,Ligue 1
+SM Caen,1162,France,Ligue 1
+RC Strasbourg Alsace,667,France,Ligue 1
+AC Le Havre,738,France,Ligue 1
+FC Girondins Bordeaux,40,France,Ligue 1
+AS Saint-Étienne,618,France,Ligue 1
+LOSC Lille,1082,France,Ligue 1
+AS Monaco,162,France,Ligue 1
+Nîmes Olympique,1160,France,Ligue 1
+US Valenciennes-Anzin Arrondissement,1423,France,Ligue 1
+Sporting Club de Toulon et du Var,494,France,Ligue 1
+Stade Rennais FC,273,France,Ligue 2
+CS Sedan-Ardennes,1081,France,Ligue 2
+AS Cannes,895,France,Ligue 2
+LB Châteauroux,1175,France,Ligue 2
+AS Nancy-Lorraine,1159,France,Ligue 2
+FC Martigues,1165,France,Ligue 2
+Tours FC,3161,France,Ligue 2
+FC Annecy,30204,France,Ligue 2
+OGC Nice,417,France,Ligue 2
+Canet Roussillon FC,8950,France,Ligue 2
+FC Gueugnon,1397,France,Ligue 2
+Red Star FC,1154,France,Ligue 2
+FC Lorient,1158,France,Ligue 2
+Istres Football Club,2580,France,Ligue 2
+La Roche Vendée Football,3541,France,Ligue 2
+USL Dunkerque,9202,France,Ligue 2
+Bourges 18 (- 2021),3549,France,Ligue 2
+Louhans-Cuiseaux FC,619,France,Ligue 2
+Angers SCO,1420,France,Ligue 2
+Olympique Alès,2618,France,Ligue 2
+Rodez AF,11273,France,Ligue 2
+Budapest Honvéd FC,709,Hungary,NB I.
+Vác FC,213,Hungary,NB I.
+Újpest FC,708,Hungary,NB I.
+ETO FC Győr ,6055,Hungary,NB I.
+Nyíregyháza Spartacus,6058,Hungary,NB I.
+BFC Dynamo,222,Germany,NOFV-Oberliga Nord
+FC Augsburg,167,Germany,Oberliga Bayern
+SV Viktoria Aschaffenburg,565,Germany,Oberliga Hessen
+SV Wehen Wiesbaden,108,Germany,Oberliga Hessen
+SV Lurup,1240,Germany,Oberliga Nord
+Alemannia Aachen,8,Germany,Oberliga Nordrhein
+Preußen Krefeld,4124,Germany,Oberliga Nordrhein
+Leeds United,399,England,Premier League
+Aston Villa,405,England,Premier League
+Everton FC,29,England,Premier League
+Arsenal FC,11,England,Premier League
+Blackburn Rovers,164,England,Premier League
+Southampton FC,180,England,Premier League
+Liverpool FC,31,England,Premier League
+Chelsea FC,631,England,Premier League
+Tottenham Hotspur,148,England,Premier League
+Manchester United,985,England,Premier League
+Norwich City,1123,England,Premier League
+Crystal Palace,873,England,Premier League
+Nottingham Forest,703,England,Premier League
+Middlesbrough FC,641,England,Premier League
+Coventry City,990,England,Premier League
+Manchester City,281,England,Premier League
+Oldham Athletic,1078,England,Premier League
+Milton Keynes Dons,991,England,Premier League
+Sheffield Wednesday,1035,England,Premier League
+Sheffield United,350,England,Premier League
+Ipswich Town,677,England,Premier League
+CSKA Moscow,2410,Russia,Premier Liga
+Dynamo Kyiv,338,Ukraine,Premier Liga
+Dynamo Moscow,121,Russia,Premier Liga
+Shakhtar Donetsk,660,Ukraine,Premier Liga
+Chornomorets Odessa,6992,Ukraine,Premier Liga
+Lokomotiv Moscow,932,Russia,Premier Liga
+Rotor Volgograd,3609,Russia,Premier Liga
+Ural Yekaterinburg,11127,Russia,Premier Liga
+Krylya Sovetov Samara,2696,Russia,Premier Liga
+Zorya Lugansk,10690,Ukraine,Premier Liga
+Nyva Ternopil,2712,Ukraine,Premier Liga
+Lokomotiv Nizhniy Novgorod,2693,Russia,Premier Liga
+Torpedo Moscow,1186,Russia,Premier Liga
+SK Tavriya Simferopol,2227,Ukraine,Premier Liga
+Asmaral Moscow (- 2006),12042,Russia,Premier Liga
+Spartak Moscow,232,Russia,Premier Liga
+Spartak Vladikavkaz (-2020),2703,Russia,Premier Liga
+Dnipro Dnipropetrovsk (-2020),339,Ukraine,Premier Liga
+Ocean Nakhodka,12058,Russia,Premier Liga
+Zenit St. Petersburg,964,Russia,Premier Liga
+FK Tyumen,12054,Russia,Premier Liga
+Metalurg Zaporizhya (-2016),6994,Ukraine,Premier Liga
+NK Veres Rivne,26459,Ukraine,Premier Liga
+Kuban Krasnodar (-2018),2439,Russia,Premier Liga
+KamAZ Naberezhnye Chelny,3243,Russia,Premier Liga
+Dinamo Stavropol,12045,Russia,Premier Liga
+Dinamo Moscow,121,Russia,Premier Liga
+Tekstilshchik Kamyshin,12435,Russia,Premier Liga
+Spartak Vladikavkaz,2703,Russia,Premier Liga
+Torpedo Moskau,1186,Russia,Premier Liga
+Uralmash Ekaterinburg,11127,Russia,Premier Liga
+Zhemchuzhina Sochi,6441,Russia,Premier Liga
+Rostselmash Rostov,1083,Russia,Premier Liga
+ACF Fiorentina,430,Italy,Serie A
+Inter Milan,46,Italy,Serie A
+SS Lazio,398,Italy,Serie A
+AS Roma,12,Italy,Serie A
+UC Sampdoria,1038,Italy,Serie A
+SSC Napoli,6195,Italy,Serie A
+Torino FC,416,Italy,Serie A
+Genoa CFC,252,Italy,Serie A
+Atalanta BC,800,Italy,Serie A
+Brescia Calcio,19,Italy,Serie A
+Juventus FC,506,Italy,Serie A
+Calcio Foggia 1920,704,Italy,Serie A
+Cagliari Calcio,1390,Italy,Serie A
+Udinese Calcio,410,Italy,Serie A
+US Ancona,1388,Italy,Serie A
+AC Milan,5,Italy,Serie A
+Parma FC,130,Italy,Serie A
+Delfino Pescara 1936,2921,Italy,Serie A
+FC Internazionale,46,Italy,Serie A
+Foggia Calcio,704,Italy,Serie A
+Genoa 1893,252,Italy,Serie A
+Pisa Sporting Club,4172,Italy,Serie B
+US Lecce,1005,Italy,Serie B
+AS Bari,332,Italy,Serie B
+Taranto FC 1927,4093,Italy,Serie B
+Venezia FC,607,Italy,Serie B
+Bologna FC 1909,1025,Italy,Serie B
+Modena FC,1385,Italy,Serie B
+Ascoli Calcio,408,Italy,Serie B
+Cosenza Calcio,4031,Italy,Serie B
+Ternana Calcio,1103,Italy,Serie B
+AC Reggiana,5621,Italy,Serie B
+Hellas Verona,276,Italy,Serie B
+Lucchese 1905,1253,Italy,Serie B
+US Cremonese,2239,Italy,Serie B
+AC Monza,2919,Italy,Serie B
+Piacenza Calcio 1919,1408,Italy,Serie B
+LR Vicenza,2655,Italy,Serie C - A
+AS Sambenedettese,4330,Italy,Serie C - A
+Como Calcio,1047,Italy,Serie C - A
+Spezia Calcio,3522,Italy,Serie C - A
+Pro Sesto 1913,2254,Italy,Serie C - A
+Società Calcio Leffe,25265,Italy,Serie C - A
+Pro Palazzolo,4552,Italy,Serie C - A
+US Massese 1919,4113,Italy,Serie C - A
+SSD Ischia Calcio,22330,Italy,Serie C - B
+Casertana FC,4106,Italy,Serie C - B
+Barletta 1922,5585,Italy,Serie C - B
+US Salernitana,380,Italy,Serie C - B
+Reggina Calcio,1386,Italy,Serie C - B
+Palermo FC,458,Italy,Serie C - B
+AS Lodigiani,4086,Italy,Serie C - B
+Catania SSD,1627,Italy,Serie C - B
+US Avellino 1912,2331,Italy,Serie C - B
+Chieti Calcio,5543,Italy,Serie C - B
+FC Lausanne-Sport,527,Switzerland,Super League
+FC Sion,321,Switzerland,Super League
+Olympiacos Piraeus,683,Greece,Super League 1
+Bröndby IF,206,Denmark,Superligaen
+Lyngby BK,369,Denmark,Superligaen
+FC Copenhagen,190,Denmark,Superligaen
+Aalborg BK,1053,Denmark,Superligaen
+Galatasaray,141,Turkey,Süper Lig
+Bursaspor,20,Turkey,Süper Lig
+Genclerbirligi Ankara,820,Turkey,Süper Lig
+Aydinspor,45468,Turkey,Süper Lig
+Altay SK,2375,Turkey,Süper Lig
+Karsiyaka,2330,Turkey,Süper Lig
+Konyaspor,2293,Turkey,Süper Lig
+Kayseri Erciyesspor,6894,Turkey,Süper Lig
+Gaziantepspor,524,Turkey,Süper Lig
+Fenerbahce,36,Turkey,Süper Lig
+Trabzonspor,449,Turkey,Süper Lig
+Besiktas JK,114,Turkey,Süper Lig
+MKE Ankaragücü,868,Turkey,Süper Lig
+Sariyer,518,Turkey,Süper Lig
+Bakirköyspor,3202,Turkey,Süper Lig
+Kocaelispor,120,Turkey,Süper Lig
+CA Boca Juniors,189,Argentina,Torneo Inicial
+Club Atlético Platense,928,Argentina,Torneo Inicial
+CA Vélez Sarsfield,1029,Argentina,Torneo Inicial
+Racing Club,1444,Argentina,Torneo Inicial
+Myllykosken Pallo -47,2688,Finland,Veikkausliiga
+Dnepr Mogilev,4394,Belarus,Vysheyshaya Liga
+Dinamo Minsk,1180,Belarus,Vysheyshaya Liga
+Rechitsa 2014 (- 2019),24202,Belarus,Vysheyshaya Liga
+Torpedo Mogilev (- 2016) ,33854,Belarus,Vysheyshaya Liga
+Asmaral Moscow (- 2006),12042,Russia,1.Division
+FK Rostov,1083,Russia,1.Division
+Tekstilshchik Ivanovo,11125,Russia,1.Division
+Zvezda Perm ( -2022),6434,Russia,1.Division
+Ocean Nakhodka,12058,Russia,1.Division
+Druzhba Maikop,12048,Russia,1.Division
+Luch Vladivostok,4057,Russia,1.Division
+FK Krasnoznamensk,15121,Russia,1.Division
+Sokol Saratov,3834,Russia,1.Division
+Bakirköyspor,3202,Turkey,1.Lig
+Sakaryaspor,2463,Turkey,1.Lig
+Basaksehir FK,6890,Turkey,1.Lig
+Kartalspor,1204,Turkey,1.Lig
+Aydinspor,45468,Turkey,1.Lig
+Konyaspor,2293,Turkey,1.Lig
+Malatyaspor,1264,Turkey,1.Lig
+Denizlispor,833,Turkey,1.Lig
+Vanspor,40181,Turkey,1.Lig
+Hatayspor,7775,Turkey,1.Lig
+Ayvalikgücü Belediyespor,39798,Turkey,1.Lig
+Fener Spor,45132,Turkey,1.Lig
+Corumspor,20681,Turkey,1.Lig
+Petrolofisi,23766,Turkey,1.Lig
+Mersin Talimyurdu SK,3216,Turkey,1.Lig
+Eyüpspor,7160,Turkey,1.Lig
+Rot-Weiss Essen,56,Germany,2. Bundesliga
+KFC Uerdingen 05,95,Germany,2. Bundesliga
+1.FC Saarbrücken,1,Germany,2. Bundesliga
+VfL Bochum,80,Germany,2. Bundesliga
+Chemnitzer FC,21,Germany,2. Bundesliga
+Grazer AK 1902,316,Austria,2. Liga
+CD Basconia,6665,Spain,2ª B - Grupo II
+CA Osasuna Promesas,8516,Spain,2ª B - Grupo II
+Real Valladolid Promesas,7078,Spain,2ª B - Grupo II
+UE Figueres,42903,Spain,2ª B - Grupo III
+AEC Manlleu,25739,Spain,2ª B - Grupo III
+Trabzon Telekomspor,73637,Turkey,3.Lig Grup 2
+Caykur Rizespor,126,Turkey,3.Lig Grup 2
+Kahramanmarasspor,12452,Turkey,3.Lig Grup 3
+Silifkespor,46627,Turkey,3.Lig Grup 3
+Ankara Emniyetspor,74456,Turkey,3.Lig Grup 4
+Africa Sports,2936,Cote d'Ivoire,Africa Sports
+SK Vorwärts Steyr,1521,Austria,Bundesliga
+FC Admira Wacker Mödling,503,Austria,Bundesliga
+Austria Vienna,14,Austria,Bundesliga
+VfB Leipzig (- 2004),10848,Germany,Bundesliga
+MSV Duisburg,52,Germany,Bundesliga
+VfB Mödling,25598,Austria,Bundesliga
+SC Freiburg,60,Germany,Bundesliga
+Wisla Kraków,422,Poland,Ekstraklasa
+Górnik Zabrze,428,Poland,Ekstraklasa
+Polonia Warsaw,2745,Poland,Ekstraklasa
+Legia Warszawa,255,Poland,Ekstraklasa
+Viking FK,239,Norway,Eliteserien
+Molde FK,687,Norway,Eliteserien
+SK Brann,1100,Norway,Eliteserien
+Go Ahead Eagles,1435,Netherlands,Eredivisie
+NAC Breda,132,Netherlands,Eredivisie
+VVV-Venlo,1426,Netherlands,Eredivisie
+SC Heerenveen,306,Netherlands,Eredivisie
+Slovan Bratislava,540,Slovakia,Fortuna Liga
+Tokyo Verdy,3734,Japan,J1 - 2nd Stage
+KFC Lommel SK (- 2003),718,Belgium,Jupiler Pro League
+KRC Genk,1184,Belgium,Jupiler Pro League
+RFC Seraing (- 1996),54426,Belgium,Jupiler Pro League
+Pohang Steelers,311,"Korea, South",K League 1
+Busan IPark,2582,"Korea, South",K League 1
+HFC Haarlem (- 2009),643,Netherlands,Keuken Kampioen Divisie
+Fortuna Sittard,385,Netherlands,Keuken Kampioen Divisie
+FC Den Bosch,404,Netherlands,Keuken Kampioen Divisie
+ADO Den Haag,1268,Netherlands,Keuken Kampioen Divisie
+TOP Oss,1228,Netherlands,Keuken Kampioen Divisie
+FC Dordrecht,1455,Netherlands,Keuken Kampioen Divisie
+NEC Nijmegen,467,Netherlands,Keuken Kampioen Divisie
+Real Valladolid CF,366,Spain,LaLiga
+Racing Santander,630,Spain,LaLiga
+UE Lleida,3239,Spain,LaLiga
+Real Valladolid Deportivo,366,Spain,LaLiga
+Cádiz CF,2687,Spain,LaLiga2
+CD Badajoz,2923,Spain,LaLiga2
+RCD Espanyol Barcelona,714,Spain,LaLiga2
+Hércules CF,7971,Spain,LaLiga2
+CD Toledo,2929,Spain,LaLiga2
+Real Murcia CF,171,Spain,LaLiga2
+CD Castellón,2502,Spain,LaLiga2
+Palamós CF,10744,Spain,LaLiga2
+Alma Juventus Fano 1906,5615,Italy,Lega Pro 2 - B
+ASD Vastese Calcio 1902,7409,Italy,Lega Pro 2 - B
+AC Sporting Cecina,27001,Italy,Lega Pro 2 - B
+Boavista FC,2503,Portugal,Liga Portugal
+CF Estrela Amadora SAD,2431,Portugal,Liga Portugal
+Vitória Guimarães SC,2420,Portugal,Liga Portugal
+SC Braga,1075,Portugal,Liga Portugal
+SC Salgueiros,2434,Portugal,Liga Portugal
+FC Paços de Ferreira,2995,Portugal,Liga Portugal
+CS Marítimo,1301,Portugal,Liga Portugal
+FC Porto,720,Portugal,Liga Portugal
+SC Beira-Mar,1436,Portugal,Liga Portugal
+CF Os Belenenses,68608,Portugal,Liga Portugal
+GD Estoril Praia,1465,Portugal,Liga Portugal
+Hapoel Haifa,810,Israel,Ligat ha'Al
+Hapoel Tel Aviv,1017,Israel,Ligat ha'Al
+FC Martigues,1165,France,Ligue 1
+Angers SCO,1420,France,Ligue 1
+AS Cannes,895,France,Ligue 1
+Nîmes Olympique,1160,France,Ligue 2
+Valenciennes FC,1423,France,Ligue 2
+AS Beauvais Oise,3135,France,Ligue 2
+Chamois Niortais FC,1161,France,Ligue 2
+FC Mulhouse,1774,France,Ligue 2
+Le Mans FC,1164,France,Ligue 2
+Ferencvárosi TC,279,Hungary,NB I.
+Vasas FC,5378,Hungary,NB I.
+MTK Budapest,634,Hungary,NB I.
+FC Stahl Brandenburg,685,Germany,NOFV-Oberliga Nord
+SpVgg Unterhaching,66,Germany,Oberliga Bayern
+FC Starnberg,495,Germany,Oberliga Bayern
+FC Hessen Kassel (- 1998),38969,Germany,Oberliga Hessen
+SV Eintracht Haiger (- 2003),19596,Germany,Oberliga Hessen
+SC Borussia Fulda,597,Germany,Oberliga Hessen
+SV Darmstadt 98,105,Germany,Oberliga Hessen
+VfL Osnabrück,81,Germany,Oberliga Nord
+Fortuna Düsseldorf,38,Germany,Oberliga Nordrhein
+1.FC Bocholt,392,Germany,Oberliga Nordrhein
+West Ham United,379,England,Premier League
+Newcastle United,762,England,Premier League
+Swindon Town,352,England,Premier League
+Queens Park Rangers,1039,England,Premier League
+Metalist Kharkiv (- 2016),6414,Ukraine,Premier Liga
+FK Rostov,1083,Russia,Premier Liga
+Lada Togliatti,2705,Russia,Premier Liga
+Dinamo-Gazovik Tyumen,12054,Russia,Premier Liga
+US Lecce,1005,Italy,Serie A
+AC Reggiana,5621,Italy,Serie A
+US Cremonese,2239,Italy,Serie A
+Piacenza FC,1408,Italy,Serie A
+Delfino Pescara 1936,2921,Italy,Serie B
+ACF Fiorentina,430,Italy,Serie B
+Calcio Padova,3037,Italy,Serie B
+Ravenna FC,1105,Italy,Serie B
+Brescia Calcio,19,Italy,Serie B
+Palermo FC,458,Italy,Serie B
+US Ancona,1388,Italy,Serie B
+AC Cesena,1429,Italy,Serie B
+US Alessandria Calcio 1912,2721,Italy,Serie C - A
+Bologna FC 1909,1025,Italy,Serie C - A
+US Fiorenzuola 1922,4163,Italy,Serie C - A
+SPAL,2722,Italy,Serie C - A
+FC Empoli,749,Italy,Serie C - A
+Chievo Verona,862,Italy,Serie C - A
+AC Siena,1387,Italy,Serie C - B
+FC Aarau,116,Switzerland,Super League
+Grasshopper Club Zurich,504,Switzerland,Super League
+BSC Young Boys,452,Switzerland,Super League
+OFI Crete FC,653,Greece,Super League 1
+Doxa Dramas,3706,Greece,Super League 1
+Silkeborg IF,1177,Denmark,Superligaen
+Aarhus GF,678,Denmark,Superligaen
+Odense Boldklub,173,Denmark,Superligaen
+Naestved Boldklub,5091,Denmark,Superligaen
+Samsunspor,152,Turkey,Süper Lig
+Zeytinburnuspor,5745,Turkey,Süper Lig
+DC Karabükspor,1506,Turkey,Süper Lig
+CA River Plate,209,Argentina,Torneo Inicial
+FC Haka,1225,Finland,Veikkausliiga
+FK Stariye Dorogi,34004,Belarus,Vysheyshaya Liga
+Shakhter Soligorsk,10695,Belarus,Vysheyshaya Liga
+Dinamo Stavropol,12045,Russia,1.Division
+Torpedo Arzamas,20835,Russia,1.Division
+Lada Togliatti,2705,Russia,1.Division
+Kardemir Karabükspor,1506,Turkey,1.Lig
+Turgutluspor,1508,Turkey,1.Lig
+Edirnespor,22443,Turkey,1.Lig
+Kemerspor,2748,Turkey,1.Lig
+Sariyer,518,Turkey,1.Lig
+Sekerspor,5743,Turkey,1.Lig
+Karsiyaka,2330,Turkey,1.Lig
+Yeni Sincanspor,23828,Turkey,1.Lig
+Silifkespor,46627,Turkey,1.Lig
+Düzcespor,20333,Turkey,1.Lig
+Dardanelspor,1507,Turkey,1.Lig
+Corluspor,20707,Turkey,1.Lig
+Eskisehirspor,825,Turkey,1.Lig
+1.FC Nuremberg,4,Germany,2. Bundesliga
+FC St. Pauli,35,Germany,2. Bundesliga
+SG Wattenscheid 09,97,Germany,2. Bundesliga
+SC Fortuna Köln,92,Germany,2. Bundesliga
+Hannover 96,42,Germany,2. Bundesliga
+Gimnástica Torrelavega,12588,Spain,2ª B - Grupo II
+UDA Gramenet,8678,Spain,2ª B - Grupo III
+Córdoba CF,993,Spain,2ª B - Grupo IV
+Real Jaén CF,666,Spain,2ª B - Grupo IV
+Ünyespor,11110,Turkey,3.Lig Grup 2
+Iskenderunspor (- 2007),66622,Turkey,3.Lig Grup 3
+Ankara Demirspor,12524,Turkey,3.Lig Grup 4
+Polatlispor,45314,Turkey,3.Lig Grup 4
+Türk Telekomspor,1518,Turkey,3.Lig Grup 4
+TSV 1860 Munich,72,Germany,Bundesliga
+KFC Uerdingen 05,95,Germany,Bundesliga
+Warta Poznan,7146,Poland,Ekstraklasa
+Sokol Pniewy,21281,Poland,Ekstraklasa
+Ruch Chorzow,318,Poland,Ekstraklasa
+Olimpia Poznan,4895,Poland,Ekstraklasa
+NEC Nijmegen,467,Netherlands,Eredivisie
+Dinamo Tbilisi,663,Georgia,Erovnuli Liga (bis 2016/17)
+Metalurgi Rustavi,5155,Georgia,Erovnuli Liga (bis 2016/17)
+Iveria Khashuri,37009,Georgia,Erovnuli Liga (bis 2016/17)
+FC Kolkheti-1913 Poti,28971,Georgia,Erovnuli Liga (bis 2016/17)
+Panachaiki GE,1837,Greece,Football League
+PS Kalamata,9,Greece,Football League
+SK Slavia Prague,62,Czech Republic,Fortuna Liga
+JEF United Chiba,672,Japan,J1 - 2nd Stage
+Sint-Truidense VV,475,Belgium,Jupiler Pro League
+KV Oostende,2861,Belgium,Jupiler Pro League
+SC Cambuur-Leeuwarden,133,Netherlands,Keuken Kampioen Divisie
+RBC Roosendaal,1227,Netherlands,Keuken Kampioen Divisie
+AZ Alkmaar,1090,Netherlands,Keuken Kampioen Divisie
+Real Betis Balompié,150,Spain,LaLiga
+SD Compostela,2855,Spain,LaLiga
+CA Osasuna,331,Spain,LaLiga2
+CD Leganés,1244,Spain,LaLiga2
+Rayo Vallecano,367,Spain,LaLiga2
+Villarreal CF,1050,Spain,LaLiga2
+Vitória Setúbal FC,1085,Portugal,Liga Portugal
+CF União Madeira,976,Portugal,Liga Portugal
+SC Farense,4294,Portugal,Liga Portugal
+GD Chaves,3325,Portugal,Liga Portugal
+União de Leiria,2639,Portugal,Liga Portugal
+Maccabi Tel Aviv,119,Israel,Ligat ha'Al
+Maccabi Herzliya,8907,Israel,Ligat ha'Al
+Beitar Jerusalem,3793,Israel,Ligat ha'Al
+Hapoel Tzafririm Holon,14792,Israel,Ligat ha'Al
+Maccabi Haifa,1064,Israel,Ligat ha'Al
+Maccabi Petah Tikva,3785,Israel,Ligat ha'Al
+Stade Rennais FC,273,France,Ligue 1
+OGC Nice,417,France,Ligue 1
+SC Bastia,595,France,Ligue 1
+Olympique Marseille,244,France,Ligue 2
+FC Toulouse,415,France,Ligue 2
+Stade Lavallois,1080,France,Ligue 2
+Olympique de Valence,1424,France,Ligue 2
+Lichterfelder FC Berlin,547,Germany,NOFV-Oberliga Nord
+Leicester City,1003,England,Premier League
+Zamalek SC,664,Egypt,Premier League
+FK Nyva Vinnytsya,20423,Ukraine,Premier Liga
+Kremin Kremenchuk,13017,Ukraine,Premier Liga
+Chernomorets Novorossijsk,5287,Russia,Premier Liga
+KamAZ-Chally Naberezhnye Chelny,3243,Russia,Premier Liga
+Concordia Hamburg,1054,Germany,Regionalliga Nord
+Kickers Emden,139,Germany,Regionalliga Nord
+Stuttgarter Kickers,71,Germany,Regionalliga Süd
+SG Rot-Weiss Frankfurt,4514,Germany,Regionalliga Süd
+FC Augsburg,167,Germany,Regionalliga Süd
+FC Hessen Kassel (- 1998),38969,Germany,Regionalliga Süd
+SSV Ulm 1846,69,Germany,Regionalliga Süd
+SpVgg Unterhaching,66,Germany,Regionalliga Süd
+AS Bari,332,Italy,Serie A
+Calcio Padova,3037,Italy,Serie A
+US Salernitana,380,Italy,Serie B
+Udinese Calcio,410,Italy,Serie B
+Atalanta BC,800,Italy,Serie B
+Como Calcio,1047,Italy,Serie B
+LR Vicenza,2655,Italy,Serie B
+AC Perugia,839,Italy,Serie B
+Ravenna FC,1105,Italy,Serie C - A
+Modena FC,1385,Italy,Serie C - A
+US Pistoiese 1921,1307,Italy,Serie C - A
+Carrarese Calcio 1908,4159,Italy,Serie C - A
+AC Monza,2919,Italy,Serie C - A
+Sora Calcio 1907,4544,Italy,Serie C - B
+US Città di Pontedera,14888,Italy,Serie C - B
+FC Trapani 1905,4331,Italy,Serie C - B
+Neuchâtel Xamax FCS,625,Switzerland,Super League
+FC Basel 1893,26,Switzerland,Super League
+PAOK Thessaloniki,1091,Greece,Super League 1
+Hvidovre IF,1894,Denmark,Superligaen Releg.
+Esbjerg fB,3426,Denmark,Superligaen Releg.
+Brönshöj Boldklub,5866,Denmark,Superligaen Releg.
+Köge Boldklub,5766,Denmark,Superligaen Releg.
+Petrolofisi,23766,Turkey,Süper Lig
+Adana Demirspor,3840,Turkey,Süper Lig
+Denizlispor,833,Turkey,Süper Lig
+Vanspor,40181,Turkey,Süper Lig
+Antalyaspor,589,Turkey,Süper Lig
+AA Argentinos Juniors,1030,Argentina,Torneo Inicial
+Club Atlético Lanús,333,Argentina,Torneo Inicial
+CA Rosario Central,1418,Argentina,Torneo Inicial
+CA Independiente,1234,Argentina,Torneo Inicial
+CA Newell's Old Boys,1286,Argentina,Torneo Inicial
+Ilves Tampere,3189,Finland,Veikkausliiga
+Dynamo Brest,6131,Belarus,Vysheyshaya Liga
+FK Molodechno,24015,Belarus,Vysheyshaya Liga
+Neftekhimik Nizhnekamsk,3733,Russia,1.Division
+Smena-Saturn St. Petersburg,15170,Russia,1.Division
+Lokomotiv St. Petersburg,2699,Russia,1.Division
+Soyuz-Gazprom Izhevsk (-2011),6411,Russia,1.Division
+Sanliurfaspor,6630,Turkey,1.Lig
+Türk Telekomspor,1518,Turkey,1.Lig
+Diyarbakirspor,845,Turkey,1.Lig
+Buca Gelistirme Spor,2750,Turkey,1.Lig
+Alanyaspor,11282,Turkey,1.Lig
+SV Meppen,247,Germany,2. Bundesliga
+VfL Wolfsburg,82,Germany,2. Bundesliga
+SpVgg Unterhaching,66,Germany,2. Bundesliga
+Arminia Bielefeld,10,Germany,2. Bundesliga
+Sporting de Gijón B ,12331,Spain,2ª B - Grupo II
+CD Castellón,2502,Spain,2ª B - Grupo III
+Betis Deportivo Balompié,2865,Spain,2ª B - Grupo IV
+Van DSI Spor,69607,Turkey,3.Lig Grup 1
+Giresunspor,11688,Turkey,3.Lig Grup 2
+Osmaniyespor,12467,Turkey,3.Lig Grup 3
+Gaskispor,12383,Turkey,3.Lig Grup 3
+MKE Kirikkalespor,12390,Turkey,3.Lig Grup 4
+Nevsehirspor,3210,Turkey,3.Lig Grup 4
+Altindag Belediyesi Kizilcahamam Belediyespor,3857,Turkey,3.Lig Grup 4
+FC St. Pauli,35,Germany,Bundesliga
+Red Bull Salzburg,409,Austria,Bundesliga
+SK Sturm Graz,122,Austria,Bundesliga
+FC Hansa Rostock,30,Germany,Bundesliga
+Fortuna Düsseldorf,38,Germany,Bundesliga
+Widzew Lodz,88,Poland,Ekstraklasa
+Stal Mielec,22431,Poland,Ekstraklasa
+De Graafschap Doetinchem,642,Netherlands,Eredivisie
+FC Samtredia,2950,Georgia,Erovnuli Liga (bis 2016/17)
+FC Telavi,41310,Georgia,Erovnuli Liga (bis 2016/17)
+AC Sparta Prague,197,Czech Republic,Fortuna Liga
+SK Sigma Olomouc,2311,Czech Republic,Fortuna Liga
+FC Zbrojovka Brno,5225,Czech Republic,Fortuna Liga
+SC Eendracht Aalst,1111,Belgium,Jupiler Pro League
+KRC Zuid-West-Vlaanderen,2478,Belgium,Jupiler Pro League
+KSC Eendracht Aalst,1111,Belgium,Jupiler Pro League
+KRC Harelbeke,2478,Belgium,Jupiler Pro League
+Jeonnam Dragons,6503,"Korea, South",K League - 2nd Stage
+MVV Maastricht,384,Netherlands,Keuken Kampioen Divisie
+UD Salamanca,1087,Spain,LaLiga
+CP Mérida,38011,Spain,LaLiga
+CD Logroñés,236,Spain,LaLiga2
+Deportivo Alavés,1108,Spain,LaLiga2
+UD Almería,3302,Spain,LaLiga2
+Ternana Calcio,1103,Italy,Lega Pro 2 - B
+FC Tirsense,2459,Portugal,Liga Portugal
+Leça FC,3267,Portugal,Liga Portugal
+SC Campomaiorense (- 2001),59,Portugal,Liga Portugal
+FC Felgueiras ,1701,Portugal,Liga Portugal
+Beitar Tel Aviv Bat Yam,10763,Israel,Ligat ha'Al
+EA Guingamp,855,France,Ligue 1
+FC Gueugnon,1397,France,Ligue 1
+SM Caen,1162,France,Ligue 2
+FC Sochaux-Montbéliard,750,France,Ligue 2
+Amiens SC,1416,France,Ligue 2
+Olympique Charleville-Neufmanil-Aiglemont,6333,France,Ligue 2
+Türkiyemspor Berlin,1427,Germany,NOFV-Oberliga Nord
+SV Lohhof,315,Germany,Oberliga Bayern
+SG Rot-Weiss Frankfurt,4514,Germany,Oberliga Hessen
+Schwarz-Weiß Essen,463,Germany,Oberliga Nordrhein
+Bolton Wanderers,355,England,Premier League
+CSKA-Borysfen Boryspil,32131,Ukraine,Premier Liga
+Kryvbas Kryvyi Rig,3592,Ukraine,Premier Liga
+MFK Mykolaiv,6422,Ukraine,Premier Liga
+Volyn Lutsk,4482,Ukraine,Premier Liga
+Torpedo Zaporizhya,14809,Ukraine,Premier Liga
+Torpedo-Luzhniki Moskau,1186,Russia,Premier Liga
+Energia-Tekstilshchik Kamyshin,12435,Russia,Premier Liga
+Holstein Kiel,269,Germany,Regionalliga Nord
+SV Wilhelmshaven,96,Germany,Regionalliga Nord
+SV Lurup,1240,Germany,Regionalliga Nord
+VfL 93 Hamburg,491,Germany,Regionalliga Nord
+FSV Frankfurt,293,Germany,Regionalliga Süd
+TSV Vestenbergsgreuth (- 1996),674,Germany,Regionalliga Süd
+TSF Ditzingen,356,Germany,Regionalliga Süd
+LR Vicenza,2655,Italy,Serie A
+Piacenza Calcio 1919,1408,Italy,Serie A
+Fidelis Andria 2018,4085,Italy,Serie B
+Reggina Calcio,1386,Italy,Serie B
+Calcio Foggia 1920,704,Italy,Serie B
+US Avellino 1912,2331,Italy,Serie B
+Genoa CFC,252,Italy,Serie B
+AC Prato,2250,Italy,Serie C - A
+Ascoli Calcio,408,Italy,Serie C - B
+AS Gualdo Casacastalda,4090,Italy,Serie C - B
+Nocerina Calcio,4114,Italy,Serie C - B
+Acireale Calcio,4337,Italy,Serie C - B
+SS Nola 1925,38991,Italy,Serie C - B
+US Lecce,1005,Italy,Serie C - B
+Servette FC,61,Switzerland,Super League
+Panionios Athens,169,Greece,Super League 1
+Iraklis Thessaloniki,47,Greece,Super League 1
+Sport Club Corinthians Paulista,199,Brazil,Série A
+Istanbulspor,924,Turkey,Süper Lig
+Eskisehirspor,825,Turkey,Süper Lig
+CA Banfield,830,Argentina,Torneo Inicial
+FC Kuusysi,10493,Finland,Veikkausliiga
+Dinamo 93 Minsk (- 1998),34598,Belarus,Vysheyshaya Liga
+Neman Grodno,14178,Belarus,Vysheyshaya Liga
+Belshina Bobruisk,3886,Belarus,Vysheyshaya Liga
+Slavia Mozyr,6423,Belarus,Vysheyshaya Liga
+FK Vitebsk,17959,Belarus,Vysheyshaya Liga
+Ural Yekaterinburg,11127,Russia,1.Division
+Tekstilshchik Kamyshin,12435,Russia,1.Division
+Anzhi Makhachkala ( -2022),2700,Russia,1.Division
+Saturn Ramenskoe,2737,Russia,1.Division
+Elazigspor,2292,Turkey,1.Lig
+Kayseri Erciyesspor,6894,Turkey,1.Lig
+TKI Soma Linyitspor,50852,Turkey,1.Lig
+Afyonspor,66561,Turkey,1.Lig
+Yimpas Yozgatspor,740,Turkey,1.Lig
+Beylerbeyispor,11675,Turkey,1.Lig
+Yeni Salihlispor,45545,Turkey,1.Lig
+Eintracht Frankfurt,24,Germany,2. Bundesliga
+1.FC Kaiserslautern,2,Germany,2. Bundesliga
+FSV Zwickau,275,Germany,2. Bundesliga
+FC Carl Zeiss Jena,113,Germany,2. Bundesliga
+FC Gütersloh,220,Germany,2. Bundesliga
+SK Vorwärts Steyr,1521,Austria,2. Liga
+VfB Mödling,25598,Austria,2. Liga
+SD Huesca,5358,Spain,2ª B - Grupo II
+RCD Espanyol B,10773,Spain,2ª B - Grupo III
+Club Atlético Marbella (- 1997),42872,Spain,2ª B - Grupo IV
+Kadiköyspor,12554,Turkey,3.Lig Grup 2
+Defne Anadolu FK,9851,Turkey,3.Lig Grup 3
+Beypazari Belediyespor,66638,Turkey,3.Lig Grup 4
+Boluspor,3207,Turkey,3.Lig Grup 4
+Arminia Bielefeld,10,Germany,Bundesliga
+FC Winterthur,242,Switzerland,Challenge League
+GKS Tychy,1750,Poland,Ekstraklasa
+Tromsø IL,1293,Norway,Eliteserien
+AZ Alkmaar,1090,Netherlands,Eredivisie
+Ethnikos Piraeus,2670,Greece,Football League
+Bohemians Prague 1905,715,Czech Republic,Fortuna Liga
+Júbilo Iwata,937,Japan,J1 - 2nd Stage
+Sanfrecce Hiroshima,2697,Japan,J1 - 2nd Stage
+Gamba Osaka,596,Japan,J1 - 2nd Stage
+Kashima Antlers,2241,Japan,J1 League
+Tokyo Verdy,3734,Japan,J1 League
+Gamba Osaka,596,Japan,J1 League
+Excelsior Mouscron (- 2009),1433,Belgium,Jupiler Pro League
+Seongnam FC,3610,"Korea, South",K League - 2nd Stage
+Jeju United,19684,"Korea, South",K League - 2nd Stage
+Jeju United,19684,"Korea, South",K League 1
+FC Seoul,6500,"Korea, South",K League 1
+Go Ahead Eagles,1435,Netherlands,Keuken Kampioen Divisie
+CF Extremadura,811,Spain,LaLiga
+Hércules CF,7971,Spain,LaLiga
+Levante UD,3368,Spain,LaLiga2
+Albacete Balompié,1532,Spain,LaLiga2
+UD Salamanca,1087,Spain,LaLiga2
+Écija Balompié,4050,Spain,LaLiga2
+SS Maceratese 1922,21474,Italy,Lega Pro 2 - B
+USC Baracca Lugo 1909,4105,Italy,Lega Pro 2 - B
+Pelita Jaya (- 2016),20377,Indonesia,Liga 1
+CF América,3631,Mexico,Liga MX Clausura
+SC Espinho,3265,Portugal,Liga Portugal
+Bnei Yehuda Tel Aviv,9095,Israel,Ligat ha'Al
+Hapoel Beit Shean,6026,Israel,Ligat ha'Al
+AS Nancy-Lorraine,1159,France,Ligue 1
+Sporting Club de Toulon,494,France,Ligue 2
+Stade Briochin,1777,France,Ligue 2
+AS Saint-Étienne,618,France,Ligue 2
+Esperance Tunis,3342,Tunisia,Ligue I Pro
+AS Marsa,18792,Tunisia,Ligue I Pro
+Club Africain Tunis,819,Tunisia,Ligue I Pro
+Colorado Rapids,1247,United States,MLS
+FC Dallas,8816,United States,MLS
+Zalaegerszegi TE FC,1391,Hungary,NB I.
+Budapesti VSC - Zugló,22516,Hungary,NB I.
+PSV Rostock,525,Germany,NOFV-Oberliga Nord
+SpVgg Bayreuth,752,Germany,Oberliga Bayern
+VfL Frohnlach,400,Germany,Oberliga Bayern
+1.FC Schweinfurt 05,103,Germany,Oberliga Bayern
+FSV Frankfurt,293,Germany,Oberliga Hessen
+FV Bad Honnef,214,Germany,Oberliga Nordrhein
+SCB Viktoria Köln (1994 - 2010),37751,Germany,Oberliga Nordrhein
+Bonner SC,215,Germany,Oberliga Nordrhein
+Baladiya Mahalla,9093,Egypt,Premier League
+Sunderland AFC,289,England,Premier League
+Shinnik Yaroslavl,2374,Russia,Premier Liga
+Karpaty Lviv (-2021),2477,Ukraine,Premier Liga
+Baltika Kaliningrad,2741,Russia,Premier Liga
+Spartak Ivano-Frankivsk,27241,Ukraine,Premier Liga
+CSKA Kyiv,2744,Ukraine,Premier Liga
+Hannover 96,42,Germany,Regionalliga Nord
+1.FC Nuremberg,4,Germany,Regionalliga Süd
+SSV Reutlingen 05,68,Germany,Regionalliga Süd
+AC Perugia,839,Italy,Serie A
+Hellas Verona,276,Italy,Serie A
+Bologna FC 1909,1025,Italy,Serie A
+Torino FC,416,Italy,Serie B
+Chievo Verona,862,Italy,Serie B
+AC Carpi,4102,Italy,Serie C - A
+US Savoia 1908,4341,Italy,Serie C - B
+Fidelis Andria 2018,4085,Italy,Serie C - B
+US Ancona,1388,Italy,Serie C - B
+FC St. Gallen 1879,257,Switzerland,Super League
+Panathinaikos Athens,265,Greece,Super League 1
+AEK Athens,2441,Greece,Super League 1
+AS Kastoria 1980,5540,Greece,Super League 1
+PS Kalamata,9,Greece,Super League 1
+Vejle Boldklub,443,Denmark,Superligaen
+Hvidovre IF,1894,Denmark,Superligaen
+Akademisk Boldklub,362,Denmark,Superligaen
+Santos FC,221,Brazil,Série A
+Botafogo de Futebol e Regatas,537,Brazil,Série A
+Cruzeiro Esporte Clube,609,Brazil,Série A
+Red Bull Bragantino,8793,Brazil,Série A
+Sociedade Esportiva Palmeiras,1023,Brazil,Série A
+Clube Atlético Mineiro,330,Brazil,Série A
+Sport Club do Recife,8718,Brazil,Série A
+Clube de Regatas do Flamengo,614,Brazil,Série A
+São Paulo Futebol Clube,585,Brazil,Série A
+Sport Club Internacional,6600,Brazil,Série A
+Club Athletico Paranaense,679,Brazil,Série A
+Coritiba Foot Ball Club,776,Brazil,Série A
+Grêmio Foot-Ball Porto Alegrense,210,Brazil,Série A
+Paraná Clube,309,Brazil,Série A
+Goiás Esporte Clube,3197,Brazil,Série A
+Dardanelspor,1507,Turkey,Süper Lig
+CA Huracán,2063,Argentina,Torneo Inicial
+Club de Gimnasia y Esgrima La Plata,1106,Argentina,Torneo Inicial
+CA Colon,1070,Argentina,Torneo Inicial
+Club Ferro Carril Oeste,4557,Argentina,Torneo Inicial
+CA San Lorenzo de Almagro,1775,Argentina,Torneo Inicial
+Spartak Nalchik,8835,Russia,1.Division
+KamAZ Naberezhnye Chelny,3243,Russia,1.Division
+Kristall Smolensk (-2004),6412,Russia,1.Division
+Uralan Elista,3687,Russia,1.Division
+Irtysh Omsk,12420,Russia,1.Division
+Lokomotiv Nizhniy Novgorod,2693,Russia,1.Division
+Metallurg Lipetsk,3723,Russia,1.Division
+Adiyamanspor,11933,Turkey,1.Lig
+Kusadasispor,2318,Turkey,1.Lig
+Ankara Demirspor,12524,Turkey,1.Lig
+SpVgg Greuther Fürth,65,Germany,2. Bundesliga
+FC Energie Cottbus,25,Germany,2. Bundesliga
+CD Aurrera de Vitoria,1534,Spain,2ª B - Grupo II
+Barakaldo CF ,3708,Spain,2ª B - Grupo II
+Rayo Cantabria,10980,Spain,2ª B - Grupo II
+CD Manchego (- 2010),5089,Spain,2ª B - Grupo IV
+Akcaabat Sebatspor,1511,Turkey,3.Lig Grup 2
+Gümüshanespor,4574,Turkey,3.Lig Grup 2
+Kayserispor,3205,Turkey,3.Lig Grup 3
+Grazer AK 1902,316,Austria,Bundesliga
+VfL Wolfsburg,82,Germany,Bundesliga
+Hertha BSC,44,Germany,Bundesliga
+FK Bodø/Glimt,501,Norway,Eliteserien
+Torpedo Kutaisi,253,Georgia,Erovnuli Liga (bis 2016/17)
+AE Larisa,4603,Greece,Football League
+FK Viktoria Zizkov,892,Czech Republic,Fortuna Liga
+Kashiwa Reysol,6632,Japan,J1 - 2nd Stage
+Avispa Fukuoka,9597,Japan,J1 - 2nd Stage
+Urawa Red Diamonds,828,Japan,J1 - 2nd Stage
+Vissel Kobe,3958,Japan,J1 - 2nd Stage
+KVC Westerlo,968,Belgium,Jupiler Pro League
+Jeonnam Dragons,6503,"Korea, South",K League 1
+Suwon Samsung Bluewings,3301,"Korea, South",K League 1
+RCD Mallorca,237,Spain,LaLiga
+Sevilla FC,368,Spain,LaLiga2
+SD Eibar,1533,Spain,LaLiga2
+CF Extremadura,811,Spain,LaLiga2
+UD Las Palmas,472,Spain,LaLiga2
+CD Numancia,2296,Spain,LaLiga2
+SS Arezzo,4255,Italy,Lega Pro 2 - B
+SPAL,2722,Italy,Lega Pro 2 - B
+Persisam Putra Samarinda (- 2014),42489,Indonesia,Liga 1
+CF Atlante,6709,Mexico,Liga MX Clausura
+Académica Coimbra,2990,Portugal,Liga Portugal
+Varzim SC,4297,Portugal,Liga Portugal
+Hapoel Beer Sheva,2976,Israel,Ligat ha'Al
+LB Châteauroux,1175,France,Ligue 1
+LOSC Lille,1082,France,Ligue 2
+Stade Tunisien,4812,Tunisia,Ligue I Pro
+Columbus Crew,813,United States,MLS
+New York Red Bulls,623,United States,MLS
+Tampa Bay Mutiny,646,United States,MLS
+Szombathelyi Haladás,649,Hungary,NB I.
+1.SC Feucht,305,Germany,Oberliga Bayern
+Derby County,22,England,Premier League
+Zirka Kropyvnytskyi,8838,Ukraine,Premier Liga
+FK Mariupol,6993,Ukraine,Premier Liga
+Vorskla Poltava,2740,Ukraine,Premier Liga
+Uralan Elista,3687,Russia,Premier Liga
+LD Alajuelense,6478,Costa Rica,Primera División Apertura
+VfB Oldenburg,166,Germany,Regionalliga Nord
+VfB Lübeck,78,Germany,Regionalliga Nord
+SV Waldhof Mannheim,85,Germany,Regionalliga Süd
+SV Wehen Wiesbaden,108,Germany,Regionalliga Süd
+VfR Mannheim,106,Germany,Regionalliga Süd
+FC Empoli,749,Italy,Serie A
+Empoli FC,749,Italy,Serie A
+Cagliari Calcio,1390,Italy,Serie B
+ASD Castel di Sangro,3512,Italy,Serie B
+ACD Treviso,2251,Italy,Serie B
+AC Cesena,1429,Italy,Serie C - A
+FBC Saronno 1910,14891,Italy,Serie C - A
+Calcio Lecco 1912,5514,Italy,Serie C - A
+US Cremonese,2239,Italy,Serie C - A
+AC Siena,1387,Italy,Serie C - A
+Casarano Calcio,6089,Italy,Serie C - B
+Atletico Catania,4087,Italy,Serie C - B
+SS Juve Stabia,5587,Italy,Serie C - B
+FC Zürich,260,Switzerland,Super League
+Shanghai Shenhua,3183,China,Super League
+Paniliakos Pyrgos,2726,Greece,Super League 1
+Athinaikos AS,4589,Greece,Super League 1
+FK Partizan Belgrade,669,Serbia,Super liga Srbije
+FK Zemun,3521,Serbia,Super liga Srbije
+Red Star Belgrade,159,Serbia,Super liga Srbije
+FK Vojvodina Novi Sad,448,Serbia,Super liga Srbije
+FK Rad,902,Serbia,Super liga Srbije
+FK Obilic,37,Serbia,Super liga Srbije
+Buducnost Podgorica,4391,Montenegro,Super liga Srbije
+FK Mladost Lucani,6622,Serbia,Super liga Srbije
+Club de Regatas Vasco da Gama,978,Brazil,Série A
+Guarani Futebol Clube (SP),1755,Brazil,Série A
+União São João Esporte Clube (SP),734,Brazil,Série A
+Esporte Clube Vitória,2125,Brazil,Série A
+Esporte Clube Bahia,10010,Brazil,Série A
+Sekerspor,5743,Turkey,Süper Lig
+Kardemir Karabükspor,1506,Turkey,Süper Lig
+Club Estudiantes de La Plata,288,Argentina,Torneo Inicial
+Club Deportivo Español,14546,Argentina,Torneo Inicial
+Club Atlético Unión,7097,Argentina,Torneo Inicial
+Vaasan Palloseura,1102,Finland,Veikkausliiga
+Turun Palloseura,2275,Finland,Veikkausliiga
+FC Jazz Pori,304,Finland,Veikkausliiga
+Arsenal Tula,3729,Russia,1.Division
+Akademia Togliatti (-2012),21637,Russia,1.Division
+Izmirspor,3842,Turkey,1.Lig
+Kilimli Belediyespor,22309,Turkey,1.Lig
+Gümüshanespor,4574,Turkey,1.Lig
+Karlsruher SC,48,Germany,2. Bundesliga
+1. FC Köln,3,Germany,2. Bundesliga
+Tennis Borussia Berlin,101,Germany,2. Bundesliga
+Burgos CF,1536,Spain,2ª B - Grupo II
+Levante UD,3368,Spain,2ª B - Grupo III
+Xerez CD,134,Spain,2ª B - Grupo IV
+Moralo CP,45352,Spain,2ª B - Grupo IV
+UP Plasencia,35823,Spain,2ª B - Grupo IV
+Carsambaspor,20659,Turkey,3.Lig Grup 2
+Cankirispor,12939,Turkey,3.Lig Grup 4
+FC Baden 1897,747,Switzerland,Challenge League
+LKS Lodz,256,Poland,Ekstraklasa
+Stabæk Fotball,1274,Norway,Eliteserien
+Dinamo Batumi,11344,Georgia,Erovnuli Liga (bis 2016/17)
+Athinaikos AS,4589,Greece,Football League
+FC Banik Ostrava,377,Czech Republic,Fortuna Liga
+FC Slovan Liberec,697,Czech Republic,Fortuna Liga
+Nagoya Grampus,1066,Japan,J1 - 2nd Stage
+Shonan Bellmare,8457,Japan,J1 - 2nd Stage
+KV Kortrijk,601,Belgium,Jupiler Pro League
+FC Groningen,202,Netherlands,Keuken Kampioen Divisie
+Deportivo Alavés,1108,Spain,LaLiga
+Villarreal CF,1050,Spain,LaLiga
+Sporting Gijón,2448,Spain,LaLiga2
+CD Ourense (- 2014),2725,Spain,LaLiga2
+US Viterbese 1908,22294,Italy,Lega Pro 2 - B
+SEF Torres 1903,2253,Italy,Lega Pro 2 - B
+US Tempio,22036,Italy,Lega Pro 2 - B
+US Sassuolo,6574,Italy,Lega Pro 2 - B
+UNAM Pumas,7633,Mexico,Liga MX Clausura
+Tigres UANL,7055,Mexico,Liga MX Clausura
+FC Alverca,2521,Portugal,Liga Portugal
+FC Lorient,1158,France,Ligue 1
+EA Guingamp,855,France,Ligue 2
+Wasquehal Football,2257,France,Ligue 2
+Club Athlétique Bizertin,12717,Tunisia,Ligue I Pro
+Etoile Sportive du Sahel,250,Tunisia,Ligue I Pro
+D.C. United,2440,United States,MLS
+Chicago Fire FC,432,United States,MLS
+SpVgg Jahn Forchheim,1606,Germany,Oberliga Bayern
+SC 04 Schwabach,1313,Germany,Oberliga Bayern
+SpVgg Landshut,303,Germany,Oberliga Bayern
+Derry City,920,Northern Ireland,Premier Division
+El Ahly Cairo,7,Egypt,Premier League
+Ismaily SC,3595,Egypt,Premier League
+Charlton Athletic,358,England,Premier League
+Saturn Ramenskoe,2737,Russia,Premier Liga
+Saturn REN-TV Ramenskoe,2737,Russia,Premier Liga
+Lantana Tallinn (- 2000),20845,Estonia,Premium Liiga
+SV Meppen,247,Germany,Regionalliga Nord
+Manchester City,281,England,Second Division
+York City,1252,England,Second Division
+Oldham Athletic,1078,England,Second Division
+Venezia FC,607,Italy,Serie A
+US Salernitana,380,Italy,Serie A
+SSC Napoli,6195,Italy,Serie B
+Calcio Padova,3037,Italy,Serie C - A
+Varese Calcio,4361,Italy,Serie C - A
+ASD Castel di Sangro,3512,Italy,Serie C - B
+ASD Giulianova,4254,Italy,Serie C - B
+Calcio Foggia 1920,704,Italy,Serie C - B
+FC Luzern,434,Switzerland,Super League
+Chongqing Liangjiang Athletic,1326,China,Super League
+Herfölge Boldklub,445,Denmark,Superligaen
+Boldklubben af 1893,947,Denmark,Superligaen
+América Futebol Clube (RN),1751,Brazil,Série A
+Adanaspor,6,Turkey,Süper Lig
+Sakaryaspor,2463,Turkey,Süper Lig
+Erzurumspor,1766,Turkey,Süper Lig
+HJK Helsinki,1008,Finland,Veikkausliiga
+Torpedo Minsk,4363,Belarus,Vysheyshaya Liga
+Amkar Perm,4128,Russia,1.Division
+FK Moskau (-2010),5268,Russia,1.Division
+Zhemchuzhina Sochi,6441,Russia,1.Division
+Enisey Krasnoyarsk,3714,Russia,1.Division
+Tom Tomsk,3691,Russia,1.Division
+Batman Petrolspor,3211,Turkey,1.Lig
+Kasimpasa,10484,Turkey,1.Lig
+Borussia Mönchengladbach,18,Germany,2. Bundesliga
+SC Untersiebenbrunn 1932,1378,Austria,2. Liga
+Hércules CF,7971,Spain,2ª B - Grupo III
+FC Cartagena,7077,Spain,2ª B - Grupo III
+Talavera CF (- 2010),5657,Spain,2ª B - Grupo IV
+Mudurnuspor,23681,Turkey,3.Lig Grup 4
+Akcakocaspor,50737,Turkey,3.Lig Grup 4
+SpVgg Unterhaching,66,Germany,Bundesliga
+LASK,413,Austria,Bundesliga
+SSV Ulm 1846,69,Germany,Bundesliga
+Stomil Olsztyn,9055,Poland,Ekstraklasa
+FC Locomotive Tbilisi,6365,Georgia,Erovnuli Liga (bis 2016/17)
+Panelefsiniakos AO,3308,Greece,Football League
+FK Chmel Blsany (- 2016),135,Czech Republic,Fortuna Liga
+FK Drnovice,600,Czech Republic,Fortuna Liga
+KFC Verbroedering Geel (- 2008),1749,Belgium,Jupiler Pro League
+Germinal Beerschot Antwerpen,566,Belgium,Jupiler Pro League
+FC Volendam,724,Netherlands,Keuken Kampioen Divisie
+Málaga CF,1084,Spain,LaLiga
+CD Numancia,2296,Spain,LaLiga
+CD Tenerife,648,Spain,LaLiga2
+Córdoba CF,993,Spain,LaLiga2
+Recreativo Huelva,2867,Spain,LaLiga2
+Getafe CF,3709,Spain,LaLiga2
+Elche CF,1531,Spain,LaLiga2
+Sora Calcio 1907,4544,Italy,Lega Pro 2 - B
+AC Carpi,4102,Italy,Lega Pro 2 - B
+US Triestina,4271,Italy,Lega Pro 2 - B
+Atlas Guadalajara,8590,Mexico,Liga MX Clausura
+CD Cruz Azul,3711,Mexico,Liga MX Clausura
+CD Santa Clara,2423,Portugal,Liga Portugal
+Hapoel Petah Tikva,262,Israel,Ligat ha'Al
+Maccabi Netanya,5223,Israel,Ligat ha'Al
+ESTAC Troyes,1095,France,Ligue 1
+Club Sportif Sfaxien,581,Tunisia,Ligue I Pro
+New England Revolution,626,United States,MLS
+San Jose Earthquakes,218,United States,MLS
+Debreceni VSC,84,Hungary,NB I.
+FC Wegberg-Beeck,2681,Germany,Oberliga Nordrhein
+Watford FC,1010,England,Premier League
+Mansoura SC,19466,Egypt,Premier League
+Fakel Voronezh,1124,Russia,Premier Liga
+Anzhi Makhachkala ( -2022),2700,Russia,Premier Liga
+FC Flora Tallinn,1002,Estonia,Premium Liiga
+NK Celje,710,Slovenia,Prva Liga
+NK Rudar Velenje,789,Slovenia,Prva Liga
+ND Gorica,5862,Slovenia,Prva Liga
+NK Maribor,790,Slovenia,Prva Liga
+NS Mura,4059,Slovenia,Prva Liga
+1.SC Norderstedt (- 2003),9962,Germany,Regionalliga Nord
+TuS Celle FC,243,Germany,Regionalliga Nord
+VfL Osnabrück,81,Germany,Regionalliga Nord
+Reggina Calcio,1386,Italy,Serie A
+FC Empoli,749,Italy,Serie B
+UC Sampdoria,1038,Italy,Serie B
+AC Reggiana,5621,Italy,Serie C - A
+Aquila Montevarchi 1902,4339,Italy,Serie C - A
+Beijing Guoan,3176,China,Super League
+Yverdon Sport FC,322,Switzerland,Super League
+Panachaiki GE,1837,Greece,Super League 1
+Esporte Clube Juventude,10492,Brazil,Série A
+Sociedade Esportiva do Gama (DF),7014,Brazil,Série A
+Göztepe,1467,Turkey,Süper Lig
+Kotkan Työväen Palloilijat,22166,Finland,Veikkausliiga
+BATE Borisov,713,Belarus,Vysheyshaya Liga
+Spartak-Chukotka Moskau (-2000),20095,Russia,1.Division
+Gaziantep FK,2832,Turkey,1.Lig
+Artvin Hopaspor,20684,Turkey,1.Lig
+Kirklarelispor,27603,Turkey,1.Lig
+Altay SK,2375,Turkey,1.Lig
+Agrispor,20778,Turkey,1.Lig
+Sivasspor,2381,Turkey,1.Lig
+Istanbul Güngörenspor,3841,Turkey,1.Lig
+Servette FC,61,Switzerland,1.Liga gr. 1
+SSV Ulm 1846,69,Germany,2. Bundesliga
+VfL Osnabrück,81,Germany,2. Bundesliga
+Rot-Weiß Oberhausen,57,Germany,2. Bundesliga
+First Vienna FC,2364,Austria,2. Liga
+FC Braunau (-2021),4448,Austria,2. Liga
+CE Premià,13406,Spain,2ª B - Grupo III
+UD Alzira,16775,Spain,2ª B - Grupo III
+FC Energie Cottbus,25,Germany,Bundesliga
+SV Ried,266,Austria,Bundesliga
+Etoile Carouge FC,1292,Switzerland,Challenge League
+KFC Lommel SK (- 2003),718,Belgium,Challenger Pro League
+RFC Lüttich,3159,Belgium,Challenger Pro League
+KFC Verbroedering Geel (- 2008),1749,Belgium,Challenger Pro League
+Beringen Heusden-Zolder SK,1417,Belgium,Challenger Pro League
+Patro Eisden Maasmechelen,3225,Belgium,Challenger Pro League
+KV Oostende,2861,Belgium,Challenger Pro League
+RAEC Mons (- 2015),1411,Belgium,Challenger Pro League
+RWDM Brussels FC,3898,Belgium,Challenger Pro League
+KMSK Deinze,2321,Belgium,Challenger Pro League
+KVK Tienen,3315,Belgium,Challenger Pro League
+Cercle Brugge ,520,Belgium,Challenger Pro League
+FC Denderleeuw,1201,Belgium,Challenger Pro League
+RWD Molenbeek (- 2002),2973,Belgium,Challenger Pro League
+KSV Roeselare (- 2020),2977,Belgium,Challenger Pro League
+Swallows FC,2695,South Africa,DStv Premiership
+Amica Wronki,176,Poland,Ekstraklasa
+Bryne FK,1057,Norway,Eliteserien
+RBC Roosendaal,1227,Netherlands,Eredivisie
+FK Viagem Pribram,2598,Czech Republic,Fortuna Liga
+Cerezo Osaka,1022,Japan,J1 - 2nd Stage
+Urawa Red Diamonds,828,Japan,J2 League
+Yokohama FC,943,Japan,Japan Football League
+RAA La Louviere (- 2009),2180,Belgium,Jupiler Pro League
+UD Las Palmas,472,Spain,LaLiga
+Atlético de Madrid,13,Spain,LaLiga2
+Real Betis Balompié,150,Spain,LaLiga2
+Racing Ferrol,1176,Spain,LaLiga2
+AS Gualdo Casacastalda,4090,Italy,Lega Pro 2 - B
+Desportivo Aves (- 2020),3336,Portugal,Liga Portugal
+Hapoel Rishon leZion,554,Israel,Ligat ha'Al
+CS Sedan-Ardennes,1081,France,Ligue 1
+Montpellier HSC,969,France,Ligue 2
+AC Le Havre,738,France,Ligue 2
+AC Ajaccio,1147,France,Ligue 2
+US Créteil-Lusitanos,2067,France,Ligue 2
+Würzburger FV,564,Germany,Oberliga Bayern
+FSC Lohfelden,2808,Germany,Oberliga Hessen
+Cork City FC (- 2009),6065,Ireland,Premier Division
+Bradford City,1027,England,Premier League
+El Masry SC,9094,Egypt,Premier League
+Sokol Saratov,3834,Russia,Premier Liga
+Qyzyljar Petropavlovsk,22995,Kazakhstan,Premier Liga
+Kairat Almaty,10482,Kazakhstan,Premier Liga
+Metalurg Donetsk (- 2015),2783,Ukraine,Premier Liga
+Torpedo-ZiL Moscow,5268,Russia,Premier Liga
+FCI Levadia,5771,Estonia,Premium Liiga
+Atlético de Rafaela,10233,Argentina,Primera Nacional
+ASK Kottingbrunn,4378,Austria,Regional League East
+Tennis Borussia Berlin,101,Germany,Regionalliga Nord
+Eintracht Braunschweig,23,Germany,Regionalliga Nord
+SC Fortuna Köln,92,Germany,Regionalliga Nord
+Lüneburger SK (- 2008),51,Germany,Regionalliga Nord
+Preußen Münster,91,Germany,Regionalliga Nord
+KFC Uerdingen 05,95,Germany,Regionalliga Nord
+Rot-Weiss Essen,56,Germany,Regionalliga Nord
+Karlsruher SC,48,Germany,Regionalliga Süd
+Swindon Town,352,England,Second Division
+Northampton Town,1302,England,Second Division
+Colchester United,1060,England,Second Division
+Cambridge United,986,England,Second Division
+Wigan Athletic,1071,England,Second Division
+Walsall FC,899,England,Second Division
+US Pistoiese 1921,1307,Italy,Serie B
+FC Crotone,4083,Italy,Serie B
+AC Siena,1387,Italy,Serie B
+SS Arezzo,4255,Italy,Serie C - A
+FC Lumezzane,4103,Italy,Serie C - A
+US Viterbese 1908,22294,Italy,Serie C - B
+FC Lugano,2790,Switzerland,Super League
+Aris Thessaloniki,605,Greece,Super League 1
+Ethnikos Asteras,3396,Greece,Super League 1
+Siirtspor,1291,Turkey,Süper Lig
+Yimpas Yozgatspor,740,Turkey,Süper Lig
+Caykur Rizespor,126,Turkey,Süper Lig
+FC Lahti,2925,Finland,Veikkausliiga
+Skonto Riga,1043,Latvia,Virsliga
+FK Ventspils,2782,Latvia,Virsliga
+Litex Lovech,271,Bulgaria,efbet Liga
+CSKA-Sofia,208,Bulgaria,efbet Liga
+Velbazhd Kyustendil,2189,Bulgaria,efbet Liga
+Levski Sofia,156,Bulgaria,efbet Liga
+Slavia Sofia,675,Bulgaria,efbet Liga
+Alemannia Aachen,8,Germany,2. Bundesliga
+SV Babelsberg 03,90,Germany,2. Bundesliga
+SSV Reutlingen 05,68,Germany,2. Bundesliga
+SC Austria Lustenau,541,Austria,2. Liga
+LASK,413,Austria,2. Liga
+CE Sabadell FC,11422,Spain,2ª B - Grupo II
+UE Lleida (- 2011),3239,Spain,2ª B - Grupo II
+RCD Espanyol B,10773,Spain,2ª B - Grupo II
+Universidad de Las Palmas (- 2011),13243,Spain,2ª B - Grupo III
+Cádiz CF,2687,Spain,2ª B - Grupo IV
+AD Ceuta FC,8568,Spain,2ª B - Grupo IV
+Ofspor,12555,Turkey,3.Lig Grup 1
+Petrolofisi,23766,Turkey,3.Lig Grup 1
+Alanyaspor,11282,Turkey,3.Lig Grup 3
+Kirsehirspor,8707,Turkey,3.Lig Grup 3
+Bursa Merinosspor,4628,Turkey,3.Lig Grup 4
+Yeni Salihlispor,45545,Turkey,3.Lig Grup 4
+FC Kärnten (- 2009),155,Austria,Bundesliga
+Schwarz-Weiß Bregenz,936,Austria,Bundesliga
+AC Bellinzona,2047,Switzerland,Challenge League
+SC Kriens,2074,Switzerland,Challenge League
+KV Mechelen,354,Belgium,Challenger Pro League
+KRC Zuid-West-Vlaanderen,2478,Belgium,Challenger Pro League
+Royal Excelsior Virton,1199,Belgium,Challenger Pro League
+Racing Harelbeke,10370,Belgium,Challenger Pro League
+Kaizer Chiefs,568,South Africa,DStv Premiership
+Ajax Cape Town,2926,South Africa,DStv Premiership
+Mamelodi Sundowns FC,6356,South Africa,DStv Premiership
+Slask Wroclaw,759,Poland,Ekstraklasa
+WIT Georgia Tbilisi,751,Georgia,Erovnuli Liga (bis 2016/17)
+PAS Giannina,2671,Greece,Football League
+Paniliakos Pyrgos,2726,Greece,Football League
+Omiya Ardija,7452,Japan,J2 League
+Racing Santander,630,Spain,LaLiga2
+Real Oviedo,2497,Spain,LaLiga2
+Burgos CF,1536,Spain,LaLiga2
+Polideportivo Ejido (-2012),606,Spain,LaLiga2
+Real Jaén CF,666,Spain,LaLiga2
+Brescello Calcio,5179,Italy,Lega Pro 2 - B
+US Fiorenzuola 1922,4163,Italy,Lega Pro 2 - B
+SSD Città di Teramo,1415,Italy,Lega Pro 2 - B
+Club Necaxa,1146,Mexico,Liga MX Clausura
+Club Atlético Morelia,5623,Mexico,Liga MX Clausura
+RC Strasbourg Alsace,667,France,Ligue 2
+Grenoble Foot 38,1290,France,Ligue 2
+Tennis Borussia Berlin,101,Germany,NOFV-Oberliga Nord
+Karbener SV,727,Germany,Oberliga Hessen
+Zob Ahan Esfahan,6081,Iran,Persian Gulf Pro League
+Persepolis FC,6079,Iran,Persian Gulf Pro League
+El Mokawloon SC,3369,Egypt,Premier League
+Fulham FC,931,England,Premier League
+FK Moskau (-2010),5268,Russia,Premier Liga
+Irtysh Pavlodar,10540,Kazakhstan,Premier Liga
+FC Zhenis Astana,12019,Kazakhstan,Premier Liga
+FK Oleksandriya,18303,Ukraine,Premier Liga
+Limón FC (- 2021),26103,Costa Rica,Primera División Apertura
+FC Koper,433,Slovenia,Prva Liga
+NK Olimpija Ljubljana,4772,Slovenia,Prva Liga
+NK Korotan Prevalje,4935,Slovenia,Prva Liga
+1.FC Magdeburg,187,Germany,Regionalliga Nord
+Chemnitzer FC,21,Germany,Regionalliga Nord
+SG Wattenscheid 09,97,Germany,Regionalliga Nord
+SV Eintracht Trier 05,104,Germany,Regionalliga Süd
+SV 07 Elversberg,64,Germany,Regionalliga Süd
+Peterborough United,1072,England,Second Division
+Blackpool FC,1181,England,Second Division
+Queens Park Rangers,1039,England,Second Division
+Tranmere Rovers,1074,England,Second Division
+Chievo Verona,862,Italy,Serie A
+Lucchese 1905,1253,Italy,Serie C - A
+L'Aquila Calcio,4153,Italy,Serie C - B
+FC Midtjylland,865,Denmark,Superligaen
+AD São Caetano (SP),291,Brazil,Série A
+Associação Atlética Ponte Preta,1134,Brazil,Série A
+Diyarbakirspor,845,Turkey,Süper Lig
+Malatyaspor,1264,Turkey,Süper Lig
+FC Jokerit,480,Finland,Veikkausliiga
+Volgar Astrakhan,6432,Russia,1.Division
+Ankaraspor,2944,Turkey,1.Lig
+1.FC Union Berlin,89,Germany,2. Bundesliga
+Deportivo Alavés B,8880,Spain,2ª B - Grupo II
+Burgos CF,1536,Spain,2ª B - Grupo III
+Palamós CF,10744,Spain,2ª B - Grupo III
+CE Sabadell FC,11422,Spain,2ª B - Grupo III
+CF Extremadura,811,Spain,2ª B - Grupo IV
+Atlético Malagueño,5649,Spain,2ª B - Grupo IV
+Merzifonspor,3218,Turkey,3.Lig Grup 2
+Turgutluspor,1508,Turkey,3.Lig Grup 4
+Petkimspor,4260,Turkey,3.Lig Grup 4
+Hannover 96,42,Germany,Bundesliga
+FC Lausanne-Sport,527,Switzerland,Challenge League
+Jomo Cosmos,2238,South Africa,DStv Premiership
+Aalesunds FK,5619,Norway,Eliteserien
+Vålerenga Fotball,76,Norway,Eliteserien
+PEC Zwolle,1269,Netherlands,Eredivisie
+FC Zwolle,1269,Netherlands,Eredivisie
+Excelsior Rotterdam,798,Netherlands,Eredivisie
+Yokohama F. Marinos,3828,Japan,J1 - 2nd Stage
+Kyoto Sanga,593,Japan,J1 - 2nd Stage
+Kashima Antlers,2241,Japan,J1 - 2nd Stage
+Kawasaki Frontale,9598,Japan,J2 League
+RAEC Mons (- 2015),1411,Belgium,Jupiler Pro League
+Sparta Rotterdam,468,Netherlands,Keuken Kampioen Divisie
+Recreativo Huelva,2867,Spain,LaLiga
+Real Zaragoza,142,Spain,LaLiga2
+Xerez CD,134,Spain,LaLiga2
+ACF Fiorentina,430,Italy,Lega Pro 2 - B
+AS Gubbio 1910,4326,Italy,Lega Pro 2 - B
+ASD Castel di Sangro,3512,Italy,Lega Pro 2 - B
+CF Pachuca,4035,Mexico,Liga MX Clausura
+CD Nacional,982,Portugal,Liga Portugal
+Moreirense FC,979,Portugal,Liga Portugal
+AC Ajaccio,1147,France,Ligue 1
+Stade Reims,1421,France,Ligue 2
+FC Metz,347,France,Ligue 2
+JS Kabylie,13366,Algeria,Ligue Professionnelle 1
+Los Angeles Galaxy,1061,United States,MLS
+MSV 1919 Neuruppin,580,Germany,NOFV-Oberliga Nord
+FK Haugesund,2761,Norway,OBOS-ligaen
+SpVgg Ansbach,615,Germany,Oberliga Bayern
+Birmingham City,337,England,Premier League
+West Bromwich Albion,984,England,Premier League
+Arsenal Kyiv,9007,Ukraine,Premier Liga
+Rubin Kazan,2698,Russia,Premier Liga
+FK Sarajevo,282,Bosnia-Herzegovina,Premijer Liga
+NK Siroki Brijeg,1242,Bosnia-Herzegovina,Premijer Liga
+Deportivo Saprissa,4720,Costa Rica,Primera División Apertura
+AD Guanacasteca,25769,Costa Rica,Primera División Apertura
+Young Violets Austria Wien,4383,Austria,Regional League East
+SC Pfullendorf,112,Germany,Regionalliga Süd
+SV Darmstadt 98,105,Germany,Regionalliga Süd
+1.FC Saarbrücken,1,Germany,Regionalliga Süd
+Huddersfield Town,1110,England,Second Division
+Barnsley FC,349,England,Second Division
+Como Calcio,1047,Italy,Serie A
+Modena FC,1385,Italy,Serie A
+Catania SSD,1627,Italy,Serie B
+ACR Messina,1104,Italy,Serie B
+AS Livorno,1210,Italy,Serie B
+ACD Treviso,2251,Italy,Serie C - A
+UC AlbinoLeffe,4541,Italy,Serie C - A
+Virtus Ciserano Bergamo 1909,4338,Italy,Serie C - A
+SS Virtus Lanciano,4718,Italy,Serie C - B
+Taranto FC 1927,4093,Italy,Serie C - B
+SSD Città di Teramo,1415,Italy,Serie C - B
+Delfino Pescara 1936,2921,Italy,Serie C - B
+AS Sambenedettese,4330,Italy,Serie C - B
+Fermana FC,4033,Italy,Serie C - B
+Liaoning FC (- 2019),1079,China,Super League
+Esbjerg fB,3426,Denmark,Superligaen
+Fluminense Football Club,2462,Brazil,Série A
+Figueirense Futebol Clube,4064,Brazil,Série A
+Elazigspor,2292,Turkey,Süper Lig
+Cherno More Varna,967,Bulgaria,efbet Liga
+Lokomotiv Sofia,730,Bulgaria,efbet Liga
+Mordovia Saransk (-2020),11126,Russia,1.Division
+SKA Khabarovsk,3690,Russia,1.Division
+Kocaelispor,120,Turkey,1.Lig
+FC Altstetten Zürich,4353,Switzerland,1.Liga gr. 2
+SV Eintracht Trier 05,104,Germany,2. Bundesliga
+SV Wacker Burghausen,110,Germany,2. Bundesliga
+VfB Lübeck,78,Germany,2. Bundesliga
+Hacettepe Spor,10483,Turkey,3.Lig Grup 2
+Zeytinburnuspor,5745,Turkey,3.Lig Grup 3
+Bakirköyspor,3202,Turkey,3.Lig Grup 3
+Beylerbeyispor,11675,Turkey,3.Lig Grup 3
+LASK Amateure OÖ,935,Austria,Bundesliga
+FC Sion,321,Switzerland,Challenge League
+SC Eendracht Aalst,1111,Belgium,Challenger Pro League
+SV Zulte Waregem,3508,Belgium,Challenger Pro League
+Orlando Pirates,2557,South Africa,DStv Premiership
+Dyskobolia Grodzisk Wielkopolski,2775,Poland,Ekstraklasa
+Odra Wodzislaw Slaski,1305,Poland,Ekstraklasa
+ADO Den Haag,1268,Netherlands,Eredivisie
+MFK Ruzomberok,7087,Slovakia,Fortuna Liga
+1.FC Slovacko,5544,Czech Republic,Fortuna Liga
+FK Teplice,814,Czech Republic,Fortuna Liga
+Shimizu S-Pulse,1062,Japan,J1 - 2nd Stage
+Kyoto Sanga,593,Japan,J2 League
+Hokkaido Consadole Sapporo,16032,Japan,J2 League
+Beringen Heusden-Zolder SK,1417,Belgium,Jupiler Pro League
+Heusden-Zolder SK,1417,Belgium,Jupiler Pro League
+FC Seoul,6500,"Korea, South",K League - 2nd Stage
+Ulsan Hyundai,3535,"Korea, South",K League 1
+Real Murcia CF,171,Spain,LaLiga
+Atlético Malagueño,5649,Spain,LaLiga2
+Ciudad Murcia (- 2007),4053,Spain,LaLiga2
+Aglianese Calcio 1923,4562,Italy,Lega Pro 2 - B
+San Luis FC,11693,Mexico,Liga MX Clausura
+Comunicaciones FC,9709,Guatemala,Liga Nacional Cl.
+Le Mans FC,1164,France,Ligue 1
+ESTAC Troyes,1095,France,Ligue 2
+Racing Besançon,2967,France,Ligue 2
+NA Hussein Dey,3568,Algeria,Ligue Professionnelle 1
+SV Babelsberg 03,90,Germany,NOFV-Oberliga Nord
+Portsmouth FC,1020,England,Premier League
+Harras El Hodoud,12093,Egypt,Premier League
+Wolverhampton Wanderers,543,England,Premier League
+Borysfen Boryspil (- 2007),3593,Ukraine,Premier Liga
+Torpedo-Metallurg Moscow,5268,Russia,Premier Liga
+Amkar Perm,4128,Russia,Premier Liga
+Spartak-Alania Vladikavkaz ,2703,Russia,Premier Liga
+FK Borac Banja Luka,3900,Bosnia-Herzegovina,Premijer Liga
+HSK Posusje,1014,Bosnia-Herzegovina,Premijer Liga
+FC St. Pauli,35,Germany,Regionalliga Nord
+Brighton & Hove Albion,1237,England,Second Division
+Brentford FC,1148,England,Second Division
+Wrexham AFC,1112,Wales,Second Division
+Grimsby Town,1034,England,Second Division
+Bristol City,698,England,Second Division
+AC Siena,1387,Italy,Serie A
+US Triestina,4271,Italy,Serie B
+AS Cittadella,4084,Italy,Serie C - A
+Dalian Shide (1992 - 2012),3178,China,Super League
+FC Wil 1900,850,Switzerland,Super League
+FC Thun,938,Switzerland,Super League
+FCSB,301,Romania,SuperLiga
+FC Dinamo 1948,312,Romania,SuperLiga
+FC Bihor Oradea (- 2016),1497,Romania,SuperLiga
+Progresul Bucharest (- 2009),2754,Romania,SuperLiga
+FC Rapid 1923,455,Romania,SuperLiga
+FC Arges Pitesti ( - 2013),2418,Romania,SuperLiga
+Fortaleza Esporte Clube,10870,Brazil,Série A
+Criciúma Esporte Clube,7178,Brazil,Série A
+Akcaabat Sebatspor,1511,Turkey,Süper Lig
+Tampere United,8045,Finland,Veikkausliiga
+Liepajas Metalurgs,3811,Latvia,Virsliga
+FK Gomel,10694,Belarus,Vysheyshaya Liga
+Rodopa,977,Bulgaria,efbet Liga
+Akademisk Boldklub,362,Denmark,1.Division
+Dinamo Makhachkala (-2007),10727,Russia,1.Division
+Dinamo Bryansk,11121,Russia,1.Division
+FK Khimki,3719,Russia,1.Division
+Bursaspor,20,Turkey,1.Lig
+TSV 1860 Munich,72,Germany,2. Bundesliga
+SG Dynamo Dresden,129,Germany,2. Bundesliga
+FC Erzgebirge Aue,94,Germany,2. Bundesliga
+Rot Weiss Ahlen,50,Germany,2. Bundesliga
+FC Kärnten (- 2009),155,Austria,2. Liga
+RZ Deportivo Aragón,8384,Spain,2ª B - Grupo III
+CA Osasuna Promesas,8516,Spain,2ª B - Grupo III
+Algeciras CF,3705,Spain,2ª B - Grupo IV
+Altindag Belediyesi Kizilcahamam Belediyespor,3857,Turkey,3.Lig Grup 2
+Ankara Keciörengücü,12388,Turkey,3.Lig Grup 2
+Beykozspor 1908,13451,Turkey,3.Lig Grup 3
+Baskent Safak Spor FK,12378,Turkey,3.Lig Grup 4
+1.FSV Mainz 05,39,Germany,Bundesliga
+SC YF Juventus Zürich,2395,Switzerland,Challenge League
+KSK Ronse,3736,Belgium,Challenger Pro League
+Royal Antwerp FC,1096,Belgium,Challenger Pro League
+R Union Tubize-Braine,3772,Belgium,Challenger Pro League
+Leeds United,399,England,Championship
+Millwall FC,1028,England,Championship
+Ipswich Town,677,England,Championship
+Nottingham Forest,703,England,Championship
+West Ham United,379,England,Championship
+Coventry City,990,England,Championship
+Leicester City,1003,England,Championship
+Crewe Alexandra,1042,England,Championship
+Cardiff City,603,Wales,Championship
+Burnley FC,1132,England,Championship
+Preston North End,466,England,Championship
+Reading FC,1032,England,Championship
+Clyde FC,2575,Scotland,Championship
+Raith Rovers FC,2795,Scotland,Championship
+Queens Park Rangers,1039,England,Championship
+Lyn 1896 Fotballklubb,175,Norway,Eliteserien
+Poseidon Neon Poron,6444,Greece,Football League
+Akratitos Ano Liosion,1119,Greece,Football League
+MSK Puchov,2779,Slovakia,Fortuna Liga
+FK Jablonec,1322,Czech Republic,Fortuna Liga
+AS Trencin,7918,Slovakia,Fortuna Liga
+Kashiwa Reysol,6632,Japan,J1 League
+RWDM Brussels FC,3898,Belgium,Jupiler Pro League
+FC Molenbeek Brüssel Strombeek,3898,Belgium,Jupiler Pro League
+Busan IPark,2582,"Korea, South",K League - 2nd Stage
+Suwon Samsung Bluewings,3301,"Korea, South",K League - 2nd Stage
+Jeonbuk Hyundai Motors,6502,"Korea, South",K League - 2nd Stage
+AGOVV Apeldoorn (- 2013),1389,Netherlands,Keuken Kampioen Divisie
+Getafe CF,3709,Spain,LaLiga
+Levante UD,3368,Spain,LaLiga
+Celta de Vigo,940,Spain,LaLiga2
+Colchester United,1060,England,League One
+Luton Town,1031,England,League One
+Oldham Athletic,1078,England,League One
+Port Vale FC,1211,England,League One
+US Ancona,1388,Italy,Lega Pro 2 - B
+Forlì FC,9816,Italy,Lega Pro 2 - B
+Puebla FC,5662,Mexico,Liga MX Clausura
+FC Penafiel,3327,Portugal,Liga Portugal
+FC Paços de Ferreira,2995,Portugal,Liga Sabseg
+FC Alverca,2521,Portugal,Liga Sabseg
+Associação Naval 1893,4814,Portugal,Liga Sabseg
+GD Chaves,3325,Portugal,Liga Sabseg
+CF Estrela Amadora SAD,2431,Portugal,Liga Sabseg
+Leixões SC,3345,Portugal,Liga Sabseg
+FC Felgueiras,1701,Portugal,Liga Sabseg
+Varzim SC,4297,Portugal,Liga Sabseg
+FC Maia,3271,Portugal,Liga Sabseg
+AD Ovarense,3274,Portugal,Liga Sabseg
+Desportivo Aves (- 2020),3336,Portugal,Liga Sabseg
+FC Ashdod,6105,Israel,Ligat ha'Al
+Istres Football Club,2580,France,Ligue 1
+Clermont Foot 63,3524,France,Ligue 2
+Stade Brestois 29,3911,France,Ligue 2
+USM Alger,6772,Algeria,Ligue Professionnelle 1
+Sporting Kansas City,4284,United States,MLS
+MOL Fehérvár FC,11107,Hungary,NB I.
+FC Sopron,2952,Hungary,NB I.
+1.FC Kleve,973,Germany,Oberliga Nordrhein
+Sepahan FC,4947,Iran,Persian Gulf Pro League
+Tom Tomsk,3691,Russia,Premier Liga
+Ekibastuzets Ekibastuz,8832,Kazakhstan,Premier Liga
+Terek Grozny,3725,Russia,Premier Liga
+Alania Vladikavkaz,2703,Russia,Premier Liga
+FC Moscow,5268,Russia,Premier Liga
+FK Zeljeznicar Sarajevo,2573,Bosnia-Herzegovina,Premijer Liga
+FK Leotar Trebinje,3451,Bosnia-Herzegovina,Premijer Liga
+HSK Zrinjski Mostar,6808,Bosnia-Herzegovina,Premijer Liga
+NK Domzale,6248,Slovenia,Prva Liga
+AS Livorno,1210,Italy,Serie A
+Palermo FC,458,Italy,Serie A
+US Palermo,458,Italy,Serie A
+ACR Messina,1104,Italy,Serie A
+SS Arezzo,4255,Italy,Serie B
+UC AlbinoLeffe,4541,Italy,Serie B
+Pisa Sporting Club,4172,Italy,Serie C - A
+Calcio Padova,3037,Italy,Serie C - B
+SSC Napoli,6195,Italy,Serie C - B
+Vis Pesaro 1898,7030,Italy,Serie C - B
+Benevento Calcio,4171,Italy,Serie C - B
+AC Reggiana,5621,Italy,Serie C - B
+Beijing Chengfeng (1995-2020),17250,China,Super League
+Tianjin Jinmen Tiger,3187,China,Super League
+AO Egaleo,2984,Greece,Super League 1
+OFK Beograd,53,Serbia,Super liga Srbije
+FK Borac 1926 Cacak,2209,Serbia,Super liga Srbije
+SC Otelul Galati,4959,Romania,SuperLiga
+FC U Craiova 1948,1007,Romania,SuperLiga
+FC Nordsjaelland,2778,Denmark,Superligaen
+Paysandu Sport Club (PA),6347,Brazil,Série A
+Ankaraspor,2944,Turkey,Süper Lig
+Kayserispor,3205,Turkey,Süper Lig
+FC Inter Turku,8042,Finland,Veikkausliiga
+Lokomotiv Plovdiv,2259,Bulgaria,efbet Liga
+Marek Dupnitsa,5284,Bulgaria,efbet Liga
+Neftochimik Burgas,760,Bulgaria,efbet Liga
+FK Orel,10627,Russia,1.Division
+Sportfreunde Siegen,63,Germany,2. Bundesliga
+UD Salamanca,1087,Spain,2ª B - Grupo II
+Atlético Levante UD,11516,Spain,2ª B - Grupo III
+SD Huesca,5358,Spain,2ª B - Grupo III
+Karsspor,18773,Turkey,3.Lig Grup 1
+Amed SK,12382,Turkey,3.Lig Grup 1
+Tokatspor,11250,Turkey,3.Lig Grup 2
+Arsinspor,1512,Turkey,3.Lig Grup 2
+Göztepe,1467,Turkey,3.Lig Grup 3
+Bakirköyspor,3202,Turkey,3.Lig Grup 4
+Beylerbeyispor,11675,Turkey,3.Lig Grup 4
+FC Luzern,434,Switzerland,Challenge League
+Oud-Heverlee Leuven,2727,Belgium,Challenger Pro League
+KAS Eupen,1245,Belgium,Challenger Pro League
+KV Kortrijk,601,Belgium,Challenger Pro League
+Royale Union Saint Gilloise,3948,Belgium,Challenger Pro League
+SK Beveren,28643,Belgium,Challenger Pro League
+Stoke City,512,England,Championship
+Southampton FC,180,England,Championship
+Derby County,22,England,Championship
+Crystal Palace,873,England,Championship
+Norwich City,1123,England,Championship
+Watford FC,1010,England,Championship
+Luton Town,1031,England,Championship
+Wolverhampton Wanderers,543,England,Championship
+Heracles Almelo,1304,Netherlands,Eredivisie
+GS Ergotelis,5220,Greece,Football League
+FC Petrzalka,2781,Slovakia,Fortuna Liga
+Dukla Banska Bystrica (1965 - 2017),4786,Slovakia,Fortuna Liga
+Cerezo Osaka,1022,Japan,J1 League
+Yokohama F. Marinos,3828,Japan,J1 League
+Oita Trinita,3935,Japan,J1 League
+KSV Roeselare (- 2020),2977,Belgium,Jupiler Pro League
+SV Zulte Waregem,3508,Belgium,Jupiler Pro League
+FC Molenbeek Brüssel,3898,Belgium,Jupiler Pro League
+Ulsan Hyundai,3535,"Korea, South",K League - 2nd Stage
+Gimnàstic de Tarragona,5648,Spain,LaLiga2
+Milton Keynes Dons,991,England,League One
+Gillingham FC,2814,England,League One
+Brentford FC,1148,England,League One
+Rotherham United,1194,England,League One
+Tranmere Rovers,1074,England,League One
+Lincoln City,1198,England,League Two
+AC Reggiana,5621,Italy,Lega Pro 2 - B
+CF Monterrey,2407,Mexico,Liga MX Clausura
+Associação Naval 1893,4814,Portugal,Liga Portugal
+SC Beira-Mar,1436,Portugal,Liga Sabseg
+Moreirense FC,979,Portugal,Liga Sabseg
+FC Marco (-2008),95875,Portugal,Liga Sabseg
+GD Estoril Praia,1465,Portugal,Liga Sabseg
+SC Olhanense,4750,Portugal,Liga Sabseg
+CD Santa Clara,2423,Portugal,Liga Sabseg
+FC Barreirense,5707,Portugal,Liga Sabseg
+Portimonense SC,7378,Portugal,Liga Sabseg
+SC Bastia,595,France,Ligue 2
+ES Zarzis,2205,Tunisia,Ligue I Pro
+MC Algiers,8850,Algeria,Ligue Professionnelle 1
+Pécsi MFC,3233,Hungary,NB I.
+SV Yesilyurt,1296,Germany,NOFV-Oberliga Nord
+Waterford FC,7609,Ireland,Premier Division
+Shamrock Rovers,3258,Ireland,Premier Division
+Bohemian Football Club,9211,Ireland,Premier Division
+Wigan Athletic,1071,England,Premier League
+Enppi SC,9218,Egypt,Premier League
+Akhmat Grozny,3725,Russia,Premier Liga
+Spartak Nalchik,8835,Russia,Premier Liga
+Luch Vladivostok,4057,Russia,Premier Liga
+FK Buducnost Banovici,6801,Bosnia-Herzegovina,Premijer Liga
+Fortuna Düsseldorf,38,Germany,Regionalliga Nord
+Rot-Weiß Oberhausen,57,Germany,Regionalliga Nord
+Rot-Weiß Erfurt,111,Germany,Regionalliga Nord
+SSV Jahn Regensburg,109,Germany,Regionalliga Süd
+VfR Aalen,83,Germany,Regionalliga Süd
+ACD Treviso,2251,Italy,Serie A
+Ascoli Calcio,408,Italy,Serie A
+US Catanzaro,4097,Italy,Serie B
+Rimini FC,4111,Italy,Serie B
+US Salernitana,380,Italy,Serie C - A
+Genoa CFC,252,Italy,Serie C - A
+ASD Giulianova,4254,Italy,Serie C - A
+AC Perugia,839,Italy,Serie C - B
+US Massese 1919,4113,Italy,Serie C - B
+Lucchese 1905,1253,Italy,Serie C - B
+Frosinone Calcio,8970,Italy,Serie C - B
+Shandong Taishan,3182,China,Super League
+Ionikos Nikeas,553,Greece,Super League 1
+Apollon Pontou,3392,Greece,Super League 1
+APO Levadiakos,2672,Greece,Super League 1
+NK Osijek,327,Croatia,SuperSport HNL
+GNK Dinamo Zagreb,419,Croatia,SuperSport HNL
+NK Inker,918,Croatia,SuperSport HNL
+NK Varazdin,599,Croatia,SuperSport HNL
+HNK Hajduk Split,447,Croatia,SuperSport HNL
+Slaven Belupo Koprivnica,2362,Croatia,SuperSport HNL
+NK Medjimurje Cakovec,6087,Croatia,SuperSport HNL
+Viborg FF,1063,Denmark,Superligaen
+Brasiliense Futebol Clube (DF),3973,Brazil,Série A
+Manisaspor,1267,Turkey,Süper Lig
+Sivasspor,2381,Turkey,Süper Lig
+FF Jaro,3650,Finland,Veikkausliiga
+Aarhus GF,678,Denmark,1.Division
+BK Frem,444,Denmark,1.Division
+Torpedo Moscow,1186,Russia,1.Division
+GFK Sterlitamak,9687,Russia,1.Division
+Salyut Belgorod,6672,Russia,1.Division
+Spartak Nizhniy Novgorod (- 2007),10898,Russia,1.Division
+Avangard Kursk,11122,Russia,1.Division
+Spartak Vladikavkaz (-2020),2703,Russia,1.Division
+Usakspor (-2010),3846,Turkey,1.Lig
+SC Paderborn 07,127,Germany,2. Bundesliga
+Real Oviedo,2497,Spain,2ª B - Grupo II
+Bursa Merinosspor,4628,Turkey,3.Lig Grup 3
+Sarayköy 1926 FK,4652,Turkey,3.Lig Grup 3
+Aydinspor,45468,Turkey,3.Lig Grup 3
+Ispartaspor,11095,Turkey,3.Lig Grup 3
+Bagcilar Spor Kulübü,14933,Turkey,3.Lig Grup 4
+Alemannia Aachen,8,Germany,Bundesliga
+FC Chiasso,510,Switzerland,Challenge League
+Servette FC,61,Switzerland,Challenge League
+KFC Dessel Sport,1910,Belgium,Challenger Pro League
+KFC VW Hamme,3134,Belgium,Challenger Pro League
+FCV Dender EH,9010,Belgium,Challenger Pro League
+Lommel SK,5026,Belgium,Challenger Pro League
+Sunderland AFC,289,England,Championship
+Birmingham City,337,England,Championship
+West Bromwich Albion,984,England,Championship
+Sheffield Wednesday,1035,England,Championship
+Colchester United,1060,England,Championship
+GKS Belchatow,716,Poland,Ekstraklasa
+Wisla Plock,2118,Poland,Ekstraklasa
+Ethnikos Asteras,3396,Greece,Football League
+FC Senec,8146,Slovakia,Fortuna Liga
+FK Mlada Boleslav,5546,Czech Republic,Fortuna Liga
+MSK Zilina,1443,Slovakia,Fortuna Liga
+Gimnàstic de Tarragona,5648,Spain,LaLiga
+Málaga CF,1084,Spain,LaLiga2
+Lorca Deportiva CF (- 2011),7972,Spain,LaLiga2
+Brighton & Hove Albion,1237,England,League One
+Leyton Orient,1150,England,League One
+Bristol City,698,England,League One
+Chesterfield FC,1219,England,League One
+Shrewsbury Town,3054,England,League Two
+Cuoiopelli Cappiano Romaiano,5589,Italy,Lega Pro 2 - B
+Giugliano Calcio 1928,9818,Italy,Lega Pro 2 - B
+Paganese Calcio 1926,19164,Italy,Lega Pro 2 - B
+Deportivo Guadalajara,6711,Mexico,Liga MX Clausura
+Vitória Guimarães SC,2420,Portugal,Liga Sabseg
+Gil Vicente FC,2424,Portugal,Liga Sabseg
+FC Vizela,6912,Portugal,Liga Sabseg
+CD Olivais e Moscavide,3341,Portugal,Liga Sabseg
+Rio Ave FC,2425,Portugal,Liga Sabseg
+FC Penafiel,3327,Portugal,Liga Sabseg
+Valenciennes FC,1423,France,Ligue 1
+FC Libourne,2968,France,Ligue 2
+Toronto FC,11141,Canada,MLS
+Berliner AK 07,584,Germany,NOFV-Oberliga Nord
+Molde FK,687,Norway,OBOS-ligaen
+SpVgg Bayern Hof,248,Germany,Oberliga Bayern
+VfB Homberg,4840,Germany,Oberliga Nordrhein
+FC Aboomoslem,7390,Iran,Persian Gulf Pro League
+Reading FC,1032,England,Premier League
+FK Khimki,3719,Russia,Premier Liga
+FK Alfa Modriča,6803,Bosnia-Herzegovina,Premijer Liga
+LD Alajuelense,6478,Costa Rica,Primera División Clausura
+Deportivo Saprissa,4720,Costa Rica,Primera División Clausura
+SG Dynamo Dresden,129,Germany,Regionalliga Nord
+Rot Weiss Ahlen,50,Germany,Regionalliga Nord
+Sportfreunde Siegen,63,Germany,Regionalliga Süd
+Catania SSD,1627,Italy,Serie A
+Juventus FC,506,Italy,Serie B
+Mantova 1911,2581,Italy,Serie B
+FC Pavia 1911,5174,Italy,Serie C - A
+Novara FC,6692,Italy,Serie C - A
+Sangiovannese 1927,6351,Italy,Serie C - A
+Ternana Calcio,1103,Italy,Serie C - B
+SEF Torres 1903,2253,Italy,Serie C - B
+Guangzhou City,18916,China,Super League
+Shenzhen FC,1320,China,Super League
+FC Schaffhausen,1277,Switzerland,Super League
+AO Xanthi,128,Greece,Super League 1
+GS Ergotelis,5220,Greece,Super League 1
+FK Smederevo,3544,Serbia,Super liga Srbije
+FK Hajduk 1912,3140,Serbia,Super liga Srbije
+Farul Constanta (- 2016),5267,Romania,SuperLiga
+Politehnica Timisoara ( - 2012),7074,Romania,SuperLiga
+Unirea Urziceni ( - 2011),10442,Romania,SuperLiga
+HNK Rijeka,144,Croatia,SuperSport HNL
+NK Kamen Ingrad Velika,2776,Croatia,SuperSport HNL
+NK Istra 1961,999,Croatia,SuperSport HNL
+NK Zagreb,5107,Croatia,SuperSport HNL
+HNK Sibenik,223,Croatia,SuperSport HNL
+Clube Náutico Capibaribe,2646,Brazil,Série A
+Daugava Daugavpils,9828,Latvia,Virsliga
+FK Daugava Riga,6181,Latvia,Virsliga
+Beroe Stara Zagora,6764,Bulgaria,efbet Liga
+Vihren Sandanski,11255,Bulgaria,efbet Liga
+Silkeborg IF,1177,Denmark,1.Division
+Nosta Novotroitsk,11135,Russia,1.Division
+SC Schwanenstadt 08,4319,Austria,2. Liga
+SD Ponferradina,4032,Spain,2ª B - Grupo II
+Benidorm CF (-2011),13805,Spain,2ª B - Grupo III
+Terrassa FC,1881,Spain,2ª B - Grupo III
+Ankara Demirspor,12524,Turkey,3.Lig Grup 2
+Muglaspor,2378,Turkey,3.Lig Grup 3
+Kücükcekmecespor,12860,Turkey,3.Lig Grup 4
+Orhangazi Belediyespor,12466,Turkey,3.Lig Grup 4
+Melbourne Victory,7006,Australia,A-League Men
+Central Coast Mariners,6954,Australia,A-League Men
+Brisbane Roar,7831,Australia,A-League Men
+FC Wil 1900,850,Switzerland,Challenge League
+FC Schaffhausen,1277,Switzerland,Challenge League
+KSK Beveren (- 2010),1073,Belgium,Challenger Pro League
+Lierse SK (- 2018),204,Belgium,Challenger Pro League
+Plymouth Argyle,2262,England,Championship
+Charlton Athletic,358,England,Championship
+FC Hradec Kralove,1897,Czech Republic,FNL
+AO Egaleo,2984,Greece,Football League
+Athens Kallithea FC,3062,Greece,Football League
+Polonia Warsaw,2745,Poland,Fortuna 1 Liga
+FC Nitra,1562,Slovakia,Fortuna Liga
+Urawa Red Diamonds,828,Japan,J1 League
+Kyoto Sanga,593,Japan,J1 League
+Nagoya Grampus,1066,Japan,J1 League
+Tokyo Verdy,3734,Japan,J2 League
+FCV Dender EH,9010,Belgium,Jupiler Pro League
+FC Brüssel,3898,Belgium,Jupiler Pro League
+Almere City FC,723,Netherlands,Keuken Kampioen Divisie
+RKC Waalwijk,235,Netherlands,Keuken Kampioen Divisie
+UD Almería,3302,Spain,LaLiga
+Real Sociedad,681,Spain,LaLiga2
+Sevilla Atlético,8519,Spain,LaLiga2
+Swindon Town,352,England,League One
+Leeds United,399,England,League One
+Walsall FC,899,England,League One
+Stockport County,1098,England,League Two
+AC Prato,2250,Italy,Lega Pro 2 - B
+US Poggibonsi,4515,Italy,Lega Pro 2 - B
+ASD Giulianova,4254,Italy,Lega Pro 2 - B
+Tecos FC,4565,Mexico,Liga MX Clausura
+Deportivo Toluca,1804,Mexico,Liga MX Clausura
+Tiburones Rojos de Veracruz,5138,Mexico,Liga MX Clausura
+Leixões SC,3345,Portugal,Liga Portugal
+CD Trofense,3348,Portugal,Liga Sabseg
+Gondomar SC,3323,Portugal,Liga Sabseg
+SC Freamunde,2421,Portugal,Liga Sabseg
+CD Feirense,3349,Portugal,Liga Sabseg
+CD Fátima SAD,6987,Portugal,Liga Sabseg
+FC Nantes,995,France,Ligue 2
+Dijon FCO,2969,France,Ligue 2
+US Boulogne,7042,France,Ligue 2
+MC Oran,8851,Algeria,Ligue Professionnelle 1
+CR Belouizdad,13365,Algeria,Ligue Professionnelle 1
+Real Salt Lake City,6643,United States,MLS
+Kaposvári Rákóczi FC,6056,Hungary,NB I.
+Holstein Kiel,269,Germany,Oberliga Nord
+Msida St. Joseph FC,8280,Malta,Premier League
+Hibernians FC,10604,Malta,Premier League
+FK Sloboda Tuzla,5405,Bosnia-Herzegovina,Premijer Liga
+CS Herediano,2677,Costa Rica,Primera División Clausura
+Club Atlético Belgrano,2417,Argentina,Primera Nacional
+NK Solin,8101,Croatia,Prva NL
+FK Rad,902,Serbia,Prva liga Srbije
+FK Vozdovac,4634,Serbia,Prva liga Srbije
+FK BSK Borca,9060,Serbia,Prva liga Srbije
+SC Verl,93,Germany,Regionalliga Nord
+KSV Hessen Kassel,373,Germany,Regionalliga Süd
+Ternana Calcio,1103,Italy,Serie C - A
+Hellas Verona,276,Italy,Serie C - A
+Calcio Foggia 1920,704,Italy,Serie C - A
+Cavese 1919,6266,Italy,Serie C - A
+Città di Foligno 1928,11337,Italy,Serie C - A
+SS Arezzo,4255,Italy,Serie C - B
+Sangiovannese 1927,6351,Italy,Serie C - B
+FC Crotone,4083,Italy,Serie C - B
+Potenza Calcio,7197,Italy,Serie C - B
+AE Larisa,4603,Greece,Super League 1
+FK Banat Zrenjanin,6619,Serbia,Super liga Srbije
+Politehnica Iasi (1945 - 2010),9560,Romania,SuperLiga
+CF Gloria Bistrita (- 2015),4688,Romania,SuperLiga
+Randers FC,5724,Denmark,Superligaen
+Sport Club Corinthians Paulista,199,Brazil,Série B
+Grêmio Barueri (SP),8698,Brazil,Série B
+Paraná Clube,309,Brazil,Série B
+Marília Atlético Clube (SP),3334,Brazil,Série B
+Sociedade Esportiva do Gama (DF),7014,Brazil,Série B
+Hacettepe Spor,10483,Turkey,Süper Lig
+Kasimpasa,10484,Turkey,Süper Lig
+Basaksehir FK,6890,Turkey,Süper Lig
+Genclerbirligi Oftasspor,10483,Turkey,Süper Lig
+Naftan Novopolotsk,8563,Belarus,Vysheyshaya Liga
+Partizan Minsk (- 2014),10640,Belarus,Vysheyshaya Liga
+Belasitsa Petrich,2190,Bulgaria,efbet Liga
+SKA Rostov-na-Donu,6673,Russia,1.Division
+Giresunspor,11688,Turkey,1.Lig
+SV Wehen Wiesbaden,108,Germany,2. Bundesliga
+FC Augsburg,167,Germany,2. Bundesliga
+Atlético Baleares,18687,Spain,2ª B - Grupo III
+Granada 74 CF (-2009),3896,Spain,2ª B - Grupo IV
+Kickers Emden,139,Germany,3. Liga
+FC Carl Zeiss Jena,113,Germany,3. Liga
+SC Paderborn 07,127,Germany,3. Liga
+SSV Jahn Regensburg,109,Germany,3. Liga
+Wuppertaler SV,299,Germany,3. Liga
+FC Erzgebirge Aue,94,Germany,3. Liga
+SpVgg Unterhaching,66,Germany,3. Liga
+Stuttgarter Kickers,71,Germany,3. Liga
+SV Sandhausen,254,Germany,3. Liga
+Büyükcekmece Tepecik Spor,25253,Turkey,3.Lig Grup 1
+Orhangazi Genclerbirligi,24320,Turkey,3.Lig Grup 1
+Inegölspor,2319,Turkey,3.Lig Grup 3
+Ankara Keciörengücü,12388,Turkey,3.Lig Grup 3
+Erzincanspor,12345,Turkey,3.Lig Grup 4
+Araklispor,12376,Turkey,3.Lig Grup 4
+Perth Glory,970,Australia,A-League Men
+Adelaide United,875,Australia,A-League Men
+SV Mattersburg (-2020),856,Austria,Bundesliga
+SK Austria Kärnten (-2010),11609,Austria,Bundesliga
+TSG 1899 Hoffenheim,533,Germany,Bundesliga
+FC Lugano,2790,Switzerland,Challenge League
+Sint-Truidense VV,475,Belgium,Challenger Pro League
+RFC Tournai,3751,Belgium,Challenger Pro League
+Union Namur Fosses-la-Ville,3728,Belgium,Challenger Pro League
+Olympic Club Charleroi Farciennes,3146,Belgium,Challenger Pro League
+Livingston FC,1241,Scotland,Championship
+SuperSport United,2891,South Africa,DStv Premiership
+Richards Bay FC ,12668,South Africa,DStv Premiership
+Fredrikstad FK,3837,Norway,Eliteserien
+Slezsky FC Opava,479,Czech Republic,FNL
+Veria NPS,2079,Greece,Football League
+Korona Kielce,6110,Poland,Fortuna 1 Liga
+Vissel Kobe,3958,Japan,J1 League
+R Union Tubize-Braine,3772,Belgium,Jupiler Pro League
+AFC Tubize,3772,Belgium,Jupiler Pro League
+Jeonbuk Hyundai Motors,6502,"Korea, South",K League 1
+Northampton Town,1302,England,League One
+Leicester City,1003,England,League One
+Macclesfield Town (- 2020),2436,England,League Two
+Darlington FC (- 2012),1089,England,League Two
+Rotherham United,1194,England,League Two
+ACD Sangiustese,25922,Italy,Lega Pro 2 - B
+CD Trofense,3348,Portugal,Liga Portugal
+Boavista FC,2503,Portugal,Liga Sabseg
+União de Leiria,2639,Portugal,Liga Sabseg
+SC Covilhã,10140,Portugal,Liga Sabseg
+Ihud Bnei Sakhnin,4769,Israel,Ligat ha'Al
+Grenoble Foot 38,1290,France,Ligue 1
+RC Lens,826,France,Ligue 2
+CD Chivas USA,6642,United States,MLS
+IK Start,267,Norway,OBOS-ligaen
+Moss FK,2961,Norway,OBOS-ligaen
+Hönefoss BK,632,Norway,OBOS-ligaen
+Sligo Rovers,8780,Ireland,Premier Division
+Stoke City,512,England,Premier League
+Hull City,3008,England,Premier League
+Shakhter Karaganda,10480,Kazakhstan,Premier Liga
+Neftchi Baku,8031,Azerbaijan,Premyer Liqa
+Club Atlético All Boys,12100,Argentina,Primera Nacional
+NK Drava Ptuj,3812,Slovenia,Prva Liga
+ NK Jaska Vinogradar Jastrebarsko,11278,Croatia,Prva NL
+FK Bezanija,10319,Serbia,Prva liga Srbije
+Al-Ittihad Club (Jeddah),8023,Saudi Arabia,Saudi Pro League
+AS Cittadella,4084,Italy,Serie B
+Parma FC,130,Italy,Serie B
+Frosinone Calcio,8970,Italy,Serie B
+Sorrento 1945,10118,Italy,Serie C - B
+Paganese Calcio 1926,19164,Italy,Serie C - B
+Asteras Tripolis,6676,Greece,Super League 1
+FK Čukarički,6621,Serbia,Super liga Srbije
+FK Napredak Krusevac,788,Serbia,Super liga Srbije
+FK Javor-Matis Ivanjica,8819,Serbia,Super liga Srbije
+Pandurii Targu Jiu ,8715,Romania,SuperLiga
+NK Croatia Sesvete,5111,Croatia,SuperSport HNL
+Grêmio Barueri (SP),8698,Brazil,Série A
+Esporte Clube Juventude,10492,Brazil,Série B
+Vila Nova Futebol Clube (GO),5677,Brazil,Série B
+Criciúma Esporte Clube,7178,Brazil,Série B
+Club de Regatas Vasco da Gama,978,Brazil,Série B
+América Futebol Clube (RN),1751,Brazil,Série B
+Ceará Sporting Club,2029,Brazil,Série B
+Red Bull Bragantino,8793,Brazil,Série B
+Esporte Clube Bahia,10010,Brazil,Série B
+Esporte Clube Santo André (SP),7478,Brazil,Série B
+CD Palestino,6536,Chile,Torneo Clausura
+Rangers de Talca,18720,Chile,Torneo Clausura
+Viborg FF,1063,Denmark,1.Division
+Kolding FC,5886,Denmark,1.Division
+FK Nizhniy Novgorod (- 2012),16594,Russia,1.Division
+MVD Rossii Moscow (-2012),16595,Russia,1.Division
+Hacettepe Spor,10483,Turkey,1.Lig
+TuS Koblenz,996,Germany,2. Bundesliga
+FSV Frankfurt,293,Germany,2. Bundesliga
+SCR Altach,3551,Austria,2. Liga
+Elazigspor,2292,Turkey,2.Lig Kirmizi
+Deportivo Alavés,1108,Spain,2ª B - Grupo II
+CD Tenerife B,11617,Spain,2ª B - Grupo II
+CD Puertollano (- 2015),13242,Spain,2ª B - Grupo II
+FC Ingolstadt 04,4795,Germany,3. Liga
+SV Wehen Wiesbaden,108,Germany,3. Liga
+Menemen FK,20664,Turkey,3.Lig Grup 2
+Muglaspor,2378,Turkey,3.Lig Grup 2
+Darica Genclerbirligi,12380,Turkey,3.Lig Grup 3
+Gümüshanespor,4574,Turkey,3.Lig Grup 4
+Yverdon Sport FC,322,Switzerland,Challenge League
+Royal Francs Borains,2974,Belgium,Challenger Pro League
+Amiens SC,1416,France,Championnat National
+FC Gueugnon,1397,France,Championnat National
+Newcastle United,762,England,Championship
+Middlesbrough FC,641,England,Championship
+Swansea City,2288,Wales,Championship
+Barnsley FC,349,England,Championship
+Lamontville Golden Arrows,7011,South Africa,DStv Premiership
+Free State Stars,9368,South Africa,DStv Premiership
+Bidvest Wits FC,10680,South Africa,DStv Premiership
+Thrasyvoulos Fylis,6678,Greece,Football League
+Olympiakos Volou,4602,Greece,Football League
+FC VSS Kosice (2005-2017),779,Slovakia,Fortuna Liga
+1.FC Tatran Presov,4531,Slovakia,Fortuna Liga
+Xerez CD,134,Spain,LaLiga
+SD Huesca,5358,Spain,LaLiga2
+Charlton Athletic,358,England,League One
+Southampton FC,180,England,League One
+Grimsby Town,1034,England,League Two
+Accrington Stanley,3688,England,League Two
+AC Bellaria Igea Marina,10643,Italy,Lega Pro 2 - B
+Celano FC Marsica,10686,Italy,Lega Pro 2 - B
+VF Colligiana,10561,Italy,Lega Pro 2 - B
+Carrarese Calcio 1908,4159,Italy,Lega Pro 2 - B
+Nocerina Calcio,4114,Italy,Lega Pro 2 - B
+Persija Jakarta,14107,Indonesia,Liga 1
+FC Botosani,8818,Romania,Liga 2
+CS Otopeni,12682,Romania,Liga II - Seria II
+SC Olhanense,4750,Portugal,Liga Portugal
+UD Oliveirense,8827,Portugal,Liga Sabseg
+US Boulogne,7042,France,Ligue 1
+Athlétic Club Arlésien,11300,France,Ligue 2
+Houston Dynamo FC,9168,United States,MLS
+Pápai Perutz FC,7682,Hungary,NB I.
+Fredrikstad FK,3837,Norway,OBOS-ligaen
+Foolad FC,6076,Iran,Persian Gulf Pro League
+Galway United FC (- 2011),9212,Ireland,Premier Division
+Burnley FC,1132,England,Premier League
+Sibir Novosibirsk (- 2019),10688,Russia,Premier Liga
+FK Slavija Sarajevo,6807,Bosnia-Herzegovina,Premijer Liga
+Qarabağ FK,10625,Azerbaijan,Premyer Liqa
+FC Shamakhi,8956,Azerbaijan,Premyer Liqa
+Standard Sumqayit,13329,Azerbaijan,Premyer Liqa
+Club Nacional,866,Uruguay,Primera División Clausura
+Defensor Sporting Club,2619,Uruguay,Primera División Clausura
+CA Tiro Federal,9645,Argentina,Primera Nacional
+Quilmes Atlético Club,1826,Argentina,Primera Nacional
+Instituto AC Córdoba,1829,Argentina,Primera Nacional
+SV Wienerberg,11757,Austria,Regional League East
+Ettifaq FC,7732,Saudi Arabia,Saudi Pro League
+Al-Ahli Saudi FC,18487,Saudi Arabia,Saudi Pro League
+US Grosseto 1912,4333,Italy,Serie B
+US Pergolettese 1932,4553,Italy,Serie C - A
+Rimini FC,4111,Italy,Serie C - B
+Hellas Verona,276,Italy,Serie C - B
+AC Bellinzona,2047,Switzerland,Super League
+CFR Cluj,7769,Romania,SuperLiga
+AFC Unirea 1924 (- 2022),13839,Romania,SuperLiga
+FC Brasov (- 2017),4687,Romania,SuperLiga
+Esporte Clube Santo André (SP),7478,Brazil,Série A
+AD São Caetano (SP),291,Brazil,Série B
+Coritiba Foot Ball Club,776,Brazil,Série B
+Figueirense Futebol Clube,4064,Brazil,Série B
+Audax Italiano,6363,Chile,Torneo Clausura
+CSD Colo Colo,2433,Chile,Torneo Clausura
+FC Laufen,8458,Switzerland,1.Liga gr. 2
+Hacettepe Spor,10483,Turkey,2.Lig Beyaz
+Bozüyükspor,14928,Turkey,2.Lig Beyaz
+Sekerspor,5743,Turkey,2.Lig Beyaz
+1461 Trabzon,12381,Turkey,2.Lig Kirmizi
+Adana Demirspor,3840,Turkey,2.Lig Kirmizi
+SD Lemona (- 2012),13237,Spain,2ª B - Grupo II
+SD Eibar,1533,Spain,2ª B - Grupo II
+UD Almería B,11986,Spain,2ª B - Grupo IV
+Real Murcia CF,171,Spain,2ª B - Grupo IV
+Kickers Offenbach,107,Germany,3. Liga
+FC Hansa Rostock,30,Germany,3. Liga
+Bagcilar Spor Kulübü,14933,Turkey,3.Lig Grup 2
+Altinordu FK,12374,Turkey,3.Lig Grup 2
+Darica Genclerbirligi,12380,Turkey,3.Lig Grup 2
+Siirtspor,1291,Turkey,3.Lig Grup 3
+Gold Coast United,15889,Australia,A-League Men
+KFC Turnhout,3230,Belgium,Challenger Pro League
+RC Strasbourg Alsace,667,France,Championnat National
+EA Guingamp,855,France,Championnat National
+AS Cannes,895,France,Championnat National
+AS Beauvais Oise,3135,France,Championnat National
+Fréjus-Saint-Raphaël FC,30200,France,Championnat National
+Pacy Ménilles Racing Club,3545,France,Championnat National
+Hull City,3008,England,Championship
+Dundee FC,511,Scotland,Championship
+Portsmouth FC,1020,England,Championship
+TOP Oss,1228,Netherlands,Derde Divisie Sunday
+Korona Kielce,6110,Poland,Ekstraklasa
+Cracovia,5689,Poland,Ekstraklasa
+Strømsgodset IF,2817,Norway,Eliteserien
+Odds BK,1058,Norway,Eliteserien
+FK Viktoria Zizkov,892,Czech Republic,FNL
+Panthrakikos Komotini,7185,Greece,Football League
+APO Levadiakos,2672,Greece,Football League
+Piast Gliwice,6112,Poland,Fortuna 1 Liga
+Spartak Trnava,365,Slovakia,Fortuna Liga
+FC Viktoria Plzen,941,Czech Republic,Fortuna Liga
+FK Senica,6163,Slovakia,Fortuna Liga
+Sanfrecce Hiroshima,2697,Japan,J1 League
+Shimizu S-Pulse,1062,Japan,J1 League
+Albirex Niigata,8344,Japan,J1 League
+Kawasaki Frontale,9598,Japan,J1 League
+FC Tokyo,6631,Japan,J2 League
+Roasso Kumamoto,22175,Japan,J2 League
+JEF United Chiba,672,Japan,J2 League
+KAS Eupen,1245,Belgium,Jupiler Pro League
+FC Cartagena,7077,Spain,LaLiga2
+Rochdale AFC,1088,England,League One
+Wycombe Wanderers,2805,England,League Two
+Portimonense SC,7378,Portugal,Liga Portugal
+CF Os Belenenses,68608,Portugal,Liga Sabseg
+Hapoel Acre,6025,Israel,Ligat ha'Al
+Stade Brestois 29,3911,France,Ligue 1
+Athlétic Club Arlésien,11300,France,Ligue 1
+Vannes OC,1377,France,Ligue 2
+Steel Azin FC,22609,Iran,Persian Gulf Pro League
+Blackpool FC,1181,England,Premier League
+FK Krasnodar,16704,Russia,Premier Liga
+Volga Nizhniy Novgorod (- 2016),12438,Russia,Premier Liga
+FK Velez Mostar,628,Bosnia-Herzegovina,Premijer Liga
+NK Celik Zenica,765,Bosnia-Herzegovina,Premijer Liga
+Danubio FC,1306,Uruguay,Primera División Clausura
+CA Peñarol,861,Uruguay,Primera División Clausura
+Atletico River Plate Montevideo,2419,Uruguay,Primera División Clausura
+Racing Club de Montevideo,14758,Uruguay,Primera División Clausura
+CA Rosario Central,1418,Argentina,Primera Nacional
+Vardar Skopje,77,North Macedonia,Prva liga
+FK Mladost Lucani,6622,Serbia,Prva liga Srbije
+Al-Shabab Club (Riyadh),9840,Saudi Arabia,Saudi Pro League
+AC Cesena,1429,Italy,Serie A
+Novara FC,6692,Italy,Serie B
+Varese Calcio,4361,Italy,Serie B
+Paganese Calcio 1926,19164,Italy,Serie C - A
+Cavese 1919,6266,Italy,Serie C - B
+Città di Foligno 1928,11337,Italy,Serie C - B
+Atletico Roma,9353,Italy,Serie C - B
+Atromitos Athen,3060,Greece,Super League 1
+FK BSK Borca,9060,Serbia,Super liga Srbije
+FK Indjija,11044,Serbia,Super liga Srbije
+NK Karlovac 1919,10314,Croatia,SuperSport HNL
+Ceará Sporting Club,2029,Brazil,Série A
+Avaí Futebol Clube (SC),2035,Brazil,Série A
+Clube Náutico Capibaribe,2646,Brazil,Série B
+Guaratinguetá Futebol Ltda. (SP),15064,Brazil,Série B
+Ipatinga Futebol Clube (MG),3270,Brazil,Série B
+Duque de Caxias Futebol Clube (RJ),15656,Brazil,Série B
+Brasiliense Futebol Clube (DF),3973,Brazil,Série B
+Buca Gelistirme Spor,2750,Turkey,Süper Lig
+Bucaspor,2750,Turkey,Süper Lig
+CD Universidad Católica,17584,Chile,Torneo Clausura
+Unión San Felipe,15952,Chile,Torneo Clausura
+Al-Dhafra FC,14456,United Arab Emirates,UAE Pro League
+Al-Nasr SC (UAE),5432,United Arab Emirates,UAE Pro League
+FC Honka,5411,Finland,Veikkausliiga
+Chernomorets 1919 Burgas,4494,Bulgaria,efbet Liga
+Esbjerg fB,3426,Denmark,1.Division
+TKI Tavsanli Linyitspor,23667,Turkey,1.Lig
+Karelia Petrozavodsk,17960,Russia,2 League Group 2
+FK Istra,13204,Russia,2 League Group 2
+Lokomotiv-Kazanka Moscow,21507,Russia,2 League Group 2
+Sokol Saratov,3834,Russia,2 League Group 3
+FK Podolje ( - 2015),33536,Russia,2 League Group 3
+Akademia Togliatti (-2012),21637,Russia,2 League Group 4
+FC Lustenau,2231,Austria,2. Liga
+Corumspor,20681,Turkey,2.Lig Beyaz
+Altay SK,2375,Turkey,2.Lig Beyaz
+Pendikspor,3209,Turkey,2.Lig Beyaz
+Defne Anadolu FK,9851,Turkey,2.Lig Beyaz
+Ofspor,12555,Turkey,2.Lig Beyaz
+Zamora CF,10907,Spain,2ª B - Grupo II
+Orihuela CF,4054,Spain,2ª B - Grupo III
+1.FC Saarbrücken,1,Germany,3. Liga
+Chemnitzer FC,21,Germany,3. Liga
+1.FC Heidenheim 1846,2036,Germany,3. Liga
+SV Darmstadt 98,105,Germany,3. Liga
+VfR Aalen,83,Germany,3. Liga
+VfL Osnabrück,81,Germany,3. Liga
+Inegölspor,2319,Turkey,3.Lig Grup 1
+Kepez Belediyespor,31787,Turkey,3.Lig Grup 2
+Dardanelspor,1507,Turkey,3.Lig Grup 3
+Melbourne City FC,25580,Australia,A-League Men
+CS Fola Esch,11976,Luxembourg,BGL Ligue
+FC Augsburg,167,Germany,Bundesliga
+SV Kapfenberg,2394,Austria,Bundesliga
+1. Wiener Neustädter SC,17444,Austria,Bundesliga
+RSC Charleroi,172,Belgium,Challenger Pro League
+KSK Heist,9888,Belgium,Challenger Pro League
+White Star Brussels (- 2017),6342,Belgium,Challenger Pro League
+Le Poiré-sur-Vie VF,9902,France,Championnat National
+Nîmes Olympique,1160,France,Championnat National
+Paris FC,10004,France,Championnat National
+SAS Epinal,10838,France,Championnat National
+Luzenac Ariège Pyrénées,10407,France,Championnat National
+FC Martigues,1165,France,Championnat National
+US Créteil-Lusitanos,2067,France,Championnat National
+Blackpool FC,1181,England,Championship
+Peterborough United,1072,England,Championship
+Brighton & Hove Albion,1237,England,Championship
+VV Capelle,20945,Netherlands,Derde Divisie Saturday
+KVV Quick '20,21615,Netherlands,Derde Divisie Sunday
+AFC Amsterdam,2838,Netherlands,Derde Divisie Sunday
+Lechia Gdansk,4000,Poland,Ekstraklasa
+Polonia Bytom,7976,Poland,Fortuna 1 Liga
+Ventforet Kofu,10999,Japan,J2 League
+Oud-Heverlee Leuven,2727,Belgium,Jupiler Pro League
+Granada CF,16795,Spain,LaLiga
+Deportivo de La Coruña,897,Spain,LaLiga2
+CD Guadalajara,16576,Spain,LaLiga2
+Sheffield United,350,England,League One
+Huddersfield Town,1110,England,League One
+Preston North End,466,England,League One
+Real Agro Aversa,22403,Italy,Lega Pro 2 - B
+SS Città di Campobasso,18642,Italy,Lega Pro 2 - B
+SS Milazzo,22619,Italy,Lega Pro 2 - B
+Politehnica Timisoara ( - 2012),7074,Romania,Liga II - Seria II
+CD Feirense,3349,Portugal,Liga Portugal
+CF União Madeira,976,Portugal,Liga Sabseg
+Atlético CP,5227,Portugal,Liga Sabseg
+Dijon FCO,2969,France,Ligue 1
+FC Évian Thonon Gaillard,14171,France,Ligue 1
+AS Monaco,162,Monaco,Ligue 2
+ASO Chlef,13364,Algeria,Ligue Professionnelle 1
+Germania Schöneiche,1235,Germany,NOFV-Oberliga Nord
+Wrexham AFC,1112,Wales,National League
+Darlington FC (- 2012),1089,England,National League
+Swansea City,2288,Wales,Premier League
+Petrojet,10957,Egypt,Premier League
+Wadi Degla FC,18234,Egypt,Premier League
+Swansea City,2288,England,Premier League
+FK Orenburg,14589,Russia,Premier Liga
+FK Baku,10693,Azerbaijan,Premyer Liqa
+Liverpool FC Montevideo,10663,Uruguay,Primera División Clausura
+CA River Plate,209,Argentina,Primera Nacional
+Club de Gimnasia y Esgrima La Plata,1106,Argentina,Primera Nacional
+Shkendija Tetovo,1167,North Macedonia,Prva liga
+FK Indjija,11044,Serbia,Prva liga Srbije
+Al-Nassr FC,18544,Saudi Arabia,Saudi Pro League
+Novara Calcio 1908,6692,Italy,Serie A
+Nocerina Calcio,4114,Italy,Serie B
+Siracusa Calcio,8373,Italy,Serie C - B
+Carrarese Calcio 1908,4159,Italy,Serie C - B
+US Triestina,4271,Italy,Serie C - B
+US Cremonese,2239,Italy,Serie C - B
+AC Prato,2250,Italy,Serie C - B
+US Pergolettese 1932,4553,Italy,Serie C - B
+Piacenza Calcio 1919,1408,Italy,Serie C - B
+FC Südtirol,4554,Italy,Serie C - B
+Al-Wakrah SC,13509,Qatar,Stars League
+Al-Khor SC,5381,Qatar,Stars League
+Umm Salal SC,10920,Qatar,Stars League
+Panetolikos GFS,6418,Greece,Super League 1
+FC Vaslui (- 2014),8174,Romania,SuperLiga
+SönderjyskE,5817,Denmark,Superligaen
+Orduspor,2323,Turkey,Süper Lig
+Istanbul Büyüksehir Belediyespor,6890,Turkey,Süper Lig
+Mersin Idmanyurdu,3216,Turkey,Süper Lig
+Club Universidad de Chile,1037,Chile,Torneo Clausura
+Huachipato FC,6368,Chile,Torneo Clausura
+Unión Española,4321,Chile,Torneo Clausura
+CD O'Higgins,11470,Chile,Torneo Clausura
+Sharjah FC,13613,United Arab Emirates,UAE Pro League
+SHB Da Nang FC,14157,Vietnam,V.League 1
+Vendsyssel FF,19657,Denmark,1.Division
+MKE Ankaragücü,868,Turkey,1.Lig
+Fakel Voronezh,1124,Russia,2 League Group 3
+FK Orenburg,14589,Russia,2 League Group 4
+Gornyak Uchaly,23022,Russia,2 League Group 4
+KamAZ Naberezhnye Chelny,3243,Russia,2 League Group 4
+SSV Jahn Regensburg,109,Germany,2. Bundesliga
+SV Kapfenberg,2394,Austria,2. Liga
+Gaziosmanpasa,2324,Turkey,2.Lig Beyaz
+Eyüpspor,7160,Turkey,2.Lig Beyaz
+Sakaryaspor,2463,Turkey,2.Lig Kirmizi
+Baskent Safak Spor FK,12378,Turkey,2.Lig Kirmizi
+Pendikspor,3209,Turkey,2.Lig Kirmizi
+Bozüyükspor,14928,Turkey,2.Lig Kirmizi
+Nazilli Belediyespor,13473,Turkey,2.Lig Kirmizi
+Giresunspor,11688,Turkey,2.Lig Kirmizi
+Real Unión Club,12405,Spain,2ª B - Grupo II
+Albacete Balompié,1532,Spain,2ª B - Grupo IV
+Karlsruher SC,48,Germany,3. Liga
+Alemannia Aachen,8,Germany,3. Liga
+SV Babelsberg 03,90,Germany,3. Liga
+Arminia Bielefeld,10,Germany,3. Liga
+SpVgg Greuther Fürth,65,Germany,Bundesliga
+FC Aarau,116,Switzerland,Challenge League
+KSV Oudenaarde,6304,Belgium,Challenger Pro League
+KVC Westerlo,968,Belgium,Challenger Pro League
+Royal Excel Mouscron (-2022),29228,Belgium,Challenger Pro League
+FC Metz,347,France,Championnat National
+US Boulogne,7042,France,Championnat National
+Blackburn Rovers,164,England,Championship
+Bolton Wanderers,355,England,Championship
+SV Spakenburg,10803,Netherlands,Derde Divisie Saturday
+FK Haugesund,2761,Norway,Eliteserien
+FC Dila Gori,32017,Georgia,Erovnuli Liga (bis 2016/17)
+Anagennisi Epanomis,24773,Greece,Football League
+Arka Gdynia,6107,Poland,Fortuna 1 Liga
+FC Hradec Kralove,1897,Czech Republic,Fortuna Liga
+SK Beveren,28643,Belgium,Jupiler Pro League
+Waasland-Beveren,28643,Belgium,Jupiler Pro League
+CD Lugo,11000,Spain,LaLiga2
+AD Alcorcón,11596,Spain,LaLiga2
+Crewe Alexandra,1042,England,League One
+Portsmouth FC,1020,England,League One
+Coventry City,990,England,League One
+Crawley Town,3537,England,League One
+Rangers FC,124,Scotland,League Two
+Chesterfield FC,1219,England,League Two
+Gillingham FC,2814,England,League Two
+Bradford City,1027,England,League Two
+AFC Wimbledon,3884,England,League Two
+L'Aquila Calcio,4153,Italy,Lega Pro 2 - B
+Chieti Calcio,5543,Italy,Lega Pro 2 - B
+Club Tijuana,13353,Mexico,Liga MX Clausura
+Chiapas FC (- 2017),4774,Mexico,Liga MX Clausura
+CD Tondela,7179,Portugal,Liga Sabseg
+FC Arouca,8024,Portugal,Liga Sabseg
+Stade Reims,1421,France,Ligue 1
+AJ Auxerre,290,France,Ligue 2
+Diósgyőri VTK,9241,Hungary,NB I.
+Tractor FC,12935,Iran,Persian Gulf Pro League
+Dundalk FC,6066,Ireland,Premier Division
+Bray Wanderers (- 2021),3930,Ireland,Premier Division
+Lion City Sailors,4131,Singapore,Premier League
+Smouha SC,23387,Egypt,Premier League
+Goverla Uzhgorod (- 2016),6996,Ukraine,Premier Liga
+Mordovia Saransk (-2020),11126,Russia,Premier Liga
+Xäzär Länkäran,8841,Azerbaijan,Premyer Liqa
+Club Atlético Cerro,14806,Uruguay,Primera División Clausura
+NK Lucko,12109,Croatia,Prva NL
+HNK Sibenik,223,Croatia,Prva NL
+FK Proleter Novi Sad (- 2022),19488,Serbia,Prva liga Srbije
+FK Metalac Gornji Milanovac,12135,Serbia,Prva liga Srbije
+Al-Hilal Saudi FC,1114,Saudi Arabia,Saudi Pro League
+Independiente del Valle,19309,Ecuador,Serie A Segunda Etapa
+FC Pro Vercelli 1892,26789,Italy,Serie B
+Spezia Calcio,3522,Italy,Serie B
+SS Juve Stabia,5587,Italy,Serie B
+US Sassuolo,6574,Italy,Serie B
+US Lecce,1005,Italy,Serie C - A
+Portogruaro Calcio,15374,Italy,Serie C - A
+Pisa Sporting Club,4172,Italy,Serie C - B
+AS Gubbio 1910,4326,Italy,Serie C - B
+Latina Calcio 1932,22045,Italy,Serie C - B
+FK Radnicki 1923 Kragujevac,4645,Serbia,Super liga Srbije
+Astra Giurgiu,13499,Romania,SuperLiga
+Petrolul Ploiesti,9465,Romania,SuperLiga
+Gaz Metan Medias (- 2022),8104,Romania,SuperLiga
+ABC Futebol Clube (RN),7209,Brazil,Série B
+Club Athletico Paranaense,679,Brazil,Série B
+Mersin Talimyurdu SK,3216,Turkey,Süper Lig
+Akhisarspor,19771,Turkey,Süper Lig
+Akhisar Belediyespor,19771,Turkey,Süper Lig
+Al-Ahli Dubai Club,15541,United Arab Emirates,UAE Pro League
+IFK Mariehamn,6017,Finland,Veikkausliiga
+FK Ufa,28095,Russia,1.Division
+Khimik Dzerzhinsk,20923,Russia,1.Division
+Rotor Volgograd,3609,Russia,1.Division
+1461 Trabzon,12381,Turkey,1.Lig
+FC Ingolstadt 04,4795,Germany,2. Bundesliga
+Giresunspor,11688,Turkey,2.Lig Beyaz
+Kartalspor,1204,Turkey,2.Lig Beyaz
+1922 Konyaspor,15156,Turkey,2.Lig Beyaz
+Aydinspor 1923,2376,Turkey,2.Lig Beyaz
+Bandirmaspor,20760,Turkey,2.Lig Kirmizi
+MKE Ankaragücü,868,Turkey,2.Lig Kirmizi
+CD Leganés,1244,Spain,2ª B - Grupo II
+Elche Ilicitano,12317,Spain,2ª B - Grupo III
+Lorca FC (- 2022),34559,Spain,2ª B - Grupo IV
+MSV Duisburg,52,Germany,3. Liga
+SV Wacker Burghausen,110,Germany,3. Liga
+RB Leipzig,23826,Germany,3. Liga
+Rot-Weiß Erfurt,111,Germany,3. Liga
+1920 Maras Spor,37961,Turkey,3.Lig Grup 1
+Antalya Kemerspor,27143,Turkey,3.Lig Grup 1
+Silivrispor,37974,Turkey,3.Lig Grup 1
+Sancaktepe FK,31788,Turkey,3.Lig Grup 2
+Bagcilar Spor Kulübü,14933,Turkey,3.Lig Grup 3
+F91 Dudelange,853,Luxembourg,BGL Ligue
+SV Grödig,10131,Austria,Bundesliga
+Eintracht Braunschweig,23,Germany,Bundesliga
+FC Vaduz,163,Liechtenstein,Challenge League
+Wigan Athletic,1071,England,Championship
+Huddersfield Town,1110,England,Championship
+Falkirk FC,1191,Scotland,Championship
+AFC Bournemouth,989,England,Championship
+GVVV Veenendaal,19964,Netherlands,Derde Divisie Saturday
+Rijnsburgse Boys,9545,Netherlands,Derde Divisie Saturday
+Excelsior '31 Rijssen,9663,Netherlands,Derde Divisie Saturday
+ADO '20 Heemskerk,9547,Netherlands,Derde Divisie Sunday
+Levski Sofia,156,Bulgaria,Efbet liga - Championship gr.
+Botev Plovdiv,2531,Bulgaria,Efbet liga - Championship gr.
+CSKA-Sofia,208,Bulgaria,Efbet liga - Championship gr.
+Litex Lovech,271,Bulgaria,Efbet liga - Championship gr.
+Podbeskidzie Bielsko-Biala,6361,Poland,Ekstraklasa
+Piast Gliwice,6112,Poland,Ekstraklasa
+GKS Belchatow,716,Poland,Fortuna 1 Liga
+FK Dukla Prague,450,Czech Republic,Fortuna Liga
+Elche CF,1531,Spain,LaLiga
+Girona FC,12321,Spain,LaLiga2
+Peterborough United,1072,England,League One
+Wolverhampton Wanderers,543,England,League One
+Rangers FC,124,Scotland,League One
+Portsmouth FC,1020,England,League Two
+Arzanese Calcio,22057,Italy,Lega Pro 2 - B
+Sorrento 1945,10118,Italy,Lega Pro 2 - B
+AS Melfi,10670,Italy,Lega Pro 2 - B
+Aprilia Calcio,11961,Italy,Lega Pro 2 - B
+Vigor Lamezia Calcio,4061,Italy,Lega Pro 2 - B
+Club Alianza Lima,184,Peru,Liga 1 Clausura
+FC Rapid 1923,455,Romania,Liga 2
+CF Gloria Bistrita (- 2015),4688,Romania,Liga II - Seria II
+FC Arouca,8024,Portugal,Liga Portugal
+Enyimba Aba,645,Nigeria,NPFL
+Sunshine Stars,17064,Nigeria,NPFL
+Damash Gilan FC,12520,Iran,Persian Gulf Pro League
+Cardiff City,603,Wales,Premier League
+Inter Allies FC,32840,Ghana,Premier League
+Cardiff City,603,England,Premier League
+CA Fénix,3829,Uruguay,Primera División Clausura
+CS Cartaginés,18577,Costa Rica,Primera División Clausura
+CA San Martín (San Juan),10511,Argentina,Primera Nacional
+CA Independiente,1234,Argentina,Primera Nacional
+NK Inker,918,Croatia,Prva NL
+US Sassuolo,6574,Italy,Serie A
+Barcelona SC Guayaquil,3523,Ecuador,Serie A Segunda Etapa
+AC Carpi,4102,Italy,Serie B
+Latina Calcio 1932,22045,Italy,Serie B
+FC Pro Vercelli 1892,26789,Italy,Serie C - A
+Virtus Entella,20519,Italy,Serie C - A
+San Marino,10155,Italy,Serie C - A
+Savona FBC,13562,Italy,Serie C - A
+US Grosseto 1912,4333,Italy,Serie C - B
+Al-Arabi SC,1230,Qatar,Stars League
+Dalian Professional,33304,China,Super League
+Guangzhou FC,10948,China,Super League
+PAS Giannina,2671,Greece,Super League 1
+AO Platanias,21957,Greece,Super League 1
+Panthrakikos Komotini,7185,Greece,Super League 1
+FK Spartak Subotica,15276,Serbia,Super liga Srbije
+FCV Farul Constanta,29831,Romania,SuperLiga
+ACS FC Brasov Steagu Renaste,36593,Romania,SuperLiga
+HNK Zadar,2566,Croatia,SuperSport HNL
+RNK Split,420,Croatia,SuperSport HNL
+NK Lokomotiva Zagreb,11194,Croatia,SuperSport HNL
+Sport Club do Recife,8718,Brazil,Série B
+Muangthong United,21283,Thailand,Thai League
+Leo Chiangrai United,6759,Thailand,Thai League
+Buriram United,25449,Thailand,Thai League
+Navy FC,6761,Thailand,Thai League 2
+Volga Nizhniy Novgorod (- 2016),12438,Russia,1.Division
+Krylya Sovetov Samara,2696,Russia,1.Division
+Kayserispor,3205,Turkey,1.Lig
+Altinordu FK,12374,Turkey,1.Lig
+Tekstilshchik Ivanovo,11125,Russia,2 League Group 2
+FK Orel,10627,Russia,2 League Group 3
+FK Kaluga,28098,Russia,2 League Group 3
+Neftekhimik Nizhnekamsk,3733,Russia,2 League Group 4
+SV Darmstadt 98,105,Germany,2. Bundesliga
+1461 Trabzon,12381,Turkey,2.Lig Beyaz
+Fethiyespor,7088,Turkey,2.Lig Beyaz
+Hatayspor,7775,Turkey,2.Lig Kirmizi
+Altay SK,2375,Turkey,2.Lig Kirmizi
+Sestao River,13240,Spain,2ª B - Grupo II
+CD Toledo,2929,Spain,2ª B - Grupo II
+CD Guadalajara,16576,Spain,2ª B - Grupo II
+Córdoba CF B,12834,Spain,2ª B - Grupo IV
+Recreativo Granada,21550,Spain,2ª B - Grupo IV
+FC Energie Cottbus,25,Germany,3. Liga
+SG Dynamo Dresden,129,Germany,3. Liga
+Diyarbekir Spor,39807,Turkey,3.Lig Grup 2
+Sandiklispor,37973,Turkey,3.Lig Grup 3
+Newcastle United Jets,5551,Australia,A-League Men
+SC Paderborn 07,127,Germany,Bundesliga
+AS Verbroedering Geel,9681,Belgium,Challenger Pro League
+KV Woluwe Zaventem,19588,Belgium,Challenger Pro League
+Istres Football Club,2580,France,Championnat National
+Fulham FC,931,England,Championship
+Ajax Amateurs,11495,Netherlands,Derde Divisie Saturday
+Ludogorets Razgrad,31614,Bulgaria,Efbet liga - Championship gr.
+Zaglebie Lubin,168,Poland,Fortuna 1 Liga
+Mouscron-Péruwelz,29228,Belgium,Jupiler Pro League
+Roda JC Kerkrade,192,Netherlands,Keuken Kampioen Divisie
+SD Eibar,1533,Spain,LaLiga
+Córdoba CF,993,Spain,LaLiga
+SD Ponferradina,4032,Spain,LaLiga2
+Barnsley FC,349,England,League One
+Exeter City,6699,England,League Two
+Universidad San Martín de Porres,11622,Peru,Liga 1 Clausura
+Universitario de Deportes,6593,Peru,Liga 1 Clausura
+Club Sporting Cristal,1450,Peru,Liga 1 Clausura
+Club León FC,4941,Mexico,Liga MX Clausura
+Querétaro FC,4961,Mexico,Liga MX Clausura
+CA San Lorenzo de Almagro,1775,Argentina,Liga Profesional
+CA Boca Juniors,189,Argentina,Liga Profesional
+Club Estudiantes de La Plata,288,Argentina,Liga Profesional
+CA Independiente,1234,Argentina,Liga Profesional
+Club Olimpo,7468,Argentina,Liga Profesional
+Académico Viseu FC,7788,Portugal,Liga Sabseg
+Seattle Sounders FC,9636,United States,MLS
+SK Brann,1100,Norway,OBOS-ligaen
+Galway United FC,42394,Ireland,Premier Division
+Cork City FC,27774,Ireland,Premier Division
+Tala'ea El Gaish,9219,Egypt,Premier League
+FC Astana,22220,Kazakhstan,Premier Liga
+FK Aktobe,10157,Kazakhstan,Premier Liga
+FK Ufa,28095,Russia,Premier Liga
+Arsenal Tula,3729,Russia,Premier Liga
+FK Qabala,22010,Azerbaijan,Premyer Liqa
+NK Hrvatski Dragovoljac,485,Croatia,Prva NL
+Rabotnicki Skopje,4641,North Macedonia,Prva liga
+Metalurg Skopje,18506,North Macedonia,Prva liga
+SS Virtus Lanciano,4718,Italy,Serie B
+Venezia FC,607,Italy,Serie C - A
+Santarcangelo Calcio,27525,Italy,Serie C - B
+AC Tuttocuoio,36745,Italy,Serie C - B
+Savona FBC,13562,Italy,Serie C - B
+US Salernitana,380,Italy,Serie C - C
+Martina Calcio 1947,4558,Italy,Serie C - C
+FC Matera,18950,Italy,Serie C - C
+SS Juve Stabia,5587,Italy,Serie C - C
+Paganese Calcio 1926,19164,Italy,Serie C - C
+AS Melfi,10670,Italy,Serie C - C
+Al-Gharafa SC,6297,Qatar,Stars League
+Veria NPS,2079,Greece,Super League 1
+FK Donji Srem Pecinci,9937,Serbia,Super liga Srbije
+GFK Jagodina,12132,Serbia,Super liga Srbije
+FK Vozdovac,4634,Serbia,Super liga Srbije
+Associação Atlética Ponte Preta,1134,Brazil,Série B
+América Futebol Clube (MG),2863,Brazil,Série B
+Sampaio Corrêa Futebol Clube (MA),3319,Brazil,Série B
+Santa Cruz Futebol Clube (PE),1785,Brazil,Série B
+Balikesirspor,20698,Turkey,Süper Lig
+Arsenal Fútbol Club,4673,Argentina,Torneo Inicial
+Club Olimpo,7468,Argentina,Torneo Inicial
+Al-Jazira (Abu Dhabi),2524,United Arab Emirates,UAE Pro League
+Al-Ain FC,2150,United Arab Emirates,UAE Pro League
+FK Liepaja,43162,Latvia,Virsliga
+FC Tosno (-2018),40426,Russia,1.Division
+Torpedo Moscow,1186,Russia,2 League Group 3
+Energomash Belgorod (-2018),50586,Russia,2 League Group 3
+Zenit Izhevsk,6433,Russia,2 League Group 4
+Khimik Dzerzhinsk,20923,Russia,2 League Group 4
+RB Leipzig,23826,Germany,2. Bundesliga
+1.FC Heidenheim 1846,2036,Germany,2. Bundesliga
+Bayrampasa Spor,25230,Turkey,2.Lig Beyaz
+Bagcilar Spor Kulübü,14933,Turkey,2.Lig Beyaz
+Orduspor,2323,Turkey,2.Lig Beyaz
+Aydinspor 1923,2376,Turkey,2.Lig Kirmizi
+Tuzlaspor,39805,Turkey,2.Lig Kirmizi
+SD Leioa,29733,Spain,2ª B - Grupo II
+CD Eldense,12567,Spain,2ª B - Grupo III
+Lleida Esportiu,33593,Spain,2ª B - Grupo III
+Antalya Kemerspor,27143,Turkey,3.Lig Grup 2
+Western Sydney Wanderers,36100,Australia,A-League Men
+Sydney FC,8054,Australia,A-League Men
+SV Darmstadt 98,105,Germany,Bundesliga
+FC Ingolstadt 04,4795,Germany,Bundesliga
+RFC Seraing,2715,Belgium,Challenger Pro League
+Luçon Football Club,30444,France,Championnat National
+LB Châteauroux,1175,France,Championnat National
+Hibernian FC,903,Scotland,Championship
+Rangers FC,124,Scotland,Championship
+St. Mirren FC,465,Scotland,Championship
+Milton Keynes Dons,991,England,Championship
+De Treffers,6160,Netherlands,Derde Divisie Sunday
+FC Lienden,11055,Netherlands,Derde Divisie Sunday
+FC Tskhinvali,19090,Georgia,Erovnuli Liga (bis 2016/17)
+AOK Kerkyra,5219,Greece,Football League
+Olimpia Grudziadz,26564,Poland,Fortuna 1 Liga
+Zawisza Bydgoszcz,7153,Poland,Fortuna 1 Liga
+FC Vysocina Jihlava,7975,Czech Republic,Fortuna Liga
+FC Tokyo,6631,Japan,J1 - 2nd Stage
+Cerezo Osaka,1022,Japan,J2 League
+Royal Excel Mouscron (-2022),29228,Belgium,Jupiler Pro League
+UE Costa Brava (- 2022),26132,Spain,LaLiga2
+Wigan Athletic,1071,England,League One
+Blackpool FC,1181,England,League One
+Bradford City,1027,England,League One
+Beijing Chengfeng (1995-2020),17250,China,League One
+York City,1252,England,League Two
+Northampton Town,1302,England,League Two
+SC Otelul Galati,4959,Romania,Liga 2
+CD Tondela,7179,Portugal,Liga Portugal
+CA River Plate,209,Argentina,Liga Profesional
+AA Argentinos Juniors,1030,Argentina,Liga Profesional
+CA Newell's Old Boys,1286,Argentina,Liga Profesional
+Nueva Chicago,10534,Argentina,Liga Profesional
+CD Mafra,7056,Portugal,Liga Sabseg
+GFC Ajaccio,3558,France,Ligue 1
+FC Évian Thonon Gaillard,14171,France,Ligue 2
+Football Bourg-en-Bresse Péronnas 01,2972,France,Ligue 2
+Portland Timbers,4291,United States,MLS
+Philadelphia Union,25467,United States,MLS
+ESTAC Troyes B,10846,France,National 2 - Grp. A
+Sandnes Ulf,13025,Norway,OBOS-ligaen
+Rah Ahan Yazdan FC,10684,Iran,Persian Gulf Pro League
+Liberty Professionals FC,13607,Ghana,Premier League
+New Edubiase United,35141,Ghana,Premier League
+AFC Bournemouth,989,England,Premier League
+Tobol Kostanay,10481,Kazakhstan,Premier Liga
+Juventud de Las Piedras,17428,Uruguay,Primera División Clausura
+Club Ferro Carril Oeste,4557,Argentina,Primera Nacional
+Al-Wehda FC,17209,Saudi Arabia,Saudi Pro League
+AC Carpi,4102,Italy,Serie A
+Frosinone Calcio,8970,Italy,Serie A
+Aurora Pro Patria,4146,Italy,Serie C - A
+US Pistoiese 1921,1307,Italy,Serie C - B
+Catania SSD,1627,Italy,Serie C - C
+US Lecce,1005,Italy,Serie C - C
+Al-Duhail SC,26091,Qatar,Stars League
+Al-Mesaimeer Sports Club,26730,Qatar,Stars League
+Changchun Yatai,4768,China,Super League
+FC Vaduz,163,Liechtenstein,Super League
+Shanghai Port,27190,China,Super League
+Concordia Chiajna,15945,Romania,SuperLiga
+América Futebol Clube (MG),2863,Brazil,Série A
+Associação Chapecoense de Futebol,17776,Brazil,Série A
+Botafogo de Futebol e Regatas,537,Brazil,Série B
+Goiás Esporte Clube,3197,Brazil,Série B
+Mogi Mirim Esporte Clube (SP),1784,Brazil,Série B
+Esporte Clube Vitória,2125,Brazil,Série B
+Osmanlispor FK,2944,Turkey,Süper Lig
+FC Baniyas,4785,United Arab Emirates,UAE Pro League
+Ludogorets Razgrad,31614,Bulgaria,efbet Liga
+Botev Plovdiv,2531,Bulgaria,efbet Liga
+Dynamo Moscow,121,Russia,1.Division
+White Star Brussels (- 2017),6342,Belgium,1ste Nationale
+RFCB Sprimont ,3945,Belgium,1ste Nationale
+Patro Eisden Maasmechelen,3225,Belgium,1ste Nationale
+Arsenal-2 Tula,37311,Russia,2 League Group 3
+FC Pari Nizhniy Novgorod,49702,Russia,2 League Group 4
+VfB Stuttgart,79,Germany,2. Bundesliga
+FC Wacker Innsbruck,2444,Austria,2. Liga
+FC Liefering,37024,Austria,2. Liga
+Körfez SK,12511,Turkey,2.Lig Beyaz
+Fatih Karagümrük,6646,Turkey,2.Lig Beyaz
+Kayseri Erciyesspor,6894,Turkey,2.Lig Kirmizi
+Sariyer,518,Turkey,2.Lig Kirmizi
+Karsiyaka,2330,Turkey,2.Lig Kirmizi
+UD Logroñés,24420,Spain,2ª B - Grupo II
+Albacete Balompié,1532,Spain,2ª B - Grupo II
+CF Gavà,3010,Spain,2ª B - Grupo III
+CF Villanovense,7052,Spain,2ª B - Grupo IV
+Kartalspor,1204,Turkey,3.Lig Grup 1
+Orduspor,2323,Turkey,3.Lig Grup 3
+Cankaya FK,39797,Turkey,3.Lig Grup 3
+RB Leipzig,23826,Germany,Bundesliga
+SKN St. Pölten,2662,Austria,Bundesliga
+FC Zürich,260,Switzerland,Challenge League
+CS Sedan-Ardennes,1081,France,Championnat National
+Aston Villa,405,England,Championship
+Dundee United FC,1519,Scotland,Championship
+Cherno More Varna,967,Bulgaria,Efbet liga - Championship gr.
+Lokomotiv Plovdiv,2259,Bulgaria,Efbet liga - Championship gr.
+Sagan Tosu,22177,Japan,J1 League
+Bucheon FC 1995,35759,"Korea, South",K League 2
+CD Leganés,1244,Spain,LaLiga
+CF Reus Deportiu (-2020),13225,Spain,LaLiga2
+Bolton Wanderers,355,England,League One
+AFC Wimbledon,3884,England,League One
+Beijing BSU,29301,China,League One
+Dalian Professional,33304,China,League One
+Crawley Town,3537,England,League Two
+Atlético de Rafaela,10233,Argentina,Liga Profesional
+CA Rosario Central,1418,Argentina,Liga Profesional
+CA Huracán,2063,Argentina,Liga Profesional
+Club Atlético Lanús,333,Argentina,Liga Profesional
+Quilmes Atlético Club,1826,Argentina,Liga Profesional
+Club de Gimnasia y Esgrima La Plata,1106,Argentina,Liga Profesional
+Académica Coimbra,2990,Portugal,Liga Sabseg
+FC Famalicão,3329,Portugal,Liga Sabseg
+Hapoel Raanana,20857,Israel,Ligat ha'Al
+GFC Ajaccio,3558,France,Ligue 2
+MO Béjaïa,31558,Algeria,Ligue Professionnelle 1
+New York City FC,40058,United States,MLS
+Esteghlal FC,1076,Iran,Persian Gulf Pro League
+Dreams FC,37487,Ghana,Premier League
+PFK Stal Kamyanske (-2018),16247,Ukraine,Premier Liga
+Olimpik Donetsk,23611,Ukraine,Premier Liga
+FK Radnik Bijeljina,11040,Bosnia-Herzegovina,Premijer Liga
+Zira FC,46710,Azerbaijan,Premyer Liqa
+Club Cerro Porteño,1214,Paraguay,Primera División Apertura
+NK Zagreb,5107,Croatia,Prva NL
+OFK Beograd,53,Serbia,Prva liga Srbije
+FC Crotone,4083,Italy,Serie A
+LDU Quito,9855,Ecuador,Serie A Segunda Etapa
+FC Trapani 1905,4331,Italy,Serie B
+SPAL,2722,Italy,Serie B
+AS Livorno,1210,Italy,Serie C - A
+SS Racing Club Roma,32013,Italy,Serie C - A
+FC Lumezzane,4103,Italy,Serie C - B
+Modena FC,1385,Italy,Serie C - B
+ASD Akragas 2018,31255,Italy,Serie C - C
+Fidelis Andria 2018,4085,Italy,Serie C - C
+Al-Sailiya SC,4630,Qatar,Stars League
+Al-Sadd SC,656,Qatar,Stars League
+Al-Ahli SC,3612,Qatar,Stars League
+Al-Kharaitiyat SC,19585,Qatar,Stars League
+Zhejiang FC,17276,China,Super League
+Henan Songshan Longmen,9982,China,Super League
+FK Radnik Surdulica,33328,Serbia,Super liga Srbije
+ACS Poli Timisoara (2012 - 2021),36590,Romania,SuperLiga
+FC Botosani,8818,Romania,SuperLiga
+Londrina Esporte Clube (PR),1693,Brazil,Série B
+Sport Club Internacional,6600,Brazil,Série B
+Alanyaspor,11282,Turkey,Süper Lig
+Al-Wasl Sports Club,16214,United Arab Emirates,UAE Pro League
+Rovaniemen Palloseura,3776,Finland,Veikkausliiga
+Isloch Minsk Region,36755,Belarus,Vysheyshaya Liga
+FK Orenburg,14589,Russia,1.Division
+PFK Tambov (-2021),41201,Russia,1.Division
+Gaziantepspor,524,Turkey,1.Lig
+AS Verbroedering Geel,9681,Belgium,1ste Nationale
+Royal Excelsior Virton,1199,Belgium,1ste Nationale
+Ararat Moskow (-2020),59524,Russia,2 League Group 3
+Mordovia Saransk (-2020),11126,Russia,2 League Group 4
+Syzran-2003,34230,Russia,2 League Group 4
+Nosta Novotroitsk,11135,Russia,2 League Group 4
+SV Sandhausen,254,Germany,2. Bundesliga
+Bandirmaspor,20760,Turkey,2.Lig Beyaz
+Sakaryaspor,2463,Turkey,2.Lig Beyaz
+Gümüshanespor,4574,Turkey,2.Lig Beyaz
+Buca Gelistirme Spor,2750,Turkey,2.Lig Kirmizi
+Menemen FK,20664,Turkey,2.Lig Kirmizi
+GMG Kastamonuspor ,41553,Turkey,2.Lig Kirmizi
+Mersin Talimyurdu SK,3216,Turkey,2.Lig Kirmizi
+RCD Mallorca,237,Spain,2ª B - Grupo III
+UCAM Murcia CF,34148,Spain,2ª B - Grupo IV
+Las Palmas Atlético,11610,Spain,2ª B - Grupo IV
+Dardanelspor,1507,Turkey,3.Lig Grup 1
+Yesil Bursa SK,11158,Turkey,3.Lig Grup 2
+Sultanbeyli Belediye Spor,49053,Turkey,3.Lig Grup 3
+1461 Trabzon FK,39869,Turkey,3.Lig Grup 3
+Wellington Phoenix,8445,New Zealand,A-League Men
+Red Star FC,1154,France,Championnat National
+USL Dunkerque,9202,France,Championnat National
+Cape Town City FC ,2303,South Africa,DStv Premiership
+Sarpsborg 08 FF,10217,Norway,Eliteserien
+Kristiansund BK,21101,Norway,Eliteserien
+FC Tokyo,6631,Japan,J1 League
+Avispa Fukuoka,9597,Japan,J2 League
+Girona FC,12321,Spain,LaLiga
+Granada CF,16795,Spain,LaLiga2
+Blackburn Rovers,164,England,League One
+Liaoning FC (- 2019),1079,China,League One
+Cangzhou Mighty Lions,35272,China,League One
+Shaoxing Keqiao Yuejia,29171,China,League One
+Dalian Transcendence,42226,China,League One
+Coventry City,990,England,League Two
+Swindon Town,352,England,League Two
+CA Banfield,830,Argentina,Liga Profesional
+CA Colon,1070,Argentina,Liga Profesional
+Racing Club,1444,Argentina,Liga Profesional
+Club Atlético Tigre,11831,Argentina,Liga Profesional
+CA Vélez Sarsfield,1029,Argentina,Liga Profesional
+CA San Martín (San Juan),10511,Argentina,Liga Profesional
+CD Nacional,982,Portugal,Liga Sabseg
+Real SC,11085,Portugal,Liga Sabseg
+Amiens SC,1416,France,Ligue 1
+Paris FC,10004,France,Ligue 2
+CF Montréal,4078,Canada,MLS
+Orlando City SC,45604,United States,MLS
+OGC Nice B,8158,France,National 2 - Grp. A
+Chester FC,31367,England,National League
+Leyton Orient,1150,England,National League
+FK Bodø/Glimt,501,Norway,OBOS-ligaen
+Kongsvinger IL,421,Norway,OBOS-ligaen
+Shahr Khodrou FC,42192,Iran,Persian Gulf Pro League
+Huddersfield Town,1110,England,Premier League
+Brighton & Hove Albion,1237,England,Premier League
+FC Tosno (-2018),40426,Russia,Premier Liga
+SKA Khabarovsk,3690,Russia,Premier Liga
+Sportivo Luqueño,7656,Paraguay,Primera División Apertura
+SPAL,2722,Italy,Serie A
+Benevento Calcio,4171,Italy,Serie A
+Delfín SC,19304,Ecuador,Serie A Segunda Etapa
+Olbia Calcio 1905,9826,Italy,Serie C - A
+US Città di Pontedera,14888,Italy,Serie C - A
+LR Vicenza,2655,Italy,Serie C - B
+Siracusa Calcio,8373,Italy,Serie C - C
+Al-Rayyan SC,3229,Qatar,Stars League
+Qatar SC,965,Qatar,Stars League
+Universitatea Craiova,40812,Romania,SuperLiga
+Randers FC,5724,Denmark,Superligaen Relegation round
+Atlético Clube Goianiense,15172,Brazil,Série A
+Clube de Regatas Brasil (AL),11449,Brazil,Série B
+Paysandu Sport Club (PA),6347,Brazil,Série B
+Centro Sportivo Alagoano (AL),18545,Brazil,Série B
+Guarani Futebol Clube (SP),1755,Brazil,Série B
+Yeni Malatyaspor,19789,Turkey,Süper Lig
+True Bangkok United,25445,Thailand,Thai League
+Ratchaburi FC,35387,Thailand,Thai League
+Sukhothai FC,50658,Thailand,Thai League
+Riga FC,48325,Latvia,Virsliga
+Chertanovo Moscow,43502,Russia,1.Division
+Genclerbirligi Ankara,820,Turkey,1.Lig
+Ümraniyespor,24245,Turkey,1.Lig
+KSK Heist,9888,Belgium,1ste Nationale
+Dnepr Smolensk,22444,Russia,2 League Group 2
+Hamburger SV,41,Germany,2. Bundesliga
+Manisaspor,1267,Turkey,2.Lig Beyaz
+Ankara Demirspor,12524,Turkey,2.Lig Beyaz
+Sanliurfaspor,6630,Turkey,2.Lig Kirmizi
+1922 Konyaspor,15156,Turkey,2.Lig Kirmizi
+Sivas Belediye Spor,37975,Turkey,2.Lig Kirmizi
+CF Peralada,18446,Spain,2ª B - Grupo III
+1.FC Kaiserslautern,2,Germany,3. Liga
+Würzburger Kickers,1557,Germany,3. Liga
+Sportfreunde Lotte,668,Germany,3. Liga
+Buca Gelistirme Spor,2750,Turkey,3.Lig Grup 3
+FC Progrès Niederkorn,12346,Luxembourg,BGL Ligue
+Wolfsberger AC,4441,Austria,Bundesliga
+Stade Lavallois,1080,France,Championnat National
+Tours FC,3161,France,Championnat National
+SO Cholet,3525,France,Championnat National
+US Avranches,26871,France,Championnat National
+Pau FC,3166,France,Championnat National
+Quevilly Rouen Métropole,7124,France,Championnat National
+Bristol City,698,England,Championship
+Brentford FC,1148,England,Championship
+Arka Gdynia,6107,Poland,Ekstraklasa
+Sandefjord Fotball,6399,Norway,Eliteserien
+FC Emmen,1283,Netherlands,Eredivisie
+ATK,45278,India,Indian Super League
+FC Pune City (diss.),45275,India,Indian Super League
+Vegalta Sendai,6395,Japan,J1 League
+Kashiwa Reysol,6632,Japan,J2 League
+Twente Enschede FC,317,Netherlands,Keuken Kampioen Divisie
+SD Huesca,5358,Spain,LaLiga
+CF Rayo Majadahonda,13702,Spain,LaLiga2
+Extremadura UD (-2022),29095,Spain,LaLiga2
+Sunderland AFC,289,England,League One
+Guizhou FC,36628,China,League One
+Plymouth Argyle,2262,England,League One
+Stevenage FC,3684,England,League Two
+Bury FC,2413,England,League Two
+Santos Laguna,1403,Mexico,Liga MX Clausura
+B SAD,2457,Portugal,Liga Portugal
+Club Atlético Belgrano,2417,Argentina,Liga Profesional
+CD Cova Piedade,25817,Portugal,Liga Sabseg
+Independiente del Valle,19309,Ecuador,LigaPro Serie A
+Paradou AC,30929,Algeria,Ligue Professionnelle 1
+Atlanta United FC,51663,United States,MLS
+Vancouver Whitecaps FC,6321,Canada,MLS
+Los Angeles FC,51828,United States,MLS
+Akwa United,16953,Nigeria,NPFL
+Enugu Rangers IFC,2930,Nigeria,NPFL
+Jura Sud Foot,9881,France,National 2 - Grp. A
+AS Saint-Étienne B,8515,France,National 2 - Grp. B
+Maidenhead United,7123,England,National League
+Saipa FC,6080,Iran,Persian Gulf Pro League
+Esteghlal Khuzestan,40472,Iran,Persian Gulf Pro League
+Enisey Krasnoyarsk,3714,Russia,Premier Liga
+FK Krupa na Vrbasu,47286,Bosnia-Herzegovina,Premijer Liga
+CA Boston River,18074,Uruguay,Primera División Clausura
+Sportivo Luqueño,7656,Paraguay,Primera División Clausura
+Santos de Guápiles FC,20541,Costa Rica,Primera División Clausura
+Club Olimpo,7468,Argentina,Primera Nacional
+Arsenal Fútbol Club,4673,Argentina,Primera Nacional
+Brown de Adrogué,14681,Argentina,Primera Nacional
+NK Aluminij Kidricevo,11033,Slovenia,Prva Liga
+Akademija Pandev,45935,North Macedonia,Prva liga
+Al-Batin FC,28597,Saudi Arabia,Saudi Pro League
+Benevento Calcio,4171,Italy,Serie B
+FC Trapani 1905,4331,Italy,Serie C - C
+Rende Calcio 1968,8322,Italy,Serie C - C
+Hebei FC,36630,China,Super League
+Jiangsu FC (1994 - 2021),22219,China,Super League
+Tianjin Tianhai (-2019),33714,China,Super League
+Apollon Smyrnis,441,Greece,Super League 1
+OFK Backa,4650,Serbia,Super liga Srbije
+FC Hermannstadt,58049,Romania,SuperLiga
+ACSM Politehnica Iasi,33966,Romania,SuperLiga
+NK Rudes,11083,Croatia,SuperSport HNL
+Aarhus GF,678,Denmark,Superligaen Relegation round
+Aalborg BK,1053,Denmark,Superligaen Relegation round
+Erzurumspor FK,39722,Turkey,Süper Lig
+Büyüksehir Belediye Erzurumspor,39722,Turkey,Süper Lig
+BG Pathum United,25444,Thailand,Thai League
+Kuopion Palloseura,6251,Finland,Veikkausliiga
+Torpedo-BelAZ Zhodino,7964,Belarus,Vysheyshaya Liga
+FC Pari Nizhniy Novgorod,49702,Russia,1.Division
+Chaika Peschanokopskoe,36972,Russia,1.Division
+FK Armavir,22810,Russia,1.Division
+Erzurumspor FK,39722,Turkey,1.Lig
+Fatih Karagümrük,6646,Turkey,1.Lig
+Akhisarspor,19771,Turkey,1.Lig
+Menemen FK,20664,Turkey,1.Lig
+RFC Lüttich,3159,Belgium,1ste Nationale
+FK Tyumen,12054,Russia,2 League Group 4
+FK Ufa 2,67643,Russia,2 League Group 4
+Holstein Kiel,269,Germany,2. Bundesliga
+Baskent Safak Spor FK,12378,Turkey,2.Lig Beyaz
+Sariyer,518,Turkey,2.Lig Beyaz
+Kardemir Karabükspor,1506,Turkey,2.Lig Kirmizi
+Bodrumspor,44006,Turkey,2.Lig Kirmizi
+Cultural Leonesa,4542,Spain,2ª B - Grupo II
+Cádiz CF Mirandilla,11669,Spain,2ª B - Grupo IV
+KFC Uerdingen 05,95,Germany,3. Liga
+Eintracht Braunschweig,23,Germany,3. Liga
+1.FC Magdeburg,187,Germany,3. Liga
+Hacettepe 1945 SK,50838,Turkey,3.Lig Grup 3
+Pazarspor,9197,Turkey,3.Lig Grup 3
+Western United FC,71084,Australia,A-League Men
+1.FC Union Berlin,89,Germany,Bundesliga
+TSV Hartberg,4467,Austria,Bundesliga
+Grasshopper Club Zurich,504,Switzerland,Challenge League
+KSC Lokeren (- 2020),498,Belgium,Challenger Pro League
+Beerschot V.A.,41274,Belgium,Challenger Pro League
+Football Bourg-en-Bresse Péronnas 01,2972,France,Championnat National
+AS Béziers,10867,France,Championnat National
+CA River Plate,209,Argentina,Copa de la Liga
+Miedz Legnica,8936,Poland,Fortuna 1 Liga
+Zemplin Michalovce,13744,Slovakia,Fortuna Liga
+Júbilo Iwata,937,Japan,J1 League
+CF Fuenlabrada,16486,Spain,LaLiga2
+Carlisle United,1220,England,League Two
+Plymouth Argyle,2262,England,League Two
+Cusco FC,28999,Peru,Liga 1 Clausura
+Deportivo Municipal,17974,Peru,Liga 1 Clausura
+Concordia Chiajna,15945,Romania,Liga 2
+Atlético de San Luis,40188,Mexico,Liga MX Clausura
+Defensa y Justicia,2402,Argentina,Liga Profesional
+CD Feirense Sub-23,68296,Portugal,Liga Revelação
+CD Macará,17426,Ecuador,LigaPro Serie A
+Hapoel Hadera,51931,Israel,Ligat ha'Al
+US Orléans,10868,France,Ligue 2
+Olympique Saint-Quentin,12276,France,National 2 - Grp. A
+Sainte-Geneviève Sports,21674,France,National 2 - Grp. A
+Tromsø IL,1293,Norway,OBOS-ligaen
+PFK Lviv,18105,Ukraine,Premier Liga
+FC Sochi,41231,Russia,Premier Liga
+PFK Tambov (-2021),41201,Russia,Premier Liga
+FK Tambov,41201,Russia,Premier Liga
+FK Mladost Doboj-Kakanj,33627,Bosnia-Herzegovina,Premijer Liga
+Club Atlético Tigre,11831,Argentina,Primera Nacional
+Renova Dzepciste,10791,North Macedonia,Prva liga
+Virtus Entella,20519,Italy,Serie B
+Juventus Next Gen,41101,Italy,Serie C - A
+AC Carpi,4102,Italy,Serie C - B
+Virtus Francavilla Calcio,49939,Italy,Serie C - C
+US Catanzaro,4097,Italy,Serie C - C
+AS Bari,332,Italy,Serie C - C
+SS Monopoli 1966,33734,Italy,Serie C - C
+FC Rieti,9352,Italy,Serie C - C
+Qingdao FC,38987,China,Super League
+Sepsi OSK Sf. Gheorghe,54585,Romania,SuperLiga
+FC Voluntari,40843,Romania,SuperLiga
+HNK Gorica,24575,Croatia,SuperSport HNL
+Odense Boldklub,173,Denmark,Superligaen Relegation round
+Centro Sportivo Alagoano (AL),18545,Brazil,Série A
+Associação Chapecoense de Futebol,17776,Brazil,Série B
+Gaziantep FK,2832,Turkey,Süper Lig
+Hatta Club,17195,United Arab Emirates,UAE Pro League
+Ajman Club,24724,United Arab Emirates,UAE Pro League
+BFC Daugavpils,28931,Latvia,Virsliga
+Veles Moscow,58065,Russia,1.Division
+Ankara Keciörengücü,12388,Turkey,1.Lig
+KSV Roeselare (- 2020),2977,Belgium,1ste Nationale
+FK Murom,54924,Russia,2 League Group 2
+FK Leningradets ,67107,Russia,2 League Group 2
+FK Olimp-Dolgoprudnyi ( -2022),37029,Russia,2 League Group 2
+Avangard Kursk,11122,Russia,2 League Group 3
+FK Novosibirsk,75068,Russia,2 League Group 4
+Ural 2 Ekaterinburg,61456,Russia,2 League Group 4
+Würzburger Kickers,1557,Germany,2. Bundesliga
+24 Erzincanspor,37956,Turkey,2.Lig Beyaz
+Ergene Velimese Spor,44031,Turkey,2.Lig Beyaz
+Usak Spor,37978,Turkey,2.Lig Beyaz
+Kocaelispor,120,Turkey,2.Lig Beyaz
+Sancaktepe FK,31788,Turkey,2.Lig Beyaz
+Inegölspor,2319,Turkey,2.Lig Beyaz
+Pazarspor,9197,Turkey,2.Lig Kirmizi
+TSV 1860 Munich,72,Germany,3. Liga
+FC Viktoria Köln,1622,Germany,3. Liga
+Türkgücü München,12456,Germany,3. Liga
+Bucaspor 1928 ,44286,Turkey,3.Lig Grup 1
+Gölcükspor,2751,Turkey,3.Lig Grup 3
+Alanya Kestelspor,70142,Turkey,3.Lig Grup 4
+FC Ballkani,28082,Kosovo,Albi Mall Superliga
+SCR Altach,3551,Austria,Bundesliga
+FC Thun,938,Switzerland,Challenge League
+Club NXT,43560,Belgium,Challenger Pro League
+US Orléans,10868,France,Championnat National
+Le Mans FC,1164,France,Championnat National
+Stade Briochin,1777,France,Championnat National
+Heart of Midlothian FC,43,Scotland,Championship
+Club Atlético Talleres,3938,Argentina,Copa de la Liga
+CA Independiente,1234,Argentina,Copa de la Liga
+CA San Lorenzo de Almagro,1775,Argentina,Copa de la Liga
+Bolívar La Paz,6878,Bolivia,División Profesional
+Rakow Czestochowa,9644,Poland,Ekstraklasa
+Hokkaido Consadole Sapporo,16032,Japan,J1 League
+Beerschot V.A.,41274,Belgium,Jupiler Pro League
+CD Mirandés,13222,Spain,LaLiga2
+Zhejiang FC,17276,China,League One
+Hull City,3008,England,League One
+FC Cincinnati,51772,United States,MLS
+SAS Epinal,10838,France,National 2 - Grp. B
+Aalesunds FK,5619,Norway,OBOS-ligaen
+Paykan FC,6078,Iran,Persian Gulf Pro League
+Sanat Naft FC,20962,Iran,Persian Gulf Pro League
+Machine Sazi Tabriz,27818,Iran,Persian Gulf Pro League
+Pyramids FC,44664,Egypt,Premier League
+Desna Chernigiv,16239,Ukraine,Premier Liga
+Ordabasy Shymkent,16779,Kazakhstan,Premier Liga
+PFK Tambov,41201,Russia,Premier Liga
+Spezia Calcio,3522,Italy,Serie A
+Potenza Calcio,7197,Italy,Serie C - C
+Selangor FC,15831,Malaysia,Super League
+AO Xanthi,128,Greece,Super League 2
+GS Ergotelis,5220,Greece,Super League 2
+Lyngby BK,369,Denmark,Superligaen Relegation round
+Cruzeiro Esporte Clube,609,Brazil,Série B
+Hatayspor,7775,Turkey,Süper Lig
+Fatih Karagümrük,6646,Turkey,Süper Lig
+Al-Wahda FC Abu Dhabi,161,United Arab Emirates,UAE Pro League
+Al-Ittihad Kalba SC,38040,United Arab Emirates,UAE Pro League
+Spartaks Jurmala,28936,Latvia,Virsliga
+FC Noah Jurmala (-2021),77492,Latvia,Virsliga
+Lyngby BK,369,Denmark,1.Division
+FK Olimp-Dolgoprudnyi ( -2022),37029,Russia,1.Division
+Alania Vladikavkaz,75506,Russia,1.Division
+Akron Togliatti,71985,Russia,1.Division
+Chertanovo Moscow,43502,Russia,2 League Group 2
+Torpedo Vladimir,12065,Russia,2 League Group 2
+Saturn Ramenskoe,2737,Russia,2 League Group 3
+Dinamo Bryansk,11121,Russia,2 League Group 3
+SV Werder Bremen,86,Germany,2. Bundesliga
+FC Schalke 04,33,Germany,2. Bundesliga
+Akhisarspor,19771,Turkey,2.Lig Beyaz
+Eskisehirspor,825,Turkey,2.Lig Beyaz
+Bucaspor 1928 ,44286,Turkey,2.Lig Beyaz
+Pazarspor,9197,Turkey,2.Lig Beyaz
+Amed SK,12382,Turkey,2.Lig Beyaz
+Corum FK,37951,Turkey,2.Lig Kirmizi
+Afjet Afyonspor,49078,Turkey,2.Lig Kirmizi
+Adiyaman FK,49829,Turkey,2.Lig Kirmizi
+1461 Trabzon FK,39869,Turkey,2.Lig Kirmizi
+Turgutluspor,1508,Turkey,2.Lig Kirmizi
+Inegölspor,2319,Turkey,2.Lig Kirmizi
+SV Waldhof Mannheim,85,Germany,3. Liga
+SV Meppen,247,Germany,3. Liga
+Kahta 02 Spor,75737,Turkey,3.Lig Grup 1
+Elazigspor,2292,Turkey,3.Lig Grup 1
+Bayrampasa Spor,25230,Turkey,3.Lig Grup 2
+Yomra Spor,45316,Turkey,3.Lig Grup 2
+Esenler Erokspor,45269,Turkey,3.Lig Grup 3
+Ofspor,12555,Turkey,3.Lig Grup 3
+WSG Tirol,2446,Austria,Bundesliga
+The Strongest La Paz,5570,Bolivia,División Profesional
+DAC Dunajska Streda,4529,Slovakia,Fortuna Liga
+FK Pohronie,38269,Slovakia,Fortuna Liga
+Royale Union Saint Gilloise,3948,Belgium,Jupiler Pro League
+RFC Seraing,2715,Belgium,Jupiler Pro League
+Fleetwood Town,11177,England,League One
+Sheffield Wednesday,1035,England,League One
+Rochdale AFC,1088,England,League Two
+Sport Huancayo,21655,Peru,Liga 1 Clausura
+Astra Giurgiu,13499,Romania,Liga 2
+FC Vizela,6912,Portugal,Liga Portugal
+Club Atlético Talleres,3938,Argentina,Liga Profesional
+Arsenal Fútbol Club,4673,Argentina,Liga Profesional
+Vitória de Guimarães SC 23 (-2022),68188,Portugal,Liga Revelação
+SC Farense,4294,Portugal,Liga Sabseg
+Clermont Foot 63,3524,France,Ligue 1
+ES Sétif,18272,Algeria,Ligue Professionnelle 1
+Kano Pillars,6799,Nigeria,NPFL
+Stade Plabennecois,24063,France,National 2 - Grp. A
+Grimsby Town,1034,England,National League
+Mjøndalen IF,11338,Norway,OBOS-ligaen
+St. Patrick's Athletic,1189,Ireland,Premier Division
+El Gouna FC,20572,Egypt,Premier League
+Brentford FC,1148,England,Premier League
+Rukh Lviv,48726,Ukraine,Premier Liga
+SK Dnipro-1,60551,Ukraine,Premier Liga
+FC Nizhniy Novgorod,49702,Russia,Premier Liga
+Club Cerro Porteño,1214,Paraguay,Primera División Clausura
+NK Bravo,26985,Slovenia,Prva Liga
+Al-Faisaly FC,28848,Saudi Arabia,Saudi Pro League
+Al-Hazem SC,9131,Saudi Arabia,Saudi Pro League
+Pordenone Calcio,21331,Italy,Serie B
+FC Südtirol,4554,Italy,Serie C - A
+US Triestina,4271,Italy,Serie C - A
+1913 Seregno Calcio,4167,Italy,Serie C - A
+Wuhan Yangtze,6450,China,Super League
+Volos NPS,60949,Greece,Super League 1
+PAOK Thessaloniki B,91869,Greece,Super League 2
+SönderjyskE,5817,Denmark,Superligaen Relegation round
+Vejle Boldklub,443,Denmark,Superligaen Relegation round
+FC Nordsjaelland,2778,Denmark,Superligaen Relegation round
+Grêmio Foot-Ball Porto Alegrense,210,Brazil,Série B
+Brusque Futebol Clube (SC),14390,Brazil,Série B
+Giresunspor,11688,Turkey,Süper Lig
+Khor Fakkan,26351,United Arab Emirates,UAE Pro League
+FK RFS,33783,Latvia,Virsliga
+FK Minsk,23664,Belarus,Vysheyshaya Liga
+Pirin Blagoevgrad,521,Bulgaria,efbet Liga
+TSV 1860 Munich,72,Germany,Oberliga Bayern
+Rot-Weiss Essen,56,Germany,Oberliga Nordrhein
+FC Rouen 1899,1564,France,Ligue 2
+TSV Vestenbergsgreuth (- 1996),674,Germany,Oberliga Bayern
+SG Neukirchen/Röllshausen,2932,Germany,Oberliga Hessen
+SC Heerenveen,306,Netherlands,Keuken Kampioen Divisie
+BK Fremad Amager,5716,Denmark,1.Division
+Finnairin Palloilijat,26025,Finland,Veikkausliiga
+Yokohama Flügels (-1998),26093,Japan,J1 - 2nd Stage
+CD Mensajero,36060,Spain,2ª B - Grupo IV
+CD Maspalomas,60067,Spain,2ª B - Grupo IV
+Sestao Sport Club (- 1996),42873,Spain,LaLiga2
+SD Beasain,11608,Spain,2ª B - Grupo II
+Elche CF,1531,Spain,2ª B - Grupo III
+BK Frem,444,Denmark,Superligaen
+SAS Epinal,10838,France,Ligue 2
+Tampereen Pallo-Veikot,11150,Finland,Veikkausliiga
+Dinamo Barnaul,12043,Russia,1.Division
+Panionios Athens,169,Greece,Football League
+Temp Shepetivka,21021,Ukraine,Premier Liga
+Zvezda Irkutsk (-2008),11128,Russia,1.Division
+ACR Messina,1104,Italy,Serie C - B
+Aquila Montevarchi 1902,4339,Italy,Lega Pro 2 - B
+Söke Spor,23827,Turkey,1.Lig
+Musspor,66621,Turkey,1.Lig
+Belediye Kütahyaspor,12497,Turkey,1.Lig
+Yalovaspor,9935,Turkey,1.Lig
+Aksarayspor,39883,Turkey,3.Lig Grup 4
+Rot-Weiß Oberhausen,57,Germany,Oberliga Nordrhein
+FC Remscheid,662,Germany,Oberliga Nordrhein
+SpVgg Greuther Fürth,65,Germany,Oberliga Bayern
+Júbilo Iwata,937,Japan,Japan Football League (92-98)
+Girona FC,12321,Spain,2ª B - Grupo III
+UE Lleida (- 2011),3239,Spain,LaLiga
+Granada CF,16795,Spain,2ª B - Grupo IV
+Erzu Grozny (-1994),84132,Russia,1.Division
+Avangard Kamyshin (-1997),84564,Russia,1.Division
+Lokomotiv Vitebsk (- 2000),68783,Belarus,Vysheyshaya Liga
+Kolos Krasnodar (-1996),22488,Russia,1.Division
+Kashiwa Reysol,6632,Japan,Japan Football League (92-98)
+Acireale Calcio,4337,Italy,Serie B
+Mantova 1911,2581,Italy,Serie C - A
+AS Livorno,1210,Italy,Lega Pro 2 - B
+Giarre 1946,4546,Italy,Serie C - B
+Üsküdar Anadolu SK,66625,Turkey,1.Lig
+VfL Herzlake,478,Germany,Oberliga Nord
+Gaziantep FK,2832,Turkey,3.Lig Grup 3
+Ankara Keciörengücü,12388,Turkey,3.Lig Grup 4
+Ünyespor,11110,Turkey,1.Lig
+SC Jülich 1910,474,Germany,Oberliga Nordrhein
+SpVgg Greuther Fürth,65,Germany,Regionalliga Süd
+TuS Hoisdorf,824,Germany,Regionalliga Nord
+SV Lohhof,315,Germany,Regionalliga Süd
+1.FC Passau,2285,Germany,Oberliga Bayern
+Germania Teveren,1483,Germany,Oberliga Nordrhein
+Ölstykke FC,5870,Denmark,Superligaen Relegation round
+CD Tudelano,29271,Spain,2ª B - Grupo II
+Gernika Club,11590,Spain,2ª B - Grupo II
+CP Cacereño,11602,Spain,2ª B - Grupo IV
+UE Sant Andreu,12697,Spain,2ª B - Grupo III
+UD Almería,3302,Spain,2ª B - Grupo IV
+Maccabi Ironi Ashdod,30468,Israel,Ligat ha'Al
+FC Empoli,749,Italy,Serie C - B
+CPR Ospitaletto,5542,Italy,Serie C - A
+AC Crevalcore,26280,Italy,Serie C - A
+Calcio Sandonà,54652,Italy,Lega Pro 2 - B
+AS Cittadella,4084,Italy,Lega Pro 2 - B
+Devlet Hava Meydan Isletmesi,42869,Turkey,3.Lig Grup 4
+Yüksekova Cilospor,74532,Turkey,3.Lig Grup 1
+Sanliurfaspor,6630,Turkey,3.Lig Grup 3
+Islahiye Belediye Genclik Spor,50822,Turkey,3.Lig Grup 3
+Vegalta Sendai,6395,Japan,Japan Football League (92-98)
+Parchimer FC,1282,Germany,NOFV-Oberliga Nord
+FC Trinity Zlin,5545,Czech Republic,Fortuna Liga
+FC Linz,395,Austria,2. Liga
+Elche CF,1531,Spain,2ª B - Grupo IV
+Gimnàstic de Tarragona,5648,Spain,2ª B - Grupo III
+Club Atlético Belgrano,2417,Argentina,Torneo Inicial
+Málaga CF,1084,Spain,2ª B - Grupo IV
+FC Felgueiras,1701,Portugal,Liga Portugal
+Vissel Kobe,3958,Japan,Japan Football League (92-98)
+SG Egelsbach,766,Germany,Regionalliga Süd
+Stade Poitevin FC,30293,France,Ligue 2
+SS Turris Calcio,4096,Italy,Serie C - B
+FC Ponsacco 1920,23377,Italy,Lega Pro 2 - B
+US Città di Pontedera,14888,Italy,Lega Pro 2 - B
+Erzincanspor,12345,Turkey,1.Lig
+Ankara Tarimspor,66359,Turkey,3.Lig Grup 4
+Karamanspor,45290,Turkey,3.Lig Grup 4
+FC Solothurn,1287,Switzerland,Challenge League
+Artvin Hopaspor,20684,Turkey,3.Lig Grup 2
+Karsspor,18773,Turkey,3.Lig Grup 2
+Rheydter SV,1485,Germany,Oberliga Nordrhein
+SC Weismain,555,Germany,Regionalliga Süd
+Avispa Fukuoka,9597,Japan,J1 League
+JEF United Chiba,672,Japan,J1 League
+FC Linz,395,Austria,Bundesliga
+Celaya FC,33203,Mexico,Liga MX Clausura
+Avezzano Calcio,4028,Italy,Serie C - B
+Sembawang Rangers,2247,Singapore,Premier League
+Hapoel Tayibe,31176,Israel,Ligat ha'Al
+Brescello Calcio,5179,Italy,Serie C - A
+Nisantasispor,62634,Turkey,1.Lig
+Barnsley FC,349,England,Premier League
+FC Kufstein,2235,Austria,2. Liga
+FK Proleter Zrenjanin,2674,Serbia,Super liga Srbije
+Aris Thessaloniki,605,Greece,Football League
+UD Pájara Playas de Jandía (-2011),11607,Spain,2ª B - Grupo III
+FSV Optik Rathenow,562,Germany,NOFV-Oberliga Nord
+Wycombe Wanderers,2805,England,League One
+Iperzola,25376,Italy,Lega Pro 2 - B
+Tolentino Calcio,22055,Italy,Lega Pro 2 - B
+Hacettepe Spor,10483,Turkey,3.Lig Grup 4
+Tanjong Pagar United,31525,Singapore,Premier League
+Izmitspor,44138,Turkey,3.Lig Grup 4
+Sivas Demirspor,58326,Turkey,3.Lig Grup 2
+SD Croatia Berlin,4308,Germany,NOFV-Oberliga Nord
+Termespor,20823,Turkey,3.Lig Grup 2
+Marmaris Genclik Spor,12392,Turkey,1.Lig
+ASKI Spor,68204,Turkey,3.Lig Grup 4
+VfB 1900 Gießen (- 2018),1473,Germany,Oberliga Hessen
+Bermeo FT,40169,Spain,2ª B - Grupo II
+Fulham FC,931,England,Second Division
+Bristol Rovers,2455,England,Second Division
+Reading FC,1032,England,Second Division
+Macclesfield Town (- 2020),2436,England,Second Division
+Luton Town,1031,England,Second Division
+Gillingham FC,2814,England,Second Division
+Preston North End,466,England,Second Division
+AFC Bournemouth,989,England,Second Division
+Lincoln City,1198,England,Second Division
+Stoke City,512,England,Second Division
+Oldham Athletic,1078,England,National League
+Millwall FC,1028,England,Second Division
+Wycombe Wanderers,2805,England,Second Division
+DSV Leoben,307,Austria,2. Liga
+Torpedo-Viktoria Nizhniy Novgorod (-2003),20841,Russia,1.Division
+Sport Club Marsala 1912,4555,Italy,Serie C - B
+Giorgione Calcio,2252,Italy,Lega Pro 2 - B
+Vis Pesaro 1898,7030,Italy,Lega Pro 2 - B
+Bilecikspor,15150,Turkey,3.Lig Grup 4
+Sivasspor,2381,Turkey,3.Lig Grup 2
+Siirtspor,1291,Turkey,3.Lig Grup 1
+FC Admira Wacker Mödling,503,Austria,2. Liga
+Kickers Offenbach,107,Germany,2. Bundesliga
+SC Austria Lustenau,541,Austria,Bundesliga
+CF Motril,12645,Spain,2ª B - Grupo IV
+CD Binéfar,21551,Spain,2ª B - Grupo II
+AO Trikala,3993,Greece,Super League 1
+Calcio Padova,3037,Italy,Lega Pro 2 - B
+US Savoia 1908,4341,Italy,Serie B
+Faenza Calcio,22035,Italy,Lega Pro 2 - B
+Fermana FC,4033,Italy,Serie B
+Calcio Sandonà,54652,Italy,Serie C - A
+Kilimli Belediyespor,22309,Turkey,3.Lig Grup 4
+Yeni Malatyaspor,19789,Turkey,1.Lig
+Hapoel Jerusalem (- 2019),17580,Israel,Ligat ha'Al
+Mobellaspor,44139,Turkey,1.Lig
+Fatsa Belediyespor,22089,Turkey,3.Lig Grup 2
+Nazilli Belediyespor,13473,Turkey,1.Lig
+Adana Demirspor,3840,Turkey,3.Lig Grup 3
+SV Babelsberg 03,90,Germany,Regionalliga Nord
+SV Wacker Burghausen,110,Germany,Regionalliga Süd
+FC Sachsen Leipzig (- 2011),99,Germany,Regionalliga Nord
+FC Carl Zeiss Jena,113,Germany,Regionalliga Süd
+Team Football Club,51214,Egypt,Premier League
+ND Primorje ,4507,Slovenia,Prva Liga
+Amurrio Club,6662,Spain,2ª B - Grupo II
+CD Burriana,34171,Spain,2ª B - Grupo III
+CD Calahorra,4030,Spain,2ª B - Grupo II
+Nueva Chicago,10534,Argentina,Primera Nacional
+Sichuan Guancheng,41415,China,Super League
+Port Vale FC,1211,England,Second Division
+Bury FC,2413,England,Second Division
+Notts County,1045,England,Second Division
+Miami Fusion (- 2002),1145,United States,MLS
+Oxford United,988,England,Second Division
+FK Riga (bis 2008),12883,Latvia,Virsliga
+Imolese Calcio 1919,4324,Italy,Lega Pro 2 - B
+Calcio Castel San Pietro Terme,19130,Italy,Lega Pro 2 - B
+Fener Spor,45132,Turkey,3.Lig Grup 4
+Saran Keskinspor,3221,Turkey,3.Lig Grup 4
+Amasyaspor,4573,Turkey,1.Lig
+Adiyamanspor,11933,Turkey,3.Lig Grup 3
+MKE Kirikkalespor,12390,Turkey,1.Lig
+SC Paderborn 07,127,Germany,Regionalliga Nord
+1.FC Schweinfurt 05,103,Germany,2. Bundesliga
+1.FC Sand,283,Germany,Oberliga Bayern
+SpVgg Ansbach,615,Germany,Regionalliga Süd
+Rot-Weiß Erfurt,111,Germany,Regionalliga Süd
+Dresdner SC,98,Germany,Regionalliga Nord
+Oita Trinita,3935,Japan,J2 League
+CS Visé,3172,Belgium,Challenger Pro League
+CE L'Hospitalet,9477,Spain,2ª B - Grupo II
+CD Onda,2922,Spain,2ª B - Grupo III
+Shelbourne FC,3909,Ireland,Premier Division
+Cardiff City,603,Wales,Second Division
+Chesterfield FC,1219,England,Second Division
+Dinamo St. Petersburg (-2018),6407,Russia,1.Division
+Spartak Semey (-2016),31007,Kazakhstan,Premier Liga
+FC Südtirol,4554,Italy,Lega Pro 2 - B
+AC Mestre,46196,Italy,Lega Pro 2 - B
+AC Montichiari,9528,Italy,Lega Pro 2 - B
+AS Sambenedettese,4330,Italy,Lega Pro 2 - B
+San Marino,10155,Italy,Lega Pro 2 - B
+Poggese Calcio,1448,Italy,Lega Pro 2 - B
+Yalovaspor,9935,Turkey,3.Lig Grup 4
+Sirnakspor,50648,Turkey,3.Lig Grup 2
+LASK Amateure OÖ,935,Austria,2. Liga
+Gaskispor,12383,Turkey,3.Lig Grup 2
+Spartak Pleven,4503,Bulgaria,efbet Liga
+SC Borussia Freialdenhoven,1001,Germany,Oberliga Nordrhein
+Tavsancilspor,70744,Turkey,3.Lig Grup 4
+Fethiyespor,7088,Turkey,3.Lig Grup 4
+Körfez SK,12511,Turkey,3.Lig Grup 4
+Torbalispor,20697,Turkey,3.Lig Grup 4
+RKS Radomsko,1655,Poland,Ekstraklasa
+Demir Celik Divrigispor,22214,Turkey,3.Lig Grup 1
+Adiyamanspor,11933,Turkey,3.Lig Grup 2
+TSG 1899 Hoffenheim,533,Germany,Regionalliga Süd
+Alicante CF (- 2014),12502,Spain,2ª B - Grupo III
+Yokohama FC,943,Japan,J2 League
+SV Mattersburg (-2020),856,Austria,2. Liga
+FC KTP,7315,Finland,Veikkausliiga
+NK Zepce,6805,Bosnia-Herzegovina,Premijer Liga
+Stockport County,1098,England,Second Division
+FC Cartagena,7077,Spain,2ª B - Grupo IV
+CD Logroñés,236,Spain,2ª B - Grupo II
+Paternò Calcio,46856,Italy,Serie C - B
+Ciudad Murcia (- 2007),4053,Spain,2ª B - Grupo IV
+Drogheda United FC,4277,Ireland,Premier Division
+Mansfield Town,3820,England,Second Division
+Cheltenham Town,3371,England,Second Division
+Plymouth Argyle,2262,England,Second Division
+FK Novokuznetsk,3715,Russia,1.Division
+Sangiovannese 1927,6351,Italy,Lega Pro 2 - B
+US Grosseto 1912,4333,Italy,Lega Pro 2 - B
+Savona FBC,13562,Italy,Lega Pro 2 - B
+Demir Celik Divrigispor,22214,Turkey,3.Lig Grup 2
+Hacettepe Spor,10483,Turkey,3.Lig Grup 3
+CA Batna,24868,Algeria,Ligue Professionnelle 1
+Sarayköy 1926 FK,4652,Turkey,3.Lig Grup 4
+Bitlis Özgüzelderespor,50907,Turkey,3.Lig Grup 1
+Agrispor,20778,Turkey,3.Lig Grup 1
+Kirsehirspor,8707,Turkey,3.Lig Grup 2
+Daegu FC,6504,"Korea, South",K League 1
+Aksarayspor,39883,Turkey,3.Lig Grup 3
+1.FC Eschborn (- 2016),1205,Germany,Regionalliga Süd
+Kickers Offenbach,107,Germany,Regionalliga Süd
+Hamarkameratene,4309,Norway,Eliteserien
+Terrassa FC,1881,Spain,LaLiga2
+AD Alcorcón,11596,Spain,2ª B - Grupo II
+Algeciras CF,3705,Spain,LaLiga2
+Jerez CF,18166,Spain,2ª B - Grupo IV
+Écija Balompié,4050,Spain,2ª B - Grupo IV
+RSD Alcalá,13436,Spain,2ª B - Grupo II
+Universidad de Las Palmas (- 2011),13243,Spain,2ª B - Grupo IV
+Brandenburger SC Süd,1523,Germany,NOFV-Oberliga Nord
+FC Baulmes,5259,Switzerland,1.Liga gr. 1
+Sogndal IL,2038,Norway,Eliteserien
+Incheon United,2996,"Korea, South",K League - 2nd Stage
+Longford Town FC,4287,Ireland,Premier Division
+Sheffield Wednesday,1035,England,Second Division
+SK Dynamo Ceske Budejovice,1321,Czech Republic,Fortuna Liga
+US Catanzaro,4097,Italy,Serie C - B
+SEF Torres 1903,2253,Italy,Serie C - A
+Rimini FC,4111,Italy,Serie C - A
+ ACD Olimpic Sansovino,10523,Italy,Lega Pro 2 - B
+Kasimpasa,10484,Turkey,3.Lig Grup 3
+Pendikspor,3209,Turkey,3.Lig Grup 3
+Gölcükspor,2751,Turkey,3.Lig Grup 4
+1.SC Feucht,305,Germany,Regionalliga Süd
+Yesil Bursa SK,11158,Turkey,3.Lig Grup 4
+Sinopspor,5744,Turkey,3.Lig Grup 2
+Rot-Weiß Erfurt,111,Germany,2. Bundesliga
+TuS Koblenz,996,Germany,Regionalliga Süd
+Wuppertaler SV,299,Germany,Regionalliga Nord
+Oita Trinita,3935,Japan,J1 - 2nd Stage
+Niki Volou,5572,Greece,Football League
+ Nesebar,8321,Bulgaria,efbet Liga
+Martina Calcio 1947,4558,Italy,Serie C - B
+Vittoria Calcio,7207,Italy,Serie C - A
+Pontevedra CF,5650,Spain,LaLiga2
+CF Badalona Futur,6638,Spain,2ª B - Grupo III
+AS Kastoria 1980,5540,Greece,Football League
+Qingdao Hainiu,8536,China,Super League
+SC Espinho,3265,Portugal,Liga Sabseg
+FC Lausanne-Sport,527,Switzerland,1.Liga gr. 1
+1.FC Union Berlin,89,Germany,Regionalliga Nord
+Kidderminster Harriers,1195,England,League Two
+St. Johnstone FC,2578,Scotland,Championship
+Chester City (- 2010),3613,England,League Two
+Partick Thistle FC ,2760,Scotland,Championship
+Rotherham United,1194,England,Championship
+Rushden & Diamonds (- 2011),3536,England,League Two
+Cheltenham Town,3371,England,League Two
+Stockport County,1098,England,League One
+Gillingham FC,2814,England,Championship
+Mansfield Town,3820,England,League Two
+Boston United,3489,England,League Two
+AFC Bournemouth,989,England,League One
+Oxford United,988,England,League Two
+FK Dubnica nad Vahom,7392,Slovakia,Fortuna Liga
+Venta Kuldiga,8002,Latvia,Virsliga
+Frosinone Calcio,8970,Italy,Serie C - A
+Acireale Calcio,4337,Italy,Serie C - A
+Ofspor,12555,Turkey,3.Lig Grup 2
+AOK Kerkyra,5219,Greece,Super League 1
+Gebzespor,13648,Turkey,3.Lig Grup 3
+ASV Bergedorf 85,49065,Germany,Oberliga Nord
+Akratitos Ano Liosion,1119,Greece,Super League 1
+BV Cloppenburg,571,Germany,Oberliga Nord
+CD Villanueva (- 2009),16540,Spain,2ª B - Grupo IV
+CD Baza (- 2015),16475,Spain,2ª B - Grupo IV
+Logroñés CF (- 2008),16557,Spain,2ª B - Grupo III
+CF Reus Deportiu (-2020),13225,Spain,2ª B - Grupo III
+Santa Cruz Futebol Clube (PE),1785,Brazil,Série A
+FC Sète 34,3520,France,Ligue 2
+Shonan Bellmare,8457,Japan,J2 League
+Yeovil Town,972,England,League One
+Swansea City,2288,Wales,League One
+Doncaster Rovers,2454,England,League One
+Wrexham AFC,1112,Wales,League Two
+Barnet FC,2804,England,League Two
+Notts County,1045,England,League Two
+Ölstykke FC,5870,Denmark,1.Division
+Nottingham Forest,703,England,League One
+Vissel Kobe,3958,Japan,J2 League
+Petrotrest St. Petersburg (-2013),12059,Russia,1.Division
+Spartak Chelyabinsk,22833,Russia,1.Division
+Athens Kallithea FC,3062,Greece,Super League 1
+FK Banik Most (-2016),797,Czech Republic,Fortuna Liga
+USD Castelnuovo Garfagnana,10748,Italy,Lega Pro 2 - B
+Fermana FC,4033,Italy,Serie C - A
+ASD Manfredonia Calcio,8579,Italy,Serie C - B
+AS Pizzighettone,8738,Italy,Serie C - A
+Mardinspor,5595,Turkey,1.Lig
+US Biskra,31757,Algeria,Ligue Professionnelle 1
+Hapoel Nof HaGalil,7000,Israel,Ligat ha'Al
+Sekerspor,5743,Turkey,3.Lig Grup 2
+Asteras Tripolis,6676,Greece,Football League
+Stal Alchevsk,10468,Ukraine,Premier Liga
+Eintracht Nordhorn (- 2015),1183,Germany,Oberliga Nord
+SönderjyskE,5817,Denmark,1.Division
+FK Bezanija,10319,Serbia,Super liga Srbije
+Slask Wroclaw,759,Poland,Fortuna 1 Liga
+CD Alcalá,9666,Spain,2ª B - Grupo IV
+UE Lleida (- 2011),3239,Spain,2ª B - Grupo III
+UD Vecindario (- 2015),10496,Spain,LaLiga2
+Neuchâtel Xamax FCS,625,Switzerland,Challenge League
+Pohang Steelers,311,"Korea, South",K League - 2nd Stage
+Carlisle United,1220,England,League One
+CS Chênois,4536,Switzerland,1.Liga gr. 1
+Scunthorpe United,2964,England,League One
+Southend United,2793,England,Championship
+Torquay United,1218,England,League Two
+Millwall FC,1028,England,League One
+Milton Keynes Dons,991,England,League Two
+Hereford United (- 2014),3064,England,League Two
+CSM Ceahlaul Piatra Neamt,8687,Romania,SuperLiga
+UTA Arad,952,Romania,SuperLiga
+FC Rieti,9352,Italy,Lega Pro 2 - B
+Ravenna FC,1105,Italy,Serie C - B
+Atletico Roma,9353,Italy,Lega Pro 2 - B
+Rovigo Calcio,8669,Italy,Lega Pro 2 - B
+Hubei Wuhan (-2008),45551,China,Super League
+US Ivrea Calcio,4548,Italy,Serie C - A
+US Grosseto 1912,4333,Italy,Serie C - A
+1461 Trabzon,12381,Turkey,3.Lig Grup 2
+CS Hammam-Lif,22815,Tunisia,Ligue I Pro
+Hakoah Amidar Ramat Gan,21535,Israel,Ligat ha'Al
+TSG 1899 Hoffenheim,533,Germany,2. Bundesliga
+FC Ingolstadt 04,4795,Germany,Regionalliga Süd
+Panserraikos,3385,Greece,Football League
+SV Straelen,1068,Germany,Oberliga Nordrhein
+Red Bull Juniors Salzburg (- 2012),6227,Austria,2. Liga
+UN Käerjeng 97,12004,Luxembourg,BGL Ligue
+Lorca Deportiva CF (- 2011),7972,Spain,2ª B - Grupo IV
+UD Ibiza,13241,Spain,2ª B - Grupo III
+CD Guijuelo,11615,Spain,2ª B - Grupo II
+Granada 74 CF (-2009),3896,Spain,LaLiga2
+Daejeon Hana Citizen,6499,"Korea, South",K League 1
+Arema Indonesia,87201,Indonesia,Liga 1
+Hapoel Kfar Saba,7532,Israel,Ligat ha'Al
+Legnano AC,4550,Italy,Serie C - A
+Club Atlético Talleres,3938,Argentina,Primera Nacional
+Southend United,2793,England,League One
+Vityaz Podolsk,12068,Russia,1.Division
+NK Interblock Ljubljana,11006,Slovenia,Prva Liga
+Sportacademclub Moskau,12064,Russia,1.Division
+FK Atyrau,16198,Kazakhstan,Premier Liga
+Mérida UD (- 2013),3803,Spain,2ª B - Grupo IV
+Gallipoli Football 1909,10348,Italy,Serie C - B
+Karacabey Belediye Spor,20699,Turkey,3.Lig Grup 3
+Darica Genclerbirligi,12380,Turkey,3.Lig Grup 4
+Yeni Ereglispor,9518,Turkey,3.Lig Grup 3
+Panserraikos,3385,Greece,Super League 1
+CS Otopeni,12682,Romania,SuperLiga
+JSM Bejaia,16265,Algeria,Ligue Professionnelle 1
+Apollon Pontou,3392,Greece,Football League
+Atlético Ciudad (- 2010),18667,Spain,2ª B - Grupo II
+Mérida UD (- 2013),3803,Spain,2ª B - Grupo II
+Linares Deportivo,12351,Spain,2ª B - Grupo IV
+Alicante CF (- 2014),12502,Spain,LaLiga2
+Polideportivo Ejido (-2012),606,Spain,2ª B - Grupo IV
+CD Guadalajara,16576,Spain,2ª B - Grupo IV
+CD Dénia,12822,Spain,2ª B - Grupo III
+Thrasyvoulos Fylis,6678,Greece,Super League 1
+FK Laktasi,12151,Bosnia-Herzegovina,Premijer Liga
+FC Etzella Ettelbruck,9283,Luxembourg,BGL Ligue
+US Rumelange,19689,Luxembourg,BGL Ligue
+Montedio Yamagata,16190,Japan,J1 League
+Lokomotiv Mezdra 2012,19214,Bulgaria,efbet Liga
+Fortaleza Esporte Clube,10870,Brazil,Série B
+Chengdu Tiancheng (1996-2014),6071,China,Super League
+FC Locarno,2411,Switzerland,Challenge League
+Hartlepool United,2577,England,League One
+Luton Town,1031,England,League Two
+Doncaster Rovers,2454,England,Championship
+FK Krasnodar,16704,Russia,1.Division
+ASD Figline 1965,18938,Italy,Lega Pro 2 - B
+FC Bassano 1903,9690,Italy,Lega Pro 2 - B
+Orhangazi Belediyespor,12466,Turkey,3.Lig Grup 3
+Kücükköyspor,3307,Turkey,3.Lig Grup 1
+Keciören Sportif,31803,Turkey,3.Lig Grup 3
+CD Everton,7020,Chile,Torneo Clausura
+Göztepe,1467,Turkey,3.Lig Grup 2
+Bagcilar Spor Kulübü,14933,Turkey,3.Lig Grup 1
+Etisalat,13447,Egypt,Premier League
+Holstein Kiel,269,Germany,3. Liga
+Standaard Wetteren,3083,Belgium,Challenger Pro League
+FC Évian Thonon Gaillard,14171,France,Championnat National
+CD Alcoyano,11259,Spain,2ª B - Grupo III
+AC Oulu,7008,Finland,Veikkausliiga
+Universidad de Las Palmas (- 2011),13243,Spain,2ª B - Grupo II
+AO Kavala,3391,Greece,Super League 1
+AD Carregado,10919,Portugal,Liga Sabseg
+AD Cerro de Reyes (- 2011),15368,Spain,2ª B - Grupo II
+OFI Crete FC,653,Greece,Football League
+Ionikos Nikeas,553,Greece,Football League
+FK Zemun,3521,Serbia,Prva liga Srbije
+SO Cassis Carnoux,7670,France,Championnat National
+ESTAC Troyes,1095,France,Championnat National
+Indios de Ciudad Juárez (- 2011),12292,Mexico,Liga MX Clausura
+Turan-Tovuz IK,9526,Azerbaijan,Premyer Liqa
+Portogruaro Calcio,15374,Italy,Serie C - B
+Cosenza Calcio,4031,Italy,Serie C - B
+AS Pescina Valle del Giovenco,22041,Italy,Serie C - B
+FC Esperia Viareggio,4104,Italy,Serie C - A
+ASD Figline 1965,18938,Italy,Serie C - A
+AC Perugia,839,Italy,Serie C - A
+Benevento Calcio,4171,Italy,Serie C - A
+Lucchese 1905,1253,Italy,Lega Pro 2 - B
+Gallipoli Football 1909,10348,Italy,Serie B
+SPAL,2722,Italy,Serie C - B
+Kastamonuspor,8690,Turkey,3.Lig Grup 4
+Lüleburgazspor,15157,Turkey,3.Lig Grup 1
+Karacabey Belediye Spor,20699,Turkey,3.Lig Grup 1
+FC Fredericia,5776,Denmark,1.Division
+Hönefoss BK,632,Norway,Eliteserien
+Omiya Ardija,7452,Japan,J1 League
+AZAL PFK Baku,13326,Azerbaijan,Premyer Liqa
+Torbalispor,20697,Turkey,3.Lig Grup 2
+Norwich City,1123,England,League One
+Ankara Demirspor,12524,Turkey,3.Lig Grup 3
+TuS Koblenz,996,Germany,3. Liga
+Göztepe,1467,Turkey,2.Lig Beyaz
+EVV Echt,8994,Netherlands,Derde Divisie Sunday
+VV Baronie,8161,Netherlands,Derde Divisie Sunday
+HSV Hoek,3943,Netherlands,Derde Divisie Saturday
+Harkemase Boys,7408,Netherlands,Derde Divisie Saturday
+CSV Apeldoorn,4026,Netherlands,Derde Divisie Saturday
+VV IJsselmeervogels,7116,Netherlands,Derde Divisie Saturday
+Achilles '29,18216,Netherlands,Derde Divisie Sunday
+FC Hlucin,8684,Czech Republic,FNL
+UD Melilla,16492,Spain,2ª B - Grupo IV
+Ironi Kiryat Shmona,6028,Israel,Ligat ha'Al
+Akademik Sofia,21253,Bulgaria,efbet Liga
+Ontinyent CF (- 2019),15447,Spain,2ª B - Grupo III
+Montevideo Wanderers,2403,Uruguay,Primera División Clausura
+Shaanxi Wuzhou,24566,China,League One
+Ittihad Alexandria,3963,Egypt,Premier League
+Hapoel Ramat Gan,2785,Israel,Ligat ha'Al
+AS Khroub,30590,Algeria,Ligue Professionnelle 1
+SC Bastia,595,France,Championnat National
+Altrincham FC,2962,England,National League
+Forest Green Rovers ,3455,England,National League
+Notts County,1045,England,League One
+University College Dublin,6069,Ireland,Premier Division
+Bristol Rovers,2455,England,League One
+Exeter City,6699,England,League One
+Kaliakra Kavarna,19781,Bulgaria,efbet Liga
+ACSM Politehnica Iasi,33966,Romania,Liga II - Seria II
+AC Giacomense,22203,Italy,Lega Pro 2 - B
+SS Villacidrese,22231,Italy,Lega Pro 2 - B
+FC Universitatea Cluj,6429,Romania,SuperLiga
+Portogruaro Calcio,15374,Italy,Serie B
+FC Esperia Viareggio,4104,Italy,Serie C - B
+FC Bassano 1903,9690,Italy,Serie C - A
+FC Wohlen,1978,Switzerland,Challenge League
+AS Gubbio 1910,4326,Italy,Serie C - A
+US Follonica Gavorrano,27568,Italy,Lega Pro 2 - B
+Città di Gela ,8304,Italy,Serie C - B
+UTA Arad,952,Romania,Liga II - Seria II
+Akcaabat Sebatspor,1511,Turkey,2.Lig Beyaz
+Hatayspor,7775,Turkey,3.Lig Grup 1
+Tokatspor,11250,Turkey,2.Lig Kirmizi
+NK Nafta 1903,9233,Slovenia,Prva Liga
+Karsspor,18773,Turkey,3.Lig Grup 3
+Eyüpspor,7160,Turkey,2.Lig Kirmizi
+Fethiyespor,7088,Turkey,2.Lig Kirmizi
+Cankirispor,12939,Turkey,2.Lig Beyaz
+Belediye Bingölspor,12565,Turkey,3.Lig Grup 1
+MFK Karvina,13726,Czech Republic,FNL
+Balikesirspor,20698,Turkey,2.Lig Kirmizi
+El-Jaish Sports Club,33288,Qatar,Stars League
+VV UNA Veldhoven,8449,Netherlands,Derde Divisie Sunday
+Paksi FC,12163,Hungary,NB I.
+HSC '21 Haaksbergen,8565,Netherlands,Derde Divisie Sunday
+BFC Siófok,3552,Hungary,NB I.
+Hapoel Ramat haSharon,31134,Israel,Ligat ha'Al
+Boa Esporte Clube (MG),17561,Brazil,Série B
+Al-Qadsiah FC,26069,Saudi Arabia,Saudi Pro League
+Deportes Cobreloa,9103,Chile,Torneo Clausura
+Kecskeméti TE,12423,Hungary,NB I.
+AS Cherbourg,5773,France,Championnat National
+FC Rouen 1899,1564,France,Championnat National
+FC Le Mont LS,12424,Switzerland,1.Liga gr. 1
+HBS Craeyenhout,19231,Netherlands,Derde Divisie Sunday
+Stockport County,1098,England,National League
+Bristol Rovers,2455,England,League Two
+York City,1252,England,National League
+Vejle Boldklub Kolding,33324,Denmark,1.Division
+AFC Telford United,3694,England,National League
+Metallurg Lipetsk,3723,Russia,2 League Group 3
+Metallurg-Oskol Stary Oskol,16619,Russia,2 League Group 3
+FC Zestafoni,10719,Georgia,Erovnuli Liga (bis 2016/17)
+JK Sillamäe Kalev,22832,Estonia,Premium Liiga
+Vityaz Podolsk,12068,Russia,2 League Group 3
+ASD Fondi Calcio,26722,Italy,Lega Pro 2 - B
+US Avellino 1912,2331,Italy,Serie C - A
+Novara FC,6692,Italy,Serie A
+Spezia Calcio,3522,Italy,Serie C - B
+AS Gubbio 1910,4326,Italy,Serie B
+FC Bassano 1903,9690,Italy,Serie C - B
+Taranto FC 1927,4093,Italy,Serie C - A
+SSD Isola Liri,22051,Italy,Lega Pro 2 - B
+FC Snagov (- 2012),22964,Romania,Liga 2
+Sorrento 1945,10118,Italy,Serie C - A
+CS Mioveni,11390,Romania,SuperLiga
+Qormi FC,23653,Malta,Premier League
+Aviron Bayonnais,8728,France,Championnat National
+Hamrun Spartans,17149,Malta,Premier League
+Sekerspor,5743,Turkey,2.Lig Kirmizi
+Sanliurfaspor,6630,Turkey,2.Lig Beyaz
+Tarsus Idman Yurdu,12399,Turkey,3.Lig Grup 3
+Maritzburg United FC,14187,South Africa,DStv Premiership
+Balikesirspor,20698,Turkey,2.Lig Beyaz
+Hacettepe Spor,10483,Turkey,3.Lig Grup 1
+Associação Portuguesa de Desportos (SP) ,16651,Brazil,Série A
+Kastamonuspor,8690,Turkey,3.Lig Grup 1
+Afyonkarahisarspor,1781,Turkey,3.Lig Grup 3
+Kirklarelispor,27603,Turkey,2.Lig Kirmizi
+Adiyamanspor,11933,Turkey,2.Lig Kirmizi
+Kirikhanspor,27078,Turkey,3.Lig Grup 1
+FK Novi Pazar,4633,Serbia,Super liga Srbije
+Cubukspor,20958,Turkey,2.Lig Kirmizi
+Ünyespor,11110,Turkey,2.Lig Kirmizi
+Turgutluspor,1508,Turkey,2.Lig Beyaz
+Preußen Münster,91,Germany,3. Liga
+VfR Aalen,83,Germany,2. Bundesliga
+Henan Songshan Longmen,9982,China,League One
+Hallescher FC,440,Germany,3. Liga
+Valletta FC,6335,Malta,Premier League
+Kaysar Kyzylorda,19294,Kazakhstan,Premier Liga
+SVV Scheveningen,6614,Netherlands,Derde Divisie Saturday
+CS Uruguay de Coronado,35060,Costa Rica,Primera División Clausura
+SKN Sint-Niklaas,3600,Belgium,Challenger Pro League
+San Fernando CD,12181,Spain,2ª B - Grupo IV
+CF Huracán Moncada,33600,Spain,2ª B - Grupo III
+Al-Shabab Al-Arabi Club (1958-2017),15540,United Arab Emirates,UAE Pro League
+Iraklis Thessaloniki,47,Greece,Football League
+FK Rudar Prijedor,24197,Bosnia-Herzegovina,Premijer Liga
+AEL Kalloni,28956,Greece,Football League
+Dagenham & Redbridge FC,3696,England,League Two
+Fleetwood Town,11177,England,League Two
+Stevenage FC,3684,England,League One
+Shrewsbury Town,3054,England,League One
+Gateshead FC,3456,England,National League
+Bury FC,2413,England,League One
+Octane Perm,17133,Russia,2 League Group 4
+AS Fokikos Amfissas,21941,Greece,Football League
+Tritium Calcio 1908,19367,Italy,Serie C - A
+CD Universidad Católica,17584,Ecuador,Serie A Segunda Etapa
+NK Triglav Kranj,17836,Slovenia,Prva Liga
+Botev Vratsa,26462,Bulgaria,efbet Liga
+ACS Poli Timisoara (2012 - 2021),36590,Romania,Liga II - Seria II
+Fujieda MYFC,25716,Japan,Japan Football League
+US Salernitana,380,Italy,Lega Pro 2 - B
+ASD HinterReggio Calcio,27198,Italy,Lega Pro 2 - B
+US Borgo a Buggiano 1920,27563,Italy,Lega Pro 2 - B
+Sliema Wanderers,329,Malta,Premier League
+Martina Calcio 1947,4558,Italy,Lega Pro 2 - B
+Città di Foligno 1928,11337,Italy,Lega Pro 2 - B
+FC Trapani 1905,4331,Italy,Serie C - A
+Kahramanmarasspor,12452,Turkey,2.Lig Kirmizi
+Orhangazi Belediyespor,12466,Turkey,3.Lig Grup 1
+Yeni Malatyaspor,19789,Turkey,2.Lig Beyaz
+Cubukspor,20958,Turkey,2.Lig Beyaz
+Manavgatspor,37965,Turkey,3.Lig Grup 2
+Altinordu FK,12374,Turkey,3.Lig Grup 3
+24 Erzincanspor,37956,Turkey,3.Lig Grup 2
+Kilimli Belediyespor,22309,Turkey,3.Lig Grup 2
+Erzurumspor FK,39722,Turkey,3.Lig Grup 3
+Istanbul Güngörenspor,3841,Turkey,2.Lig Kirmizi
+Corum FK,37951,Turkey,3.Lig Grup 3
+Cankirispor,12939,Turkey,2.Lig Kirmizi
+Tarsus Idman Yurdu,12399,Turkey,2.Lig Kirmizi
+Be Quick 1887,2879,Netherlands,Derde Divisie Sunday
+Sandnes Ulf,13025,Norway,Eliteserien
+Sriwijaya FC,28329,Indonesia,Liga 1
+Achilles '29,18216,Netherlands,Keuken Kampioen Divisie
+JVC Cuijk,4793,Netherlands,Derde Divisie Sunday
+Spartak Myjava,18963,Slovakia,Fortuna Liga
+FC Lisse,2821,Netherlands,Derde Divisie Saturday
+WKE Emmen (- 2016),7294,Netherlands,Derde Divisie Sunday
+Telefonat Beni Suef,27291,Egypt,Premier League
+PFC Simurq,13328,Azerbaijan,Premyer Liqa
+New York Cosmos,4835,United States,NASL Fall Championship
+AEL Kalloni,28956,Greece,Super League 1
+Sociedade Esportiva Palmeiras,1023,Brazil,Série B
+Churchill Brothers FC,14084,India,I-League
+Atlético Clube Goianiense,15172,Brazil,Série B
+RC Arbaa,37683,Algeria,Ligue Professionnelle 1
+DNŠ Zavrč,23253,Slovenia,Prva Liga
+Avaí Futebol Clube (SC),2035,Brazil,Série B
+FC U Craiova 1948,1007,Romania,Liga II - Seria II
+Vannes OC,1377,France,Championnat National
+CA Bastia,28559,France,Ligue 2
+GFC Ajaccio,3558,France,Championnat National
+Chengdu Tiancheng (1996-2014),6071,China,League One
+US Jeanne d'Arc Carquefou,17707,France,Championnat National
+CF Fuenlabrada,16486,Spain,2ª B - Grupo II
+Newport County,3716,Wales,League Two
+Yeovil Town,972,England,Championship
+Burton Albion,2963,England,League Two
+Scunthorpe United,2964,England,League Two
+Luton Town,1031,England,National League
+AO Episkopi Rethymnou,33438,Greece,Football League South
+FK Khimki,3719,Russia,2 League Group 2
+Universitatea Craiova,40812,Romania,Liga II - Seria II
+PFK Tambov (-2021),41201,Russia,2 League Group 3
+Casertana FC,4106,Italy,Lega Pro 2 - B
+Vittoriosa Stars FC,24985,Malta,Premier League
+Dubai Cultural Sports Club,9710,United Arab Emirates,UAE Pro League
+AS Castel Rigone,27514,Italy,Lega Pro 2 - B
+Feralpisalò,9439,Italy,Serie C - A
+Santiago Wanderers,2723,Chile,Torneo Clausura
+ACR Messina,1104,Italy,Lega Pro 2 - B
+Menemen FK,20664,Turkey,3.Lig Grup 3
+Fethiyespor,7088,Turkey,1.Lig
+Kizilcabölükspor,39870,Turkey,3.Lig Grup 1
+Hatayspor,7775,Turkey,2.Lig Beyaz
+Bayrampasa Spor,25230,Turkey,2.Lig Kirmizi
+Tarsus Idman Yurdu,12399,Turkey,2.Lig Beyaz
+Police United (1960-2017),21285,Thailand,Thai League
+Fatih Karagümrük,6646,Turkey,3.Lig Grup 1
+Odder IGF,13290,Denmark,2.Division Promotion
+Ciksalin Spor,39800,Turkey,3.Lig Grup 2
+Batman Petrolspor,3211,Turkey,3.Lig Grup 2
+Van Spor FK,3173,Turkey,3.Lig Grup 3
+Kayseri Sekerspor,37963,Turkey,3.Lig Grup 3
+Körfez SK,12511,Turkey,2.Lig Kirmizi
+BSV Schwarz-Weiß Rehden,5560,Germany,Regionalliga Nord
+Niki Volou,5572,Greece,Super League 1
+FC Vestsjaelland,20100,Denmark,Superligaen
+BVV Barendrecht,13642,Netherlands,Derde Divisie Saturday
+Excelsior Maassluis,3410,Netherlands,Derde Divisie Saturday
+Kozakken Boys,12285,Netherlands,Derde Divisie Saturday
+Al-Fateh,27221,Saudi Arabia,Saudi Pro League
+Racing Mechelen,2336,Belgium,Challenger Pro League
+JS Saoura,37160,Algeria,Ligue Professionnelle 1
+AE Larisa,4603,Greece,Football League North
+Olímpic Xàtiva,26007,Spain,2ª B - Grupo III
+AEK Athens,2441,Greece,Football League South
+Cangzhou Mighty Lions,35272,China,Super League
+Oeste Futebol Clube (SP),21829,Brazil,Série B
+FC Le Mont LS,12424,Switzerland,Challenge League
+Clube Oriental Lissabon,4864,Portugal,Liga Sabseg
+Ottawa Fury FC,39151,Canada,NASL Fall Championship
+CA Bastia,28559,France,Championnat National
+CS Emelec,4561,Ecuador,Serie A Segunda Etapa
+FK Olimpik Sarajevo ,11215,Bosnia-Herzegovina,Premijer Liga
+Southend United,2793,England,League Two
+Annan Athletic FC ,3015,Scotland,League Two
+Hartlepool United,2577,England,League Two
+Southport FC,9829,England,National League
+Sakhalin Yuzhno-Sakhalinsk,16613,Russia,1.Division
+FK Domodedovo (-2017),44753,Russia,2 League Group 2
+Saturn Ramenskoe,2737,Russia,2 League Group 2
+Rubin 2 Kazan,20323,Russia,2 League Group 4
+Pordenone Calcio,21331,Italy,Serie C - A
+Lupa Roma FC,22302,Italy,Serie C - C
+Cosenza Calcio,4031,Italy,Serie C - C
+Benevento Calcio,4171,Italy,Serie C - C
+Real Agro Aversa,22403,Italy,Serie C - C
+Barletta 1922,5585,Italy,Serie C - C
+US Savoia 1908,4341,Italy,Serie C - C
+APS Zakynthos,9415,Greece,Football League North
+San Marino,10155,Italy,Serie C - B
+AC Renate,24898,Italy,Serie C - A
+Vigor Lamezia Calcio,4061,Italy,Serie C - C
+Calcio Foggia 1920,704,Italy,Serie C - C
+CD San Marcos de Arica,23162,Chile,Torneo Clausura
+ASA 2013 Targu Mures (-2018),16650,Romania,SuperLiga
+Shanghai Shenxin (-2019),17238,China,Super League
+Corum FK,37951,Turkey,3.Lig Grup 1
+Wigry Suwalki,10453,Poland,Fortuna 1 Liga
+TKI Tavsanli Linyitspor,23667,Turkey,2.Lig Beyaz
+Sakaryaspor,2463,Turkey,3.Lig Grup 3
+Sivas Belediye Spor,37975,Turkey,3.Lig Grup 2
+Göztepe,1467,Turkey,2.Lig Kirmizi
+SC Fortuna Köln,92,Germany,3. Liga
+Meizhou Hakka,38929,China,League One
+VV Katwijk,9933,Netherlands,Derde Divisie Saturday
+San Antonio Scorpions FC,32567,United States,NASL Fall Championship
+VV SWZ Sneek,12634,Netherlands,Derde Divisie Sunday
+SVA Papendorp,36110,Netherlands,Derde Divisie Sunday
+ONS Sneek,20780,Netherlands,Derde Divisie Saturday
+KVV Coxyde (-2017),24279,Belgium,Challenger Pro League
+Manchester 62 FC,38205,Gibraltar,Gibraltar Football League
+Yanbian Funde,8539,China,Super League
+Jeanne d'Arc de Drancy,11374,France,National 2 - Grp. B
+Fatih Karagümrük,6646,Turkey,2.Lig Kirmizi
+FC Differdange 03,11914,Luxembourg,BGL Ligue
+Club Libertad Asunción,9875,Paraguay,Primera División Clausura
+La Roda CF,21568,Spain,2ª B - Grupo II
+Recreativo Huelva,2867,Spain,2ª B - Grupo IV
+Lynx FC,40553,Gibraltar,Gibraltar Football League
+Hajer Club,32343,Saudi Arabia,Saudi Pro League
+FC Biel-Bienne,2155,Switzerland,Challenge League
+Grenoble Foot 38,1290,France,National 2 - Grp. B
+Al-Raed,22381,Saudi Arabia,Saudi Pro League
+Al-Fujairah SC,31320,United Arab Emirates,UAE Pro League
+AS Moulins Football,8705,France,National 2 - Grp. B
+US Sarre-Union,26571,France,National 2 - Grp. B
+Dover Athletic,3936,England,National League
+Welling United,7454,England,National League
+Leyton Orient,1150,England,League Two
+Kidderminster Harriers,1195,England,National League
+Barrow AFC,6168,England,National League
+Eastleigh FC,10391,England,National League
+Lada Togliatti,2705,Russia,2 League Group 4
+Dinamo St. Petersburg (-2018),6407,Russia,2 League Group 2
+SS Racing Club Roma,32013,Italy,Serie C - C
+Club Nacional Asunción,7098,Paraguay,Primera División Clausura
+NK Krka,12908,Slovenia,Prva Liga
+ACR Messina,1104,Italy,Serie C - C
+Miami FC,42814,United States,NASL Fall Championship
+SSD Ischia Calcio,22330,Italy,Serie C - C
+AC Cuneo 1905,4150,Italy,Serie C - A
+SS Maceratese 1922,21474,Italy,Serie C - B
+Lupa Roma FC,22302,Italy,Serie C - B
+Amed SK,12382,Turkey,2.Lig Kirmizi
+Kirklarelispor,27603,Turkey,2.Lig Beyaz
+Gümüshanespor,4574,Turkey,2.Lig Kirmizi
+Manisaspor,1267,Turkey,2.Lig Kirmizi
+SG Sonnenhof Großaspach,2589,Germany,3. Liga
+San Francisco Deltas,53517,United States,NASL Fall Championship
+Chojniczanka Chojnice,28887,Poland,Fortuna 1 Liga
+FC Rijnvogels,18470,Netherlands,Derde Divisie Saturday
+Incheon United,2996,"Korea, South",K League 1
+KFC VW Hamme,3134,Belgium,1ste Nationale
+Ashanti Gold SC,9079,Ghana,Premier League
+UCAM Murcia CF,34148,Spain,LaLiga2
+Port FC,27092,Thailand,Thai League
+Zamudio SD,21402,Spain,2ª B - Grupo II
+UD San Sebastián de los Reyes,11245,Spain,2ª B - Grupo II
+AD Fafe,3326,Portugal,Liga Sabseg
+PAE Chania,37276,Greece,Football League
+Club Mutual Crucero del Norte,26157,Argentina,Primera Nacional
+Union Sportive de Ben Guerdane,30507,Tunisia,Ligue I Pro
+Guizhou FC,36628,China,Super League
+Deportivo Capiatá,28609,Paraguay,Primera División Clausura
+Dong A Thanh Hoa FC,35327,Vietnam,V.League 1
+NK Dugopolje,11148,Croatia,Prva NL
+SO Cholet,3525,France,National 2 - Grp. A
+Les Herbiers VF,13523,France,Championnat National
+RUFC Calais,11466,France,National 2 - Grp. B
+Bromley FC,8981,England,National League
+Yeovil Town,972,England,League Two
+Cambridge United,986,England,League Two
+Burton Albion,2963,England,Championship
+Morecambe FC,3697,England,League Two
+Aldershot Town,3717,England,National League
+Sumgayit PFC,36999,Azerbaijan,Premyer Liqa
+FC Saburtalo,41133,Georgia,Erovnuli Liga (bis 2016/17)
+SJK Seinäjoki,23777,Finland,Veikkausliiga
+SK Babite,53450,Latvia,Virsliga
+FK Taraz,22994,Kazakhstan,Premier Liga
+Venezia FC,607,Italy,Serie C - B
+Parma FC,130,Italy,Serie C - B
+AC Tuttocuoio,36745,Italy,Serie C - A
+Gzira United FC,32768,Malta,Premier League
+Lupa Roma FC,22302,Italy,Serie C - A
+Pordenone Calcio,21331,Italy,Serie C - B
+FCV Dender EH,9010,Belgium,1ste Nationale
+Taranto FC 1927,4093,Italy,Serie C - C
+Pro Piacenza 1919,38290,Italy,Serie C - A
+Alma Juventus Fano 1906,5615,Italy,Serie C - B
+RFC Seraing,2715,Belgium,1ste Nationale
+Feralpisalò,9439,Italy,Serie C - B
+Ankara Keciörengücü,12388,Turkey,2.Lig Beyaz
+Buca Gelistirme Spor,2750,Turkey,2.Lig Beyaz
+Istanbulspor,924,Turkey,2.Lig Beyaz
+Sagan Tosu,22177,Japan,J1 - 2nd Stage
+Erzurumspor FK,39722,Turkey,2.Lig Beyaz
+Gornik Leczna,3291,Poland,Ekstraklasa
+Beylerbeyispor,11675,Turkey,3.Lig Grup 1
+Naft Novin Tehran,32502,Iran,Persian Gulf Pro League
+Daejeon Hana Citizen,6499,"Korea, South",K League 2
+FC Chambly,35012,France,Championnat National
+Puskás Akadémia FC,37169,Hungary,NB I.
+Mezőkövesd Zsóry FC,24032,Hungary,NB I.
+Podbeskidzie Bielsko-Biala,6361,Poland,Fortuna 1 Liga
+Berchem Sport,3171,Belgium,1ste Nationale
+SC Eendracht Aalst,1111,Belgium,1ste Nationale
+US Viterbese 1908,22294,Italy,Serie C - A
+Union Titus Petange,48712,Luxembourg,BGL Ligue
+Cultural Leonesa,4542,Spain,LaLiga2
+Johor Darul Ta'zim,15817,Malaysia,Super League
+Lorca FC (- 2022),34559,Spain,LaLiga2
+Marbella FC,12361,Spain,2ª B - Grupo IV
+CD Vitoria,50186,Spain,2ª B - Grupo II
+Qingdao FC,38987,China,League One
+UE Olot,38456,Spain,2ª B - Grupo III
+Al-Fayha FC,50531,Saudi Arabia,Saudi Pro League
+Jacksonville Armada FC,43305,United States,NASL Fall Championship
+Luverdense Esporte Clube (MT),21599,Brazil,Série B
+NorthEast United FC,45276,India,Indian Super League
+Thai Honda FC (2000-2019),38052,Thailand,Thai League 2
+Rakow Czestochowa,9644,Poland,Fortuna 1 Liga
+CS Cartaginés,18577,Costa Rica,Primera División Apertura
+FC Martigues,1165,France,National 2 - Grp. A
+FC Lusitanos,28958,Andorra,Primera Divisió
+Quevilly Rouen Métropole,7124,France,Ligue 2
+Colchester United,1060,England,League Two
+Tranmere Rovers,1074,England,National League
+Guiseley AFC,12658,England,National League
+Woking FC,2796,England,National League
+Anzhi-Yunior Zelenodolsk ( - 2018),60937,Russia,2 League Group 4
+Beroe Stara Zagora,6764,Bulgaria,Efbet liga - Championship gr.
+Pskov-747 (-2020),6419,Russia,2 League Group 2
+Vereya Stara Zagora,40456,Bulgaria,Efbet liga - Championship gr.
+Mosta FC,32125,Malta,Premier League
+AC Renate,24898,Italy,Serie C - B
+Sicula Leonzio,54498,Italy,Serie C - C
+Naxxar Lions FC,32130,Malta,Premier League
+Reggina Calcio,1386,Italy,Serie C - C
+Casertana FC,4106,Italy,Serie C - C
+Turgutluspor,1508,Turkey,3.Lig Grup 2
+Al-Markhiya SC,26629,Qatar,Stars League
+52 Orduspor FK,45369,Turkey,3.Lig Grup 2
+Zonguldak Kömürspor,1515,Turkey,2.Lig Beyaz
+Bayrampasa Spor,25230,Turkey,3.Lig Grup 1
+Nigde Anadolu FK,37968,Turkey,2.Lig Beyaz
+FC Universitatea Cluj,6429,Romania,Liga 2
+1.FC Magdeburg,187,Germany,2. Bundesliga
+WSG Tirol,2446,Austria,2. Liga
+Vendsyssel FF,19657,Denmark,Superligaen Relegation round
+Florö SK,36226,Norway,OBOS-ligaen
+PAS Lamia 1964,3999,Greece,Super League 1
+Matsumoto Yamaga,25765,Japan,J1 League
+RWD Molenbeek,54189,Belgium,1ste Nationale
+UD Ibiza,13241,Spain,2ª B - Grupo IV
+SK Austria Klagenfurt,28760,Austria,2. Liga
+Changchun Yatai,4768,China,League One
+FC Rupel Boom,9804,Belgium,1ste Nationale
+FC Knokke,18940,Belgium,1ste Nationale
+V-Varen Nagasaki,23581,Japan,J1 League
+Al-Taawoun FC,28844,Saudi Arabia,Saudi Pro League
+Gyeongnam FC,16696,"Korea, South",K League 1
+Samut Prakan City,25446,Thailand,Thai League
+Mumbai City FC,45274,India,Indian Super League
+CD Mirandés,13222,Spain,2ª B - Grupo II
+Okzhetpes Kokshetau,19662,Kazakhstan,Premier Liga
+FC Annecy,30204,France,National 2 - Grp. A
+AS Béziers,10867,France,Ligue 2
+US Concarneau,21688,France,Championnat National
+Club Polideportivo El Ejido,53283,Spain,2ª B - Grupo IV
+US Marseille Endoume,14201,France,National 2 - Grp. A
+Rodez AF,11273,France,Championnat National
+Minnesota United FC,56089,United States,MLS
+AC Horsens,2414,Denmark,Superligaen Relegation round
+Forest Green Rovers ,3455,England,League Two
+FC Sochi,41231,Russia,1.Division
+Miedz Legnica,8936,Poland,Ekstraklasa
+FK Radnicki Nis,7567,Serbia,Super liga Srbije
+Dunarea Calarasi,37239,Romania,SuperLiga
+FK Ryazan,12052,Russia,2 League Group 3
+LDU Quito,9855,Ecuador,LigaPro Serie A
+ASDC Gozzano,13484,Italy,Serie C - A
+AS Giana Erminio,44223,Italy,Serie C - B
+US Viterbese 1908,22294,Italy,Serie C - C
+Piacenza Calcio 1919,1408,Italy,Serie C - A
+Bytovia Bytow,28536,Poland,Fortuna 1 Liga
+Albissola 2010,56966,Italy,Serie C - A
+Esenler Erokspor,45269,Turkey,3.Lig Grup 2
+Samsunspor,152,Turkey,2.Lig Beyaz
+Kozan Spor FK,45483,Turkey,3.Lig Grup 1
+24 Erzincanspor,37956,Turkey,3.Lig Grup 3
+Bodrumspor,44006,Turkey,2.Lig Beyaz
+Ohod Al-Medina,26587,Saudi Arabia,Saudi Pro League
+Diyarbekir Spor,39807,Turkey,3.Lig Grup 3
+Zonguldak Kömürspor,1515,Turkey,2.Lig Kirmizi
+Sultanbeyli Belediye Spor,49053,Turkey,3.Lig Grup 2
+Sekzia Ness Ziona,30062,Israel,Ligat ha'Al
+RKVV Westlandia,11075,Netherlands,Derde Divisie Sunday
+VV SteDoCo,39432,Netherlands,Derde Divisie Saturday
+PERSIB Bandung,14105,Indonesia,Liga 1
+Stellenbosch FC,23287,South Africa,DStv Premiership
+KSK Lierse Kempenzonen,28107,Belgium,1ste Nationale
+FC Andorra,10718,Andorra,2ª B - Grupo III
+SSD Città di Teramo,1415,Italy,Serie C - C
+R Union Tubize-Braine,3772,Belgium,1ste Nationale
+Odisha FC,45080,India,Indian Super League
+Guadalupe FC,18574,Costa Rica,Primera División Clausura
+Salford City,34888,England,League Two
+Silkeborg IF,1177,Denmark,Superligaen Relegation round
+SC Schiltigheim,8241,France,National 2 - Grp. A
+CD Badajoz,2923,Spain,2ª B - Grupo IV
+CA Boca Juniors,189,Argentina,Copa de la Liga
+Casa Pia AC,3268,Portugal,Liga Sabseg
+UD Vilafranquense,7119,Portugal,Liga Sabseg
+Birkirkara FC,10262,Malta,Premier League
+Damac FC,50532,Saudi Arabia,Saudi Pro League
+Doxa Dramas,3706,Greece,Super League 2
+Le Puy Foot 43 Auvergne,26863,France,Championnat National
+Rukh Brest (- 2022),63130,Belarus,Vysheyshaya Liga
+HB Köge,23297,Denmark,1.Division
+FC Chambly,35012,France,Ligue 2
+Walsall FC,899,England,League Two
+ACSC FC Arges,41278,Romania,Liga 2
+Chorley FC,13286,England,National League
+Sabah FK,63993,Azerbaijan,Premyer Liqa
+FK Sindjelic Belgrad,12931,Serbia,Prva liga Srbije
+FK Khimki 2,67887,Russia,2 League Group 3
+FC Zbrojovka Brno,5225,Czech Republic,FNL
+Arda Kardzhali,40604,Bulgaria,efbet Liga
+Khimik-Arsenal Tula,20084,Russia,2 League Group 3
+Veles Moscow,58065,Russia,2 League Group 2
+Imolese Calcio 1919,4324,Italy,Serie C - B
+Ternana Calcio,1103,Italy,Serie C - C
+US Vibonese,8077,Italy,Serie C - C
+AS Giana Erminio,44223,Italy,Serie C - A
+AC Cesena,1429,Italy,Serie C - B
+Bayrampasa Spor,25230,Turkey,3.Lig Grup 3
+Kocaelispor,120,Turkey,3.Lig Grup 2
+Usak Spor,37978,Turkey,2.Lig Kirmizi
+Van Spor FK,3173,Turkey,2.Lig Kirmizi
+Manisa FK,48913,Turkey,2.Lig Beyaz
+Al-Shahania SC,34694,Qatar,Stars League
+Serik Belediyespor,50845,Turkey,3.Lig Grup 1
+Nevsehir Belediye Spor,37967,Turkey,3.Lig Grup 3
+Etimesgut Belediyespor,44290,Turkey,2.Lig Kirmizi
+Modafen,50740,Turkey,3.Lig Grup 3
+Somaspor,45418,Turkey,3.Lig Grup 3
+Dunav Ruse,19780,Bulgaria,efbet Liga
+Ergene Velimese Spor,44031,Turkey,2.Lig Kirmizi
+Nashville SC,63966,United States,MLS
+UD Logroñés,24420,Spain,LaLiga2
+SC Verl,93,Germany,3. Liga
+FK Proleter Novi Sad (- 2022),19488,Serbia,Super liga Srbije
+RKSV Groene Ster,12451,Netherlands,Derde Divisie Sunday
+Júbilo Iwata,937,Japan,J2 League
+Stomil Olsztyn,9055,Poland,Fortuna 1 Liga
+Accrington Stanley,3688,England,League One
+RWD Molenbeek,54189,Belgium,Challenger Pro League
+FC Juárez,49283,Mexico,Liga MX Clausura
+KSK Lierse Kempenzonen,28107,Belgium,Challenger Pro League
+Jeunesse Esch,1257,Luxembourg,BGL Ligue
+FC Stade-Lausanne-Ouchy,5499,Switzerland,Challenge League
+FC U Craiova 1948,1007,Romania,Liga 2
+ACSC FC Arges,41278,Romania,SuperLiga
+Arsenal Fútbol Club,4673,Argentina,Copa de la Liga
+Operário Ferroviário Esporte Clube (PR),27214,Brazil,Série B
+Zaglebie Sosnowiec,6560,Poland,Fortuna 1 Liga
+Cuiabá Esporte Clube (MT),28022,Brazil,Série B
+Técnico Universitario,19104,Ecuador,Serie A Segunda Etapa
+Ho Chi Minh City FC,20830,Vietnam,V.League 1
+Al-Ain FC,2150,Saudi Arabia,Saudi Pro League
+Tarxien Rainbows,21395,Malta,Premier League
+FC Annecy,30204,France,Championnat National
+Pau FC,3166,France,Ligue 2
+Montana,24078,Bulgaria,efbet Liga
+Oxford United,988,England,League One
+Tokushima Vortis,17832,Japan,J1 League
+Oldham Athletic,1078,England,League Two
+Racing Club,1444,Argentina,Copa de la Liga
+Lillestrøm SK,353,Norway,OBOS-ligaen
+Zhetysu Taldykorgan,15299,Kazakhstan,Premier Liga
+Kolos Kovalivka,48332,Ukraine,Premier Liga
+Inter Miami CF,69261,United States,MLS
+US Avellino 1912,2331,Italy,Serie C - C
+Mantova 1911,2581,Italy,Serie C - B
+Cavese 1919,6266,Italy,Serie C - C
+Petrolul Ploiesti,9465,Romania,Liga 2
+Palermo FC,458,Italy,Serie C - C
+SS Turris Calcio,4096,Italy,Serie C - C
+1461 Trabzon FK,39869,Turkey,2.Lig Beyaz
+Iskenderunspor,44277,Turkey,3.Lig Grup 2
+68 Aksaray Belediye Spor,54636,Turkey,3.Lig Grup 4
+Tuzlaspor,39805,Turkey,1.Lig
+Sultanbeyli Belediye Spor,49053,Turkey,3.Lig Grup 4
+Beyoglu Yeni Carsi FK,44281,Turkey,3.Lig Grup 2
+Kahramanmarasspor,12452,Turkey,2.Lig Beyaz
+Serik Belediyespor,50845,Turkey,2.Lig Kirmizi
+Adiyaman FK,49829,Turkey,3.Lig Grup 4
+Nevsehir Belediye Spor,37967,Turkey,3.Lig Grup 1
+Isparta 32 Spor,55705,Turkey,3.Lig Grup 3
+FC Viktoria 1889 Berlin,40373,Germany,3. Liga
+Guayaquil City FC,25569,Ecuador,Serie A Segunda Etapa
+Viborg FF,1063,Denmark,Superligaen Relegation round
+OFC Oostzaan,43857,Netherlands,Derde Divisie Sunday
+FK Jerv,36224,Norway,Eliteserien
+Al-Tai,40079,Saudi Arabia,Saudi Pro League
+KVK Tienen,3315,Belgium,1ste Nationale
+Bengaluru FC,41030,India,Indian Super League
+AC Horsens,2414,Denmark,1.Division
+FC Borgo,61431,France,Championnat National
+URSL Visé,64501,Belgium,1ste Nationale
+UD Ibiza,13241,Spain,LaLiga2
+NK Hrvatski Dragovoljac,485,Croatia,SuperSport HNL
+Mazatlán FC,82696,Mexico,Liga MX Clausura
+Associação Desportiva Confiança (SE),3280,Brazil,Série B
+Radomiak Radom,7154,Poland,Ekstraklasa
+AEK Athens B,91870,Greece,Super League 2
+Swift Hesperange,9284,Luxembourg,BGL Ligue
+Barrow AFC,6168,England,League Two
+Burton Albion,2963,England,League One
+Ipswich Town,677,England,League One
+FK Turan,77711,Kazakhstan,Premier Liga
+Austin FC,72309,United States,MLS
+Dinamo St. Petersburg,55591,Russia,2 League Group 2
+Kuban Krasnodar,67241,Russia,1.Division
+FC Pari Nizhniy Novgorod,49702,Russia,Premier Liga
+Khimik Dzerzhinsk,20923,Russia,2 League Group 2
+Bruk-Bet Termalica Nieciecza,15906,Poland,Ekstraklasa
+Irtysh Omsk,12420,Russia,2 League Group 4
+Rodina Moscow,59024,Russia,2 League Group 3
+FK Saransk ( -2022),65682,Russia,2 League Group 3
+Akzhayik Uralsk,28178,Kazakhstan,Premier Liga
+Paide Linnameeskond,23371,Estonia,Premium Liiga
+Olbia Calcio 1905,9826,Italy,Serie C - B
+Latina Calcio 1932,22045,Italy,Serie C - C
+Monterosi Tuscia FC,45894,Italy,Serie C - C
+US Alessandria Calcio 1912,2721,Italy,Serie B
+AFC Chindia Targoviste,12680,Romania,SuperLiga
+Cuiabá Esporte Clube (MT),28022,Brazil,Série A
+AC Trento,4095,Italy,Serie C - A
+Panathinaikos Athens B,91871,Greece,Super League 2
+Virtusvecomp Verona,29251,Italy,Serie C - A
+Tsarsko Selo (- 2022),55555,Bulgaria,efbet Liga
+Karacabey Belediye Spor,20699,Turkey,2.Lig Beyaz
+Manisa FK,48913,Turkey,1.Lig
+Belediye Derince Spor,50814,Turkey,3.Lig Grup 3
+Ankaraspor,2944,Turkey,2.Lig Kirmizi
+Isparta 32 Spor,55705,Turkey,2.Lig Beyaz
+Artvin Hopaspor,20684,Turkey,3.Lig Grup 1
+Alanya Kestelspor,70142,Turkey,3.Lig Grup 2
+CA Sarmiento (Junin),12454,Argentina,Liga Profesional
+Fethiyespor,7088,Turkey,3.Lig Grup 3
+Agri 1970 Spor,55732,Turkey,3.Lig Grup 3
+Nigde Anadolu FK,37968,Turkey,2.Lig Kirmizi
+APO Levadiakos,2672,Greece,Super League 2
+Kizilcabölükspor,39870,Turkey,3.Lig Grup 2
+Somaspor,45418,Turkey,2.Lig Kirmizi
+Wuhan Three Towns,70657,China,Super League
+Igdir FK,74664,Turkey,3.Lig Grup 2
+23 Elazig FK,46741,Turkey,3.Lig Grup 2
+Widzew Lodz,88,Poland,Fortuna 1 Liga
+Nantong Zhiyun,46487,China,League One
+Orduspor 1967 SK,69593,Turkey,3.Lig Grup 3
