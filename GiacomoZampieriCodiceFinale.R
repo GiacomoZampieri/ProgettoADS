@@ -1,0 +1,734 @@
+library(dplyr)
+library(igraph)
+library(tidygraph)
+library(ggraph)
+library(ggplot2)
+library(tidyr)
+library(tidyverse)
+library(poweRlaw)
+library(scales)
+library(circlize)
+library(ggalluvial)
+library(gt)
+
+nodes = read.csv("teams_ALLF_Transf.csv",header=TRUE)
+
+nodes <- nodes %>%
+  mutate(team_name = case_when(
+    team_name == "Inter Milan" ~ "Inter",
+    team_name == "FC Internazionale" ~ "Inter",
+    TRUE ~ team_name
+  ))
+
+nodes <- nodes %>%
+  group_by(team_name) %>%
+  summarise_all(first)
+
+nodes <- nodes[!grepl("CD Logroñés B (- 2000)|Sporting de Gijón B", nodes$team_name), ]
+
+edges = read.csv("transfers_ALLF_Transf.csv",header=TRUE)
+
+edgesB <- edges[!grepl("CD Logroñés B (- 2000)|Sporting de Gijón B", edges$from), ]
+edges <- edgesB[!grepl("CD Logroñés B (- 2000)|Sporting de Gijón B", edgesB$to), ]
+
+edges$cost[is.na(edges$cost)] <- 0
+
+edges <- edges %>%
+  mutate(from = case_when(
+    from == "Inter Milan" ~ "Inter",
+    from == "FC Internazionale" ~ "Inter",
+    TRUE ~ from
+  ))
+
+edges <- edges %>%
+  mutate(to = case_when(
+    to == "Inter Milan" ~ "Inter",
+    to == "FC Internazionale" ~ "Inter",
+    TRUE ~ to
+  ))
+
+edges = edges %>%
+  distinct()
+
+grafoF <- graph_from_data_frame(d = edges, vertices = nodes, directed = TRUE)
+
+E(grafoF)$weight <- edges$cost + 100 #Rendo il grafo pesato
+
+nodi_da_rimuovere <- V(grafoF)[igraph::degree(grafoF) < 5] 
+
+grafoF <- delete_vertices(grafoF, nodi_da_rimuovere)
+
+grafoF_tbl = as_tbl_graph(grafoF)
+
+
+set.seed(425)
+
+neigh <- neighborhood(grafoF, nodes =  1034, order = 1)
+
+neigh_nodes <- unlist(neigh) #Converte la lista in un vettore
+
+subgraph <- induced_subgraph(grafoF, neigh_nodes)
+
+ggraph(subgraph, layout = "graphopt") + 
+  geom_edge_link(aes(edge_alpha = 0.5), color = "black",
+                 arrow = arrow(type = "closed", length = unit(3, "mm")))  + 
+  geom_node_point(aes(color = factor(name)), size = 3) +    
+  geom_node_text(aes(label = name), vjust = 1.5) +          
+  theme_void() +                                            
+  theme(legend.position = "none")   
+
+degree_values = igraph::degree(grafoF,mode="all")
+
+degree_df = data.frame(degree = degree_values)
+
+degree_df_ord <- degree_df %>% arrange(desc(degree))
+
+pl_model <- displ$new(degree_df$degree) #Creazione modello power law
+
+# estimate_xmin() determina il valore minimo (xmin) a partire dal quale i dati iniziano a seguire una distribuzione a 
+# potenza
+est <- estimate_xmin(pl_model)
+pl_model$setXmin(est)
+
+#Calcolo della distribuzione cumulativa del grado del grafo.
+degree_distribution <- degree_distribution(grafoF, cumulative = TRUE, mode = "all")
+
+plot(1:length(degree_distribution), degree_distribution, log = "xy",
+     main = "Distribuzione cumulativa del grado",
+     xlab = "Grado", ylab = "Probabilità cumulativa",
+     col = "black", pch = 16)
+
+#Retta del modello power law stimato
+lines(pl_model, col = "red", lwd = 4)
+
+betweenness_scores <- betweenness(grafoF, directed = TRUE)
+betweenness_df <- data.frame(team = V(grafoF)$name, betweenness = signif(betweenness_scores,4)) %>%
+  arrange(desc(betweenness)) %>% head(8)
+
+betweenness_df %>%
+  gt() %>%
+  tab_header(
+    title = "Squadre con la più alta betweennes centeality"
+  ) %>%
+  fmt_number(
+    columns = betweenness,  
+    decimals = 0      
+  ) 
+
+pr =  page_rank(grafoF)
+
+pr_df = data.frame(node = names(pr$vector), pagerank = signif(pr$vector,3)) %>%
+  arrange(desc(pagerank)) %>% head(8)
+
+pr_df = pr_df %>% 
+  rename(
+    Team = node,
+    PageRank = pagerank
+  )
+
+pr_df %>%
+  gt() 
+
+degree_df <- data.frame(
+  team = V(grafoF)$name,
+  in_degree = igraph::degree(grafoF, mode = "in"),  # Squadre che comprano di più
+  out_degree = igraph::degree(grafoF, mode = "out") # Squadre che vendono di più
+)
+
+# Ordinare le squadre con più acquisti e vendite
+top_buyers <- degree_df %>% arrange(desc(in_degree)) %>% select(team,in_degree) %>% head(10)
+top_sellers <- degree_df %>% arrange(desc(out_degree)) %>% select(team,out_degree) %>% head(10)
+
+top_buyers = top_buyers %>% 
+  rename(
+    Team = team,
+    In_degree = in_degree
+  )
+
+top_buyers %>%
+  gt() 
+
+top_sellers = top_sellers %>% 
+  rename(
+    Team = team,
+    Out_degree = out_degree
+  )
+
+top_sellers %>%
+  gt()
+
+seasonsVett = unique(edges$season)
+
+calcola_transitivita <- function(val, dataset) {
+  
+  df = dataset %>%
+    filter(season == val)
+  
+  grafo <- graph_from_data_frame(d = df, vertices = nodes, directed = TRUE)
+  
+  trans <- transitivity(grafo)
+}
+
+transit <- sapply(seasonsVett, calcola_transitivita, dataset = edges)
+
+trans_season = as.data.frame(transit)
+
+calcola_reciprocita <- function(val, dataset) {
+  
+  df = dataset %>%
+    filter(season == val)
+  
+  grafo <- graph_from_data_frame(d = df, vertices = nodes, directed = TRUE)
+  
+  rec <- reciprocity(grafo)
+}
+
+recit <- sapply(seasonsVett, calcola_reciprocita, dataset = edges)
+
+rec_season = as.data.frame(recit)
+
+calcola_assort <- function(val, dataset) {
+  
+  df <- dataset %>%
+    filter(season == val)
+  
+  grafo <- graph_from_data_frame(d = df, vertices = nodes, directed = TRUE)
+  
+  ass <- assortativity_degree(grafo, directed = TRUE)
+  
+  return(ass)
+}
+
+assit <- sapply(seasonsVett, calcola_assort , dataset = edges)
+
+ass_season <- data.frame(assortativity = assit)
+
+seasonsVett <- unique(edges$season)
+
+nodes$team_country <- as.factor(nodes$team_country)
+
+
+calcola_assort_naz <- function(val, dataset, nodes) {
+  
+  df <- dataset %>%
+    filter(season == val)
+  
+  nodes_filtered <- nodes %>%
+    filter(team_name %in% unique(c(df$from, df$to)))
+  
+  grafo <- graph_from_data_frame(d = df, vertices = nodes_filtered, directed = TRUE)
+  
+  # Assicurati che l'attributo esista e sia un fattore
+  if (!"team_country" %in% colnames(nodes_filtered)) {
+    stop("L'attributo team_country non è presente nei nodi!")
+  }
+  
+  nodes_filtered$team_country <- as.factor(nodes_filtered$team_country)
+  
+  ass_naz <- assortativity_nominal(grafo, as.numeric(as.factor(V(grafo)$team_country)), directed = TRUE)
+  
+  return(ass_naz)
+}
+
+assit_naz <- sapply(seasonsVett, calcola_assort_naz, dataset = edges, nodes = nodes)
+
+ass_season_naz <- data.frame(assortativity = assit_naz)
+
+#Si può vedere che negli anni le squadre tendono a scambiare sempre meno i giocatori con squadre della propria nazione
+ggplot(ass_season_naz, aes(x = seasonsVett, y = assit_naz)) +
+  geom_bar(stat = "identity", fill = "#69b3a2", color = "black") +  
+  geom_smooth(aes(group = 1), color = "red", method = "loess", se = FALSE, size = 1) +  
+  labs(title = "Evoluzione dell'assortatività per nazione nelle varie stagioni",
+       x = "Stagioni",
+       y = "Assortatività") +
+  theme_minimal(base_size = 14) +  # Font più grande
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    axis.text.y = element_text(size = 10),
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 16),
+    panel.grid.major = element_line(color = "gray85"),
+    panel.grid.minor = element_blank()
+  )
+
+
+calcola_assort_camp <- function(val, dataset, nodes) {
+  
+  df <- dataset %>%
+    filter(season == val)
+  
+  grafo <- graph_from_data_frame(d = df, vertices = nodes, directed = TRUE)
+  
+  nodes$team_league <- as.factor(nodes$team_league)
+  
+  ass_camp <- assortativity_nominal(grafo, as.numeric(as.factor(V(grafo)$team_league)), directed = TRUE)
+  
+  return(ass_camp)
+}
+
+assit_camp <- sapply(seasonsVett, calcola_assort_camp, dataset = edges, nodes = nodes)
+
+
+ass_season_camp <- data.frame(assortativity = assit_camp)
+
+#Si può vedere che negli anni le squadre tendono a scambiare sempre meno i giocatori con squadre dello stesso campionato
+ggplot(ass_season_camp, aes(x = seasonsVett, y = assit_camp)) +
+  geom_bar(stat = "identity", fill = "#69b3a2", color = "black")  +  
+  geom_smooth(aes(group = 1), color = "red", method = "loess", se = FALSE, size = 1) + 
+  labs(title = "Evoluzione dell'assortatività per campionato nelle varie stagioni",
+       x = "Valore del vettore",
+       y = "Assortatività") +
+  theme_minimal()  +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1),
+    axis.text.y = element_text(size = 10),
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 16),
+    panel.grid.major = element_line(color = "gray85"),
+    panel.grid.minor = element_blank()
+  )
+
+network_metrics_per_season <- edges %>%
+  group_by(season) %>%
+  do({
+    df <- .
+    # Creiamo il grafo con direzione: from_club --> to_club
+    g <- graph_from_data_frame(df %>% select(from, to), directed = TRUE)
+    
+    data.frame(
+      season = unique(df$season),
+      num_clubs = vcount(g),              # numero di nodi
+      num_transfers = ecount(g),          # numero di archi
+      density = edge_density(g),          # densità del grafo
+      avg_in_degree = mean(igraph::degree(g, mode = "in")),   # grado medio in ingresso
+      avg_out_degree = mean(igraph::degree(g, mode = "out"))  # grado medio in uscita
+    )
+  }) %>%
+  ungroup()
+
+
+#NUMERO CLUB COINVOLTI PER STAGIONE
+ggplot(network_metrics_per_season, aes(x = season, y = num_clubs, group = 1)) +
+  geom_line(color = "#69b3a2",size=2) +
+  geom_point() +
+  theme_minimal() +
+  labs(
+    title = "Numero di club coinvolti nel mercato per stagione",
+    x = "Stagione",
+    y = "Numero sqaudre"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1))
+
+transfers_by_season <- edges %>%
+  group_by(season) %>%
+  summarise(
+    num_transfers = n(),
+    total_fee = sum(cost, na.rm = TRUE)  
+  ) %>%
+  ungroup()
+
+#Numero di trasferimenti nel tempo
+ggplot(transfers_by_season, aes(x = season, y = num_transfers, group = 1)) +
+  geom_line(color = "#69b3a2",size=2) +
+  geom_point(color = "black") +
+  theme_minimal() +
+  labs(
+    title = "Numero di trasferimenti per stagione",
+    x = "Stagione",
+    y = "Numero trasferimenti"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) 
+```
+
+## Com'è cambiato il valore dei trasferimenti nei top 5 campionati?
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE}
+
+edges_join <- edges %>%
+  left_join(nodes %>% select(team_name, team_league), by = c("from" = "team_name"))
+
+edges_join <- edges_join %>%
+  left_join(nodes %>% select(team_name, team_league), by = c("to" = "team_name"), suffix = c("_from", "_to"))
+
+transfers_by_season_league <- edges_join %>%
+  group_by(season, team_league_to) %>%
+  filter(team_league_to == "Serie A" | team_league_to == "Premier League" | team_league_to == "LaLiga" | team_league_to == "Bundesliga" | team_league_to == "Ligue 1") %>%
+  summarise(
+    num_transfers = n(),
+    total_fee = sum(cost, na.rm = TRUE)
+  ) %>%
+  ungroup()
+
+manual_colors <- c(
+  "Bundesliga" = "#9c0000",     
+  "Premier League" = "#6700ff",    
+  "Serie A" = "#00a9ff",
+  "LaLiga" = "#ff8502",
+  "Ligue 1" = "#aedb00"
+)
+
+# Visualizziamo come cambia il numero di trasferimenti per ciascuna lega
+ggplot(transfers_by_season_league, aes(x = season, y = total_fee,
+                                       group = team_league_to, color = team_league_to)) +
+  geom_line(linewidth=2) +
+  geom_point() +
+  theme_minimal() +
+  labs(
+    x = "Stagione",
+    y = "Spesa trasferimenti"
+  ) +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_y_continuous(labels = function(x) paste0(round(x / 1e6, 1), " mln")) +
+  scale_fill_manual(name = "Campionato", values = manual_colors) +
+  scale_color_manual(name = "Campionato", values = manual_colors) 
+
+
+g_undirected <- as_undirected(grafoF, mode = "each")
+
+#Calcola le comunità all'interno del grafo non orientato utilizzando l'algoritmo di Louvain.
+com <- cluster_louvain(g_undirected)
+V(g_undirected)$community <- membership(com) #Associo il valore di comunità ad ogni nodo
+
+g_df <- as_tbl_graph(g_undirected) %>% 
+  mutate(community = as.factor(membership(cluster_louvain(.))))
+
+nodes_df <- data.frame(
+  team = V(g_undirected)$name,
+  country = V(g_undirected)$team_country,
+  community = V(g_undirected)$community
+)
+
+#Raggruppo i nodi per "community" e "country" e conto il numero di nodi per ciascuna combinazione.
+conteggio_nazionalita <- nodes_df %>%
+  group_by(community, country) %>%
+  summarise(n = n(), .groups = "drop")
+
+#Per ogni comunità, calcolo la percentuale di club che appartengono a ciascun paese.
+conteggio_nazionalita <- conteggio_nazionalita %>%
+  group_by(community) %>%
+  mutate(percentuale = n / sum(n) * 100)
+
+#Mantengo per ogni comunità solo le top 3 nazioni
+nazionalita_top3 = conteggio_nazionalita %>%
+  arrange(community,desc(percentuale)) %>%
+  group_by(community) %>%
+  slice_head(n = 3) %>%
+  mutate(rank = row_number()) %>%
+  ungroup()
+
+nazionalita_pivot = nazionalita_top3 %>%
+  select(community,rank,country,percentuale) %>%
+  pivot_wider(names_from = rank, values_from = c(country,percentuale), names_prefix = "pos_")
+
+nazionalita_pivot  = as.data.frame(nazionalita_pivot)
+
+nazionalita_pivot <- nazionalita_pivot %>%
+  rename(
+    Comunità = community,
+    Naz_1 = country_pos_1,
+    Naz_2 = country_pos_2,
+    Naz_3 = country_pos_3,
+    Perc_1 = percentuale_pos_1,
+    Perc_2 = percentuale_pos_2,
+    Perc_3 = percentuale_pos_3,
+  )
+
+
+nazionalita_pivot %>%
+  gt() %>%
+  tab_header(
+    title = "Nazionalità più frequenti per ciascuna comunità"
+  ) %>%
+  fmt_number(
+    columns = c(Perc_1,Perc_2,Perc_3),  # Colonna da formattare
+    decimals = 1     # Numero di decimali
+  ) 
+
+
+mod_value <- modularity(com)  
+
+memb <- membership(com)
+
+V(g_undirected)$community <- memb 
+
+nodi_da_rimuovere <- which(membership(com) == 8)
+
+g_filtrato <- delete_vertices(g_undirected, nodi_da_rimuovere)
+
+df_clubs <- data.frame(
+  club      = V(g_undirected)$name,
+  country   = V(g_undirected)$team_country,
+  community = V(g_undirected)$community
+)
+
+df_composition <- df_clubs %>%
+  group_by(community, country) %>%
+  summarise(num_clubs = n(), .groups = "drop") %>%
+  arrange(community, desc(num_clubs))
+
+
+#Creo un vettore per salvare i risultati
+bridge_ratio <- numeric(vcount(g_undirected))
+
+#Iterazione su tutti i nodi
+for (v in V(g_undirected)) {
+  
+  #Cerco gli archi in uscita da v
+  out_edges <- incident(g_undirected, v, mode = "out")
+  total_out <- length(out_edges)
+  
+  if (total_out == 0) { #Se il nodo non ha trasferimenti in uscita
+    
+    bridge_ratio[v] <- 0 
+  } else {
+    
+    #Per gli archi in uscita, ottengo i nodi di destinazione utilizzando la funzione 'head_of'
+    #head_of restituisce il nodo verso cui punta ciascun arco
+    e_to <- head_of(g_undirected, out_edges)
+    
+    #COmunità dei nodi di destinazione e del nodo from
+    to_community <- memb[e_to]
+    from_community <- memb[v]
+    
+    #Calcolo il numero di archi in uscita che conducono a nodi appartenenti a una comunità diversa da quella di v
+    cross_count <- sum(to_community != from_community)
+    
+    #Calcolo bridge_ration come rapporto tra archi che vanno a comunità diverse e archi totali in uscita di un nodo
+    bridge_ratio[v] <- cross_count / total_out
+  }
+}
+
+#Definisco una soglia per identificare i nodi "ponte
+threshold <- 0.85
+club_ponte_ids <- which(bridge_ratio > threshold) #Trovo i nodi con bridge_ratio superiore alla soglia
+club_ponte_names <- V(g_undirected)$name[club_ponte_ids]
+
+df_bridge <- data.frame(
+  club = V(g_undirected)$name,
+  community = memb,
+  out_ratio = bridge_ratio,
+  country = as.factor(V(g_undirected)$team_country)
+)
+
+df_bridge <- df_bridge[order(-df_bridge$out_ratio), ] # ordiniamo per ratio decrescente
+
+df_bridge$bridge_type <- ifelse(
+  df_bridge$out_ratio > threshold,
+  "Ponte (out_ratio > 85%)",
+  "Non ponte"
+)
+
+df_bridge_plot <- df_bridge %>%
+  filter(out_ratio > 0.85) %>%
+  arrange(desc(out_ratio))
+
+Comunità = as.factor(df_bridge_plot$community)
+
+ggplot(df_bridge_plot, 
+       aes(x = reorder(club, out_ratio), y = out_ratio, fill = Comunità)) +
+  labs(
+    y = "Percentuale di trasferimenti con altre comunità",
+    x = "Squadra",
+    color = "Comunità"
+  ) +
+  geom_col() +   # o geom_bar(stat = "identity")
+  coord_flip() +
+  theme_minimal()
+
+set.seed(45)
+
+team_name_to_search <- "Bristol Rovers" 
+
+#Trovo l'ID del nodo corrispondente al nome del team
+node_id <- which(V(g_undirected)$name == team_name_to_search)
+
+#Verifico se il nodo esiste
+if (length(node_id) == 0) {
+  stop("Team non trovato nel grafo")
+}
+
+#Trovo i vicini del nodo specificato
+neigh <- neighborhood(g_undirected, nodes = node_id, order = 1)
+
+neigh_nodes <- unlist(neigh)
+
+subgraph <- induced_subgraph(g_undirected, neigh_nodes)
+
+V(subgraph)$community <- as.factor(V(subgraph)$community)
+
+ggraph(subgraph, layout = "graphopt") + 
+  geom_edge_link(aes(edge_alpha = 0.5), color = "gray", width=0.5) +
+  geom_node_point(aes(color = community), size = 3,show.legend = TRUE) +    
+  geom_node_text(aes(label = name), vjust = 1.5) +          
+  theme_void() +                                            
+  theme(legend.position = "none") 
+
+club_spend <- edges %>%
+  group_by(to) %>%
+  summarise(total_in_fee = sum(cost, na.rm = TRUE)) %>%
+  ungroup() %>%
+  rename(club = to)
+
+#Funzione che classifica un club in PICCOLO, MEDIO, GRANDE in base al totale speso sul mercato
+
+classify_club_type <- function(fee) {
+  if (fee < 2e7) {
+    return("Piccolo")
+  } else if (fee >= 2e7 && fee < 7.4768e8) {
+    return("Medio")
+  } else {
+    return("Grande")
+  }
+}
+
+#Applico la funzione ad ogni nodo del grafo
+club_spend <- club_spend %>%
+  mutate(club_type = sapply(total_in_fee, classify_club_type))
+
+#Faccio la join per i club from e to con il dataset appena creato
+df_types <- edges %>%
+  left_join(club_spend %>% select(club, club_type), 
+            by = c("from" = "club")) %>%
+  rename(from_type = club_type) %>%
+  left_join(club_spend %>% select(club, club_type), 
+            by = c("to" = "club")) %>%
+  rename(to_type = club_type)
+
+#Se qualche club non è presente in 'club_spend' gli NA che vengono sostituiti con Sconosciuto
+df_types <- df_types %>%
+  mutate(
+    from_type = ifelse(is.na(from_type), "Sconosciuto", from_type),
+    to_type   = ifelse(is.na(to_type),   "Sconosciuto", to_type)
+  )
+
+#Conto quanti trasferimenti ci sono per ogni (from_type, to_type)
+transfer_type_counts <- df_types %>%
+  group_by(from_type, to_type) %>%
+  summarise(num_transfers = n(), .groups = "drop")
+
+#Escludo club con tipo Sconosciuto
+transfer_type_counts <- transfer_type_counts %>% filter(from_type != "Sconosciuto" & to_type != "Sconosciuto")
+
+nodes2 <- data.frame(
+  name = unique(c(transfer_type_counts$from_type, transfer_type_counts$to_type))
+)
+
+df_links <- transfer_type_counts %>%
+  mutate(
+    Source = match(from_type, nodes2$name) - 1,   
+    Target = match(to_type,   nodes2$name) - 1,   
+    Value  = num_transfers
+  )
+
+types <- c("Piccolo", "Medio", "Grande")
+
+#Matrice 3x3 inizializzata a zero, con righe e colonne etichettate con le tipologie
+mat_chord <- matrix(0, nrow = 3, ncol = 3, dimnames = list(types, types))
+
+#Popolo la matrice assegnando il numero di trasferimenti per ogni coppia (ft,tt)
+for (i in 1:nrow(df_links)) {
+  ft <- df_links$from_type[i] #tipologia club partenza
+  tt <- df_links$to_type[i] #tipologia club destinazione
+  
+  if (is.na(ft) | is.na(tt)) {
+    print(paste("Errore: NA trovato in riga", i))
+  } else if (!(ft %in% rownames(mat_chord) & tt %in% colnames(mat_chord))) {
+    print(paste("Errore: Categoria non trovata ->", ft, "->", tt))
+  } else {
+    mat_chord[ft, tt] <- df_links$num_transfers[i]
+  }
+}
+
+set.seed(75)
+
+# Puliamo eventuali impostazioni o tracciati precedenti
+circos.clear()
+
+#Creazione diagramma a corda utilizzando la matrice 
+chordDiagram(
+  x = mat_chord,
+  directional = 1,                    
+  direction.type = c("diffHeight", "arrows"), 
+  grid.col = c("Piccolo" = "#009900",         
+               "Medio"   = "#ff704d",         
+               "Grande"  = "#0000ff"),        
+  link.lwd = 2,                              
+  link.lty = 1,                            
+)
+
+transfers_country <- edges %>%
+  left_join(nodes, by = c("to" = "team_name")) %>%
+  rename(to_country = team_country, to_league = team_league) %>%
+  group_by(nationality, to_country) %>%
+  summarise(count_transfers = n(), .groups = "drop") %>% #Calcolo del numero di trasferimenti per ciascuna combinazione di nazionalità e paese di destinazione
+  arrange(desc(count_transfers))
+
+#Top 8 nazionalità
+top_nat <- transfers_country %>%
+  count(nationality, wt = count_transfers) %>%
+  top_n(8, n) %>%
+  pull(nationality)
+
+#Top 8 destinazioni
+top_countries <- transfers_country %>%
+  count(to_country, wt = count_transfers) %>%
+  top_n(8, n) %>%
+  pull(to_country)
+
+#Tengo solo trasferimenti in cui nazionalità è tra le top e destinazione è tra le top
+df_sud_flow <- transfers_country %>%
+  filter(
+    nationality %in% top_nat,
+    to_country %in% top_countries
+  )
+
+df_alluvial_3axes <- df_sud_flow %>%
+  rename(
+    Nazionalità = nationality,
+    axis3 = to_country,
+    freq  = count_transfers
+  )
+
+ggplot(data = df_alluvial_3axes,
+       aes(axis1 = Nazionalità , axis2 = axis3 , y = freq)) +
+  geom_alluvium(aes(fill = Nazionalità), width = 1/12) +
+  geom_stratum(width = 1/12, fill = "grey", color = "black") +
+  geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3) +
+  scale_x_discrete(limits = c("Nazionalità", "PaeseDest")) +
+  theme_minimal() +
+  labs(
+    title = "Flussi dei giocatori per nazionalità",
+    y = "Numero di trasferimenti"
+  )
+
+sa_countries <- c("Argentina", "Brazil", "Chile","Uruguay", 
+                  "Colombia")
+
+dest_countries <- c("Argentina", "Brazil",  
+                    "Colombia","Italy","Spain","Turkey","England","Portugal","France","Germany","Russia")
+
+#Tengo solo trasferimenti in cui nazionalità e destinazioni sono nei vettori precedenti
+df_sud_flow <- transfers_country %>%
+  filter(
+    nationality %in% sa_countries,
+    to_country %in% dest_countries
+  )
+
+
+df_alluvial_3axes <- df_sud_flow %>%
+  rename(
+    Nazionalità = nationality,
+    axis3 = to_country,
+    freq  = count_transfers
+  )
+
+ggplot(data = df_alluvial_3axes,
+       aes(axis1 = Nazionalità , axis2 = axis3 , y = freq)) +
+  geom_alluvium(aes(fill = Nazionalità), width = 1/12) +
+  geom_stratum(width = 1/12, fill = "grey", color = "black") +
+  geom_text(stat = "stratum", aes(label = after_stat(stratum)), size = 3) +
+  scale_x_discrete(limits = c("Nazionalità", "PaeseDest")) +
+  scale_fill_manual(values = c("Argentina" = "#ff0000", "Brazil" = "#108c00", "Colombia" = "#ff7500", "Chile" = "#8100ff", "Uruguay" = "#006cff")) +
+  theme_minimal() +
+  labs(
+    title = "Flussi dei giocatori di nazionalità sudamericana",
+    y = "Numero di trasferimenti"
+  )
